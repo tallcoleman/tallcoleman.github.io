@@ -1,0 +1,4 @@
+Sitemap: https://tallcoleman.me/sitemap.xml
+
+User-agent: *
+Disallow: /VAULT5/HOME5$/strongme/OVPS/media%20requests/uoft.me/

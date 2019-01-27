@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title>Liberating My Media Files From Wordpress</title>
+  
+  
+  <meta name="description" content="Introduction">
+   -->
+
+  <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/favico.png">
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html">
+  <link rel="alternate" type="application/rss+xml" title="tallcoleman" href="/feed.xml">
+  
+  
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Liberating My Media Files From Wordpress | tallcoleman</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Liberating My Media Files From Wordpress" />
+<meta name="author" content="Ben Coleman" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Introduction" />
+<meta property="og:description" content="Introduction" />
+<link rel="canonical" href="http://localhost:4000/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html" />
+<meta property="og:url" content="http://localhost:4000/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html" />
+<meta property="og:site_name" content="tallcoleman" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-03-27T00:00:00-04:00" />
+<script type="application/ld+json">
+{"description":"Introduction","author":{"@type":"Person","name":"Ben Coleman"},"@type":"BlogPosting","url":"http://localhost:4000/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html","headline":"Liberating My Media Files From Wordpress","dateModified":"2017-03-27T00:00:00-04:00","datePublished":"2017-03-27T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">tallcoleman</a>
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        
+          
+            
+              <a class="page-link" href="/about/">About</a>
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+        <a class="page-link" href="#contact">Contact</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Liberating My Media Files From Wordpress</h1>
+    <p class="post-meta"><time datetime="2017-03-27T00:00:00-04:00" itemprop="datePublished">Mar 27, 2017</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ben Coleman</span></span></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <h2 id="introduction">Introduction</h2>
+
+<p>Jekyll has lots of good importers for migrating posts from WordPress sites, but the task of bringing over your assets (files, images, etc.) is something you have to do yourself. If you plan on keeping your WordPress site running, your migrated posts will still be able to serve their assets correctly, but it’s much better to have assets fully integrated into your site, instead of being served from an external URL.</p>
+
+<p>This post has instructions for one simple-ish way of getting all the files that are used in your WordPress posts. It works for Linux and should be pretty easy in OSX (you might have to install tools like wget if you don’t have that already.) Sorry Windows users–I know Jekyll is already hard for you<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. Once you have downloaded all the files, you can choose how you want to integrate them into your Jekyll site.</p>
+
+<h2 id="setup">Setup</h2>
+
+<p>First, you need to migrate your posts from WordPress. There are multiple ways to do this listed on the Jekyll website for both <a href="http://import.jekyllrb.com/docs/wordpress/">self-hosted WordPress</a> and <a href="http://import.jekyllrb.com/docs/wordpressdotcom/">WordPress.com blogs</a>. I used <a href="https://github.com/thomasf/exitwp">exitwp</a> since I had a WordPress.com blog and wanted to keep all my metadata.</p>
+
+<h2 id="extracting-the-assets-used-in-your-posts">Extracting the Assets Used in Your Posts</h2>
+
+<p>Start by navigating to the directory that contains all your migrated WordPress posts. You’ll need to figure out the general structure of asset links in the posts. For me, the asset links looked like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- [U of T Publications with Intl Coauthors](http://tallcoleman.files.wordpress.com/2014/05/u-of-t-publications-with-intl-coauthors2.png?w=625)
+
+- [Letter from Brad Duguid](http://tallcoleman.files.wordpress.com/2014/02/signedcopy-262605.pdf)
+
+- [Transcription of John Tory Interview](http://tallcoleman.files.wordpress.com/2013/10/transcription-of-john-tory-interview-03.docx)
+</code></pre></div></div>
+
+<h3 id="grep-asset-urls">Grep Asset URLs</h3>
+
+<p>To pull out all the asset links, I used grep, with the output streamed to a text file. In this case it looks for links that start with the asset base url and end with either <code class="highlighter-rouge">)</code> or <code class="highlighter-rouge">?</code>. Another way to do it would be to use a list of file extensions to find the end of each link.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">grep</span> <span class="nt">-rio</span> <span class="s2">"http://tallcoleman.files.wordpress.com[^</span><span class="se">\)\?</span><span class="s2">]*[</span><span class="se">\)\?</span><span class="s2">]"</span> <span class="o">&gt;</span> WpFileLinks1.txt
+</code></pre></div></div>
+
+<p>There were two image links ending in ‘”&lt;’ that I missed but no big deal. In my case, there were no https links so if you have those, try “http[s]:// …” instead to catch both http:// and https:// asset links.</p>
+
+<h3 id="processing-the-grep-output">Processing the Grep Output</h3>
+
+<p>I don’t remember why I ran this command. Something to do with line breaks, I think.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sed <span class="s1">'s/.$//'</span> WpFileLinks1.txt <span class="o">&gt;</span> WpFileLinks2.txt
+</code></pre></div></div>
+
+<p>I wrote in my notes “There is a recursiveness problem which I don’t quite know how to fix.” I can’t remember what that meant, but I’ll try this all again at some point to finish writing up proper instructions. In any case, it shouldn’t prevent you from continuing on:</p>
+
+<p>This command removes the file references from the grep output. I’m sure there must be a better way of doing this, but this (mostly) worked for me:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sed <span class="s1">'s|.*:h\(.*\)|\1|'</span> WpFileLinks2.txt <span class="o">&gt;</span> WpFileLinks3.txt
+</code></pre></div></div>
+
+<p>I had to go add the h’s back in using find-and-replace to substitute ‘ttp://’ with ‘http://’. (I told you it’s not a very good method). I should go learn the proper syntax for <code class="highlighter-rouge">sed</code> later.</p>
+
+<h3 id="downloading-your-files">Downloading Your Files</h3>
+
+<p>And now the <strong>magic</strong> happens:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget <span class="nt">-i</span> ~/Documents/tallcoleman.github.io/WpFileLinks3.txt
+</code></pre></div></div>
+
+<p>the <code class="highlighter-rouge">-i</code> flag tells wget to get the list of URLs from our file.</p>
+
+<p>Nice folder of files!</p>
+
+<p><img src="http://localhost:4000/assets/Images/Screenshot from 2017-03-27 21-40-45.png" alt="Screenshot of downloaded Wordpress Files" /></p>
+
+<p>I’ll have to decide later if I want to fully integrate them with my separated assets folder, or just keep them in the same folder to make swapping out the links easier.</p>
+
+<h2 id="final-step-swap-out-the-asset-links-in-your-imported-wordpress-posts">Final Step: Swap Out the Asset Links in Your Imported WordPress Posts</h2>
+
+<p>What worked for me so far was doing find and replace using regex in Atom:</p>
+
+<p>Find:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>http://tallcoleman.files.wordpress.com/[0-9]<span class="o">{</span>4<span class="o">}</span>/[0-9]<span class="o">{</span>2<span class="o">}</span>/
+</code></pre></div></div>
+
+<p>Replace:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>http://localhost:4000/assets/WpAssets/
+</code></pre></div></div>
+
+<p>There are still some php suffixes remaining but Jekyll just ignores them, so I’ve only removed them if I catch them in the wild, though finding them with regex shouldn’t be too hard if you want to make sure you’ve removed them all.</p>
+
+<p>If you have suggestions for ways I can do this less badly, hit me up at ben[dot]coleman[at]mail[dot]utoronto[dot]ca or on <a href="https://twitter.com/tallcoleman">Twitter</a>.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>I actually run Windows, but honestly it’s easier to run Ubuntu in a VM than to get Ruby to play nice with Windows. Works well enough for me, and since I deployed the site in github pages, I can still write posts in the browser on github or push them from Windows without running <code class="highlighter-rouge">jekyll serve</code> locally. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+<!--
+For both, need to add meta properties
+<p>Tags:
+    <ul>
+      
+    </ul>
+  </p>
+-->
+
+<!--
+  <p>Tags: </p>
+-->
+
+  
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+<!--    <h2 class="footer-heading">tallcoleman</h2>-->
+
+  <a id="contact"></a>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            
+              Ben Coleman
+            
+            </li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li>Contact:</li>
+          
+
+          
+          <li>
+            <a href="https://www.linkedin.com/in/tallcoleman">
+  <span class="icon icon--linkedin"><svg viewBox="0 0 16 16" width="16px" height="16px">
+        <path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51v1.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"/>
+      </svg>
+</span>
+  <span class="username">tallcoleman</span>
+</a>
+
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/tallcoleman"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">tallcoleman</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>A Blog on Politics and Nature
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96738049-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+
+</html>
