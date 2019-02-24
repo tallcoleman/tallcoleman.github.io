@@ -132,16 +132,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(700px - (30px * 2));
+  max-width: calc(700px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 700px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(700px - (30px));
+      max-width: calc(700px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -281,7 +281,7 @@ pre {
   width: -webkit-calc(45% - (30px / 2));
   width: calc(45% - (30px / 2)); }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (30px / 2));
@@ -328,7 +328,7 @@ pre {
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 700px) {
     .post-title {
       font-size: 36px; } }
 
@@ -337,14 +337,14 @@ pre {
   .post-content h2 {
     font-size: 32px;
     font-family: "Franklin Gothic", Helvetica, Arial, sans-serif; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h2 {
         font-size: 28px; } }
   .post-content h3 {
     font-size: 26px;
     color: #555;
     font-family: "Franklin Gothic", Helvetica, Arial, sans-serif; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h3 {
         font-size: 22px; } }
   .post-content h4 {
@@ -352,7 +352,7 @@ pre {
     color: #555;
     font-family: "Franklin Gothic", Helvetica, Arial, sans-serif;
     font-style: italic; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h4 {
         font-size: 18px; } }
 
@@ -498,7 +498,7 @@ pre {
     color: #099; }
 
 span.category {
-  background: #bbbbbb;
+  background: #eeeeee;
   padding: 4px;
   /* replace with relative */
   border-radius: 4px;
@@ -532,3 +532,78 @@ span.utsu {
 span.tiff {
   background: #e67e22;
   color: #FFF; }
+
+span.tso {
+  background: #DA1512;
+  color: #FFF; }
+
+.panel {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); }
+
+.panel-heading {
+  padding: 10px 15px;
+  margin: -15px -15px 15px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px; }
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 17.5px;
+  font-weight: 500; }
+
+.panel-footer {
+  padding: 10px 15px;
+  margin: 15px -15px -15px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px; }
+
+.panel-primary {
+  border-color: #428bca; }
+
+.panel-primary .panel-heading {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #428bca; }
+
+.panel-success {
+  border-color: #d6e9c6; }
+
+.panel-success .panel-heading {
+  color: #468847;
+  background-color: #dff0d8;
+  border-color: #d6e9c6; }
+
+.panel-warning {
+  border-color: #fbeed5; }
+
+.panel-warning .panel-heading {
+  color: #c09853;
+  background-color: #fcf8e3;
+  border-color: #fbeed5; }
+
+.panel-danger {
+  border-color: #eed3d7; }
+
+.panel-danger .panel-heading {
+  color: #b94a48;
+  background-color: #f2dede;
+  border-color: #eed3d7; }
+
+.panel-info {
+  border-color: #bce8f1; }
+
+.panel-info .panel-heading {
+  color: #3a87ad;
+  background-color: #d9edf7;
+  border-color: #bce8f1; }
