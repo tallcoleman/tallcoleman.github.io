@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-02-23T21:10:56-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Toronto Beltline Trail via BikeShare</title><link href="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html" rel="alternate" type="text/html" title="Toronto Beltline Trail via BikeShare" /><published>2018-08-26T00:00:00-04:00</published><updated>2018-08-26T00:00:00-04:00</updated><id>https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare</id><content type="html" xml:base="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html">&lt;p&gt;&lt;img src=&quot;/assets/Images/Ronald-Ave-Station.JPG&quot; alt=&quot;Image of Bikeshare Bike next to sign titled Ronald Avenue Station&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-02-24T15:18:20-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Grant Portal Limitations - Intro</title><link href="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html" rel="alternate" type="text/html" title="Grant Portal Limitations - Intro" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html">&lt;p&gt;I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.&lt;/p&gt;
+
+&lt;p&gt;Hence my topic today: in the last several years, many government ministries and agencies who give out grants (I’ll call them “funders”) have transitioned away from using forms made in Microsoft Word or Adobe Acrobat and have started using web portals. As a grant writer, I spend a lot of time using these portals. And they generally suck.&lt;/p&gt;
+
+&lt;p&gt;The quality of most mass-market web applications creates a false sense of security. Google Docs is so consistent with saving your work that it takes effort to actually lose something you’ve written. Products like Dropbox have whole teams of user experience designers who work to ensure that their service is intuitive and easy to use. Grant Portals, on the other hand, are usually implemented by government agencies who do not have a lot of people and money to throw towards IT. If a grant portal is reasonably functional and reliable, it’s already doing well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Microsoft-Word-Canada-Council-Application.png&quot; alt=&quot;Screenshot of Microsoft Word. The document being worked on is an application form for travel funding from the Canada Council for the Arts.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Microsoft Word: still the worst way to write a grant, except for all the others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Perhaps the biggest problem for a grant writer is that most grant portals are not designed with them in mind. In a lot of ways, the most user-friendly grant application software is still Microsoft Word. No, grant portals are there because they are meant to make life easier for the &lt;em&gt;funder&lt;/em&gt;. It’s a lot easier to manage and sort through hundreds (or maybe even thousands) of applications if they’re in a database. It’s the same reason some employers have job application sites where you have to re-write out your resume into their online form. It makes their work simpler, at your expense.&lt;/p&gt;
+
+&lt;p&gt;At surface level, I am going to gripe about all the things I find frustrating about grant portals. I have so many gripes, in fact, that I’ve decided to make this a multi-part series. Perhaps it will be enjoyable, cathartic reading if you too write grants. If you work for a funder, or design grant portal software, perhaps it will be useful user feedback.&lt;/p&gt;
+
+&lt;p&gt;However, I have a loftier goal in mind. Even if you don’t write grant applications or give out grants, they are an incredibly important part of how our civil society functions. Through grant applications, government gives resources to all manner of people, companies, and non-profits. Grant applications are also one of the most common ways that government communicates with the people it gives money to and holds them accountable. The design of grant portals says a lot about who government gives priority to (and who it doesn’t) and what relationship they have.&lt;/p&gt;
+
+&lt;p&gt;Grant portals are also an interesting study in how technology shapes the way we communicate. The tools we use to communicate often change what we say, how we say it, and how it is received. I have lots of interesting examples of that to share with you later in this series.&lt;/p&gt;
+
+&lt;p&gt;But before that… on with the gripes!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><summary type="html">I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry><entry><title type="html">Toronto Beltline Trail via BikeShare</title><link href="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html" rel="alternate" type="text/html" title="Toronto Beltline Trail via BikeShare" /><published>2018-08-26T00:00:00-04:00</published><updated>2018-08-26T00:00:00-04:00</updated><id>https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare</id><content type="html" xml:base="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html">&lt;p&gt;&lt;img src=&quot;/assets/Images/Ronald-Ave-Station.JPG&quot; alt=&quot;Image of Bikeshare Bike next to sign titled Ronald Avenue Station&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Ronald Ave E - The Turning Around Point&lt;/p&gt;
@@ -930,74 +950,4 @@ birds.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><c
 
 &lt;p&gt;I think Pearl Miller was my favourite interviewee. She’s an incredibly funny and deeply impressive person.&lt;/p&gt;
 
-&lt;p&gt;You can also read the post here: &lt;a href=&quot;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&quot;&gt;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Portfolio" /><category term="Bloor-Yorkville 2016" /><summary type="html">This is a list of Blog posts I wrote for the Bloor-Yorkville Business Improvement Area in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/YECS-Wrap-Up-Contest-Sponsors-Graphic.png" /></entry><entry><title type="html">Pearl Miller: La Chance Owner, Dress Superhero</title><link href="https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html" rel="alternate" type="text/html" title="Pearl Miller: La Chance Owner, Dress Superhero" /><published>2016-09-08T00:00:00-04:00</published><updated>2016-09-08T00:00:00-04:00</updated><id>https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero</id><content type="html" xml:base="https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html">&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Cover-Photo-Edited-1766031170.jpg&quot; alt=&quot;Cover Photo&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This article originally appeared on the &lt;a href=&quot;http://bloor-yorkville.com/pearl-miller-la-chance-owner-dress-superhero/&quot;&gt;Bloor-Yorkville BIA Blog&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pearl Miller almost missed her calling. After separating from her husband, the continued boredom of a fourteenth year working for the federal government was off the table, as she found herself wanting to do something more ambitious. She started staying up late, making batches of clothes in her house, and throwing a party every couple of months to sell them to friends. Yet, when she finally made her move and quit her job, fashion wasn’t the first thing she had in mind for her business:&lt;/p&gt;
-
-&lt;p&gt;“I went to the bank one day and I spoke to the manager” she tells me. “I said ‘I want to have a very unique little restaurant’ he said ‘oh, I don’t know, restaurants are very… lots of failures. What else are you interested in?’ I said ‘Fashion? That’s my next thing.’ So he said ‘I know somebody on Charles Street who’s closing their business. Would you like to open up at number 5? A little tiny place.’ So he left the bank and brought me down to 5 Charles Street West. And I said ‘I think this is ideal. This is exactly what I want to do!’ and he had me speak to the woman who owned it, and in a very short time, I opened my shop in April 1988. In the midst of the &lt;em&gt;real&lt;/em&gt; recession.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Pearl-and-Photo-Book-1024x768.jpg&quot; alt=&quot;Photo of Pearl with a Photo Album of Dresses&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pearl with her photo collection: dresses and clients from over the years.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;She asks me if I remember the ’88 recession. I don’t. She and her friend laugh. At that point, I was just a doodle on a love note I found as a teenager, in one of my mother’s university textbooks. However, Black Monday, the savings and loans crisis—that defined my birth (in Barbados because engineering jobs in Canada were scarce in the early 90’s). It defined the birth of La Chance as well: Pearl tells me a friend suggested the name while they were shopping, looking for some hats to sell in the store:&lt;/p&gt;
-
-&lt;p&gt;“I said ‘I don’t even have a name for the store!’ I have no idea, I just wanted something Japanese or whatever, and she was from France, and she was really nice, and I said ‘everyone’s telling me it’s a bad time to open a business in ’88, and the recession is really deep… but I think this is the right time’ and she said ‘you need something that says &lt;em&gt;luck&lt;/em&gt;’, which is ‘La Chance’ [in French] and that’s how the name came to be.”&lt;/p&gt;
-
-&lt;p&gt;Perhaps it’s luck that La Chance, with a stunning array of hand-made gowns, skirts, and blazers is still going strong today. I choose to believe it’s Pearl’s creative mind and immense talent for customer service. “I love people. I’m good with people” she tells me. This is an understatement. She’s showing a shimmering green dress to a customer while I interview her, and despite my interruptions, she’s clearly helping the woman fall deeply in love with it. When the woman leaves, her parting words are “I am so glad that I discovered this shop.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Store-Display-Mannequins-1024x768.jpg&quot; alt=&quot;Photo of Dresses on display at the front of the store&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dresses on display at the front of the store&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pearl mentions that she once made a whole wardrobe for a customer who went on a cruise. I call the customer later: “Her service is amazing. It’s a very special store. I’m quite a shopper—if it’s not with Pearl, it’s at Holt Renfrew or Andrew’s. It’s that level of store.” The cruise wardrobe that Pearl created for her wasn’t just a simple collection either: it had “ball gowns and costumes for 99 days, with 33 formal nights and 10 or 12 themes that you needed costumes for. I was certainly the star of the ship.” She says that pearl knows her customers so well, that once you’re a regular, you can just walk in and Pearl will show you things that she’s already been thinking will look good on you. “You know, I’ve never gone in there and bought nothing.”&lt;/p&gt;
-
-&lt;p&gt;My real mission is to see Pearl’s workshop in the basement of her current location—13 Charles Street—and understand her creative process. She makes all of the garments from scratch, using her own designs. She leads me down the narrow staircase from the shop floor to show me where the clothes are made. She has three people working downstairs at the moment: one woman who travels in part time to help with the sewing, another at the cutting table setting out pattern pieces, and a third person working with the fabric. This invisible army is part of the shop’s unique approach to customer service: when you try on a dress, Pearl shows you how she’ll do the alterations so that it fits just right on your body.&lt;/p&gt;
-
-&lt;p&gt;I ask how she comes up with her designs. Unlike many designers, Pearl looks for the fabric first before making sketches. “You have to fall in love with the fabric. You have to really like it… to know what to do with it” she says. Often, she doesn’t know what to make out of a fabric she loves, but will wake up in the middle of the night with an idea and start sketching. She shows me a photo of a dress she made for an AIDS benefit years ago: a mostly see-through creation made of black chiffon with hoops and taping for structure. She tells me the fabric was a challenge at first, but after letting her mind wander, while waiting for a doctor’s appointment, she rushed back with inspiration and started sketching with her pattern-maker.&lt;/p&gt;
-
-&lt;p&gt;Pearl has participated in many charity events: from multiple benefits for people living with HIV/AIDS to a fashion show for domestic abuse survivors. She shows me some of her creations from the early 90’s: a flowing white dress and an absolutely bonkers all-denim dress with a ruffled, hooped skirt and a hat that is almost indescribable (and probably just as difficult to wear).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Dress-COLLAGE-1024x768.jpg&quot; alt=&quot;Photo of Two dresses made by Pearl for an AIDS benefit&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Two dresses made by Pearl for an AIDS benefit&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I keep trying to ask questions that will help me explain how inspiring I find her story to be, but Pearl isn’t having it—she talks as if coming from Jamaica to Canada and starting a business, as a mother of two, mid-life is just something you wake up in the morning and do, so I try a different approach. What advice would she give to other aspiring small business owners?&lt;/p&gt;
-
-&lt;p&gt;“Be organized. Know what you’re doing, know what your staff is doing, and be prepared… The second thing is client service. I really think that in order to stay in business you have to 200% look after your clients. They have to feel that when they come in here, this is a warm place, a comfortable place, and that you’re honest and truthful in what you’re telling them.” I ask if she would tell a customer if a dress wasn’t the right look for them. She would. “I never want a customer to come out of here with something that isn’t right for them” she says… [and] most of our customers have become friends. That’s really key.”&lt;/p&gt;
-
-&lt;p&gt;I ask Marcia, the lady on the floor, who has been joining in the interview and sharing our laughs and photos, if Pearl is a tough boss. “Um… I don’t really work here” she says with a laugh. “I’m just helping.” “But am I tough?” Pearl asks her. “Tell the truth!” “No, no she’s not…” she answers, which elicits a laugh from Pearl. “Well, I don’t think that’s what you say sometimes!” They both burst out laughing. “I am tactful” Pearl says, “but I expect people to perform. I expect a good day’s work for what they’re paid. But if I give them something to do, I’m not going to be over them all of the time.” She likes to treat her staff well, and be kind with criticism.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Pearl-is-Boss-1024x768.jpg&quot; alt=&quot;Photo of Pearl striking a commanding pose&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“But am I tough? … Tell the truth!”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Before I leave, I ask her if she has anything in the store that reminds her of growing up in Jamaica. She shows me an old sewing machine on a front shelf that a customer gave to her. She tells me that her mother made clothes for her whole family on a machine that looks like this—for her, for her seven sisters, and for her two brothers—ten children in total. At the beginning of the interview, she had told me that her family was very close-knit. Her store has created a kind of family as well, with a house on 13 Charles Street West.&lt;/p&gt;
-
-&lt;p&gt;If you visit, she will find you something unique and beautiful to wear that will last for decades. You will feel at home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Old-Sewing-Machine-1024x768.jpg&quot; alt=&quot;Photo of an old sewing machine&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pearl’s mother used to make clothes for her whole family of 10 children using a machine like this one. According to Pearl, her mother later got a foot-pedal operated machine, which she really liked.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;views-from-the-la-chance-workshop&quot;&gt;Views From the La Chance Workshop&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Workshop-Thread.jpg&quot; alt=&quot;Photo of Spools of thread next to the ironing board&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Workshop-Patterns.jpg&quot; alt=&quot;Photo of The pattern-making table&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Workshop-Sewing-Station.jpg&quot; alt=&quot;Photo of Pearl and one of her employees in the workshop at the sewing station&quot; /&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Portfolio" /><category term="Bloor-Yorkville 2016" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/La-Chance-Cover-Photo-Edited-1766031170.jpg" /></entry></feed>
+&lt;p&gt;You can also read the post here: &lt;a href=&quot;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&quot;&gt;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Portfolio" /><category term="Bloor-Yorkville 2016" /><summary type="html">This is a list of Blog posts I wrote for the Bloor-Yorkville Business Improvement Area in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/YECS-Wrap-Up-Contest-Sponsors-Graphic.png" /></entry></feed>
