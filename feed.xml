@@ -1,5 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-02-24T15:18:20-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Grant Portal Limitations - Intro</title><link href="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html" rel="alternate" type="text/html" title="Grant Portal Limitations - Intro" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html">&lt;p&gt;I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-03-04T23:39:22-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Steps to Writing a Grant: Part I</title><link href="https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I.html" rel="alternate" type="text/html" title="Steps to Writing a Grant: Part I" /><published>2019-03-04T00:00:00-05:00</published><updated>2019-03-04T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I.html">&lt;p&gt;In the &lt;a href=&quot;https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html&quot;&gt;intro post&lt;/a&gt; I argued that grant portals are rarely designed to make life easier for the grant writer. But what if they were? There is a whole list of things that a grant writer has to do before they press “submit”, and grant portals can help or hinder that work at various points along the way.&lt;/p&gt;
+
+&lt;p&gt;I’m going to describe the steps that most grant writing projects go through. Along the way, we can imagine how portals &lt;em&gt;could&lt;/em&gt; make grant writing easier, and then we’ll take a look at the reality of how they mostly don’t.&lt;/p&gt;
+
+&lt;p&gt;Here are the steps:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-discover-the-funding-program&quot;&gt;1. Discover the funding program&lt;/h3&gt;
+
+&lt;p&gt;To state the obvious, you have to know a funding program exists in order to apply for it. Funders usually advertise and describe their funding programs on their website. However, this is a difficult task, because they have to communicate lots of different things to different people. Eligibility, for example, varies by artistic discipline and organization type, but most grant writers want to be able to quickly drill down to the programs that are meant for them or their organization.&lt;/p&gt;
+
+&lt;p&gt;Most organizations try to help with this by designing their websites with detailed menus to help you find relevant programs. See, for example, the website menu for the Ontario Arts Council (OAC):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Ontario-Arts-Council-Website-Menu-Taken-2019-02-23.png&quot; alt=&quot;Screenshot of the arts.on.ca website showing the navigation menu for their grant programs. It has four columns, including one for different types of activities, one for artists from different disciplines, one for artists from different priority groups, such as Artists of Colour, and a final column for general information about grants.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or the less helpful website menu for the Canada Council for the Arts (CCA):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Canada-Council-Website-Menu-Taken-2019-02-23.png&quot; alt=&quot;Screenshot of the canadacouncil.ca website showing the navigation menu for their grant programs. The grant menu includes links to each of their funding programs which only have somewhat-descriptive names, such as Engage and Sustain. There is also a second column for general information about grants.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Grant portals should have an advantage here—to use a grant portal, you usually have to create a detailed profile for you or your organization. This means that the portal should already know who you are and what programs you are eligible for.&lt;/p&gt;
+
+&lt;p&gt;Some organizations, such as the Canada Council for the Arts, do take advantage of this and provide a customized list of available funding programs within their portals. Others, such as the Ontario Arts Council seemingly do not. (For example, in my OAC account registered to an incorporated non-profit, it lists the &lt;a href=&quot;http://www.arts.on.ca/grants/discipline/visual-arts/exhibition-assistance&quot;&gt;Exhibition Assistance&lt;/a&gt; program which explicitly does not fund non-profit corporations.)&lt;/p&gt;
+
+&lt;p&gt;Given how much a portal already knows about you, there is a lot of potential here, but it is mostly untapped. For example, most portals do not send you emails when deadlines for eligible programs are coming up, meaning that even if a portal did the work of showing you eligible programs, you would still have to log in to see it.&lt;/p&gt;
+
+&lt;p&gt;In a lot of ways, it makes sense that the potential here is ignored. Most grant writers only visit the portal when they are going to write a grant, so unless you can send customized emails, the effort would probably go un-seen. Funders might also assume that most people who have gone to the trouble of setting up a portal account are probably familiar enough with their funding programs to know which ones they are eligible for. We’ll come back to that assumption later.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-find-out-more-about-the-program&quot;&gt;2. Find out more about the program&lt;/h3&gt;
+
+&lt;p&gt;So you’ve found a program you can apply to. Is it worth it to write an application? Part of being a good grant writer is being strategic about where you commit your time and the time of other people in your organization.&lt;/p&gt;
+
+&lt;p&gt;Grant writers are fundraisers, and over the course of a year they have to try to pick applications that strike a balance between getting the most funding possible and getting dependable funding that will help them meet their revenue budget. If there’s only a 10% chance an application will be successful or if it only offers a small amount of money for the time invested, it’s probably not worth the effort.&lt;/p&gt;
+
+&lt;p&gt;More importantly, grants are dangerous, because they almost always come with obligations. Picking the wrong grant could make an organization’s finances worse–for example, if a grant only funds 50% of a project’s costs, and taking it forces you to spend the other 50% from money your organization doesn’t have. The wrong grant could also contribute to mission creep, forcing your organization to work on projects that are outside its core purpose.&lt;/p&gt;
+
+&lt;p&gt;To weigh all these factors, a grant writer needs to be able to answer a lot of questions about a funding program. What kinds of projects and expenses will it fund? How much funding will it offer in total? What are the obligations and work that would come with taking the funding? How long will it take to put together a good application?&lt;/p&gt;
+
+&lt;p&gt;That last question can be quite tricky to answer. I’ve seen some portals where you can’t see what the application form looks like until quite close to the deadline. This often happens because you’re waiting for your registration to be approved, or because the funder only makes one type of application “live” in the portal at a time.&lt;/p&gt;
+
+&lt;p&gt;Usually funders are nice and will &lt;del&gt;hide&lt;/del&gt; provide a PDF of the application questions on their website, though these don’t always give you all the little details, like whether you can put descriptions on supporting material, or if you just have to rely on writing meaningful file names. For some reason, information like “estimated writing time”, “total question word count”, and “list of appendices required” is usually not summarized for you, so you have to make your own summary to figure out how much work it’s going to take to apply.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-decide-to-apply&quot;&gt;3. Decide to apply&lt;/h3&gt;
+
+&lt;p&gt;Once all your questions about the funding program have been answered, the grant writer can decide whether an application is worth their time. More importantly, anyone else who would be affected needs to decide that it’s worth their time too. This needs to be a &lt;em&gt;real&lt;/em&gt; decision—the kind where everyone is committed to whatever is promised in the application, including the worst and best possible scenarios.&lt;/p&gt;
+
+&lt;p&gt;This has nothing to do with grant portals. It’s just a super important part of grant writing and I wanted to mention it.&lt;/p&gt;
+
+&lt;p&gt;That’s a lot of work already, and we haven’t even gotten to the &lt;em&gt;writing&lt;/em&gt; part. In fact, if I were going to hire a grantwriter, I wouldn’t ask them for a writing sample from an application. I would ask them to write a one-page briefing for program staff about a funding program, the kind of document you would write up for step #3.&lt;/p&gt;
+
+&lt;p&gt;The writing part does come next though, and I’ll go through that… in the next post.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><summary type="html">In the intro post I argued that grant portals are rarely designed to make life easier for the grant writer. But what if they were? There is a whole list of things that a grant writer has to do before they press “submit”, and grant portals can help or hinder that work at various points along the way.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry><entry><title type="html">Grant Portal Limitations - Intro</title><link href="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html" rel="alternate" type="text/html" title="Grant Portal Limitations - Intro" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html">&lt;p&gt;I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.&lt;/p&gt;
 
 &lt;p&gt;Hence my topic today: in the last several years, many government ministries and agencies who give out grants (I’ll call them “funders”) have transitioned away from using forms made in Microsoft Word or Adobe Acrobat and have started using web portals. As a grant writer, I spend a lot of time using these portals. And they generally suck.&lt;/p&gt;
 
@@ -902,52 +950,4 @@ birds.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><c
       &lt;p&gt;Forecast of University Financial Results at April 30, 2017, prepared as of January 4, 2017. &lt;a href=&quot;http://www.governingcouncil.lamp4.utoronto.ca/wp-content/uploads/2017/01/a0123-7i-2016-2017bb.pdf&quot;&gt;http://www.governingcouncil.lamp4.utoronto.ca/wp-content/uploads/2017/01/a0123-7i-2016-2017bb.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:25&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><summary type="html">Download this letter in PDF format</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry><entry><title type="html">Bloor-Yorkville BIA Blog Posts - 2016</title><link href="https://tallcoleman.me/bloor-yorkville%20bia/2016/09/10/Bloor-Yorkville-BIA-Blog-Posts.html" rel="alternate" type="text/html" title="Bloor-Yorkville BIA Blog Posts - 2016" /><published>2016-09-10T00:00:00-04:00</published><updated>2016-09-10T00:00:00-04:00</updated><id>https://tallcoleman.me/bloor-yorkville%20bia/2016/09/10/Bloor-Yorkville-BIA-Blog-Posts</id><content type="html" xml:base="https://tallcoleman.me/bloor-yorkville%20bia/2016/09/10/Bloor-Yorkville-BIA-Blog-Posts.html">&lt;p&gt;This is a list of Blog posts I wrote for the Bloor-Yorkville Business Improvement Area in 2016.&lt;/p&gt;
-
-&lt;h3 id=&quot;6th-annual-yorkville-exotic-car-show-raises-record-55000-for-prostate-cancer-canada&quot;&gt;&lt;a href=&quot;http://bloor-yorkville.com/6th-annual-yorkville-exotic-car-show-raises-record-55000-for-prostate-cancer-canada/&quot;&gt;6th Annual Yorkville Exotic Car Show Raises Record $55,000 for Prostate Cancer Canada!&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bloor-yorkville.com/6th-annual-yorkville-exotic-car-show-raises-record-55000-for-prostate-cancer-canada/&quot;&gt;Link to Article&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The text for this post was mostly based off of a template from previous years, but I had complete freedom to make up my own graphics to thank the partners and sponsors, such as this one:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/YECS-Wrap-Up-Contest-Sponsors-Graphic.png&quot; alt=&quot;Contest Sponsors Graphic&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;unique-in-yorkville-carrera-y-carrera&quot;&gt;&lt;a href=&quot;http://bloor-yorkville.com/unique-in-yorkvillecarrera-y-carrera/&quot;&gt;Unique in Yorkville: Carrera y Carrera&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bloor-yorkville.com/unique-in-yorkvillecarrera-y-carrera/&quot;&gt;Link to Article&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This post is about a fairly unique jewellery boutique in Yorkville that opened recently.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Their Bloor-Yorkville boutique brings a different flair to the local jewellery market—&lt;em&gt;Carrera y Carrera&lt;/em&gt; doesn’t really make jewellery. Its artisans consider its pieces to be miniature sculptures of gold and precious stones, a philosophy driven home by the signature piece in the Manuel Carrera Private Collection: a pendant of solid gold and diamonds depicting a woman and man’s embrace.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Old-York-Lane.jpg&quot; alt=&quot;Photo of Old York Lane&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;in-yorkvilles-taz-hair-salon-stylist-norm-wright-is-starting-a-small-environmnetal-revolution&quot;&gt;&lt;a href=&quot;http://bloor-yorkville.com/in-yorkvilles-taz-hair-salon-stylist-norm-wright-is-starting-a-small-environmental-revolution/&quot;&gt;In Yorkville’s TAZ Hair Salon, Stylist Norm Wright is Starting a Small Environmnetal Revolution&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bloor-yorkville.com/in-yorkvilles-taz-hair-salon-stylist-norm-wright-is-starting-a-small-environmental-revolution/&quot;&gt;Link to Article&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This was an immensely fun assignment. What I really wanted was to show the magazine cover that featured Norm’s stunning color work, but alas I’m not sure what magic combination of words will get your call returned by a style magazine.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is because Norm Wright and colleague Frank Cini are the inventors of &lt;a href=&quot;http://biodegradablebeauty.com/&quot;&gt;&lt;em&gt;Biodegradable Beauty&lt;/em&gt;&lt;/a&gt;, a fully-compostable foil alternative for doing colour and highlights. They soft-launched the product about a year ago as a small step towards reducing the alarming amount of waste they saw in salons all over North America. “I’ve been doing this for 30 years” Norm says, as he mixes colour at his bench. “The first piece of foil I’ve used on somebody’s hair is still in the garbage somewhere. So, when you add the numbers up, 420,000 hair salons in North America—the quantity of waste—is ridiculous.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;the-timeless-scollard-deli&quot;&gt;&lt;a href=&quot;http://bloor-yorkville.com/the-timeless-scollard-deli/&quot;&gt;The Timeless Scollard Deli&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bloor-yorkville.com/the-timeless-scollard-deli/&quot;&gt;Link to Article&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Patio-Mural-768x576.jpg&quot; alt=&quot;Patio at the Scollard Deli&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the things that makes the Bloor-Yorkville neighborhood interesting is how rapidly it has changed over the years. I’m reminded of this when I look at all the development applications in the area, or look at photos of Bloor street before all the sleek granite was installed. Scollard Deli is a holdout of past days, when not everything was a condo, and the neighborhood was dotted with beautiful restaurant patios.&lt;/p&gt;
-
-&lt;h3 id=&quot;pearl-miller-la-chance-owner-dress-superhero&quot;&gt;&lt;a href=&quot;http://bloor-yorkville.com/pearl-miller-la-chance-owner-dress-superhero/&quot;&gt;Pearl Miller: La Chance Owner, Dress Superhero&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bloor-yorkville.com/pearl-miller-la-chance-owner-dress-superhero/&quot;&gt;Link to Article&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/La-Chance-Cover-Photo-Edited-1766031170.jpg&quot; alt=&quot;Cover Photo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I think Pearl Miller was my favourite interviewee. She’s an incredibly funny and deeply impressive person.&lt;/p&gt;
-
-&lt;p&gt;You can also read the post here: &lt;a href=&quot;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&quot;&gt;https://tallcoleman.me/bloor-yorkville%20bia/2016/09/08/Pearl-Miller-La-Chance-Owner-Dress-Superhero.html&lt;/a&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Portfolio" /><category term="Bloor-Yorkville 2016" /><summary type="html">This is a list of Blog posts I wrote for the Bloor-Yorkville Business Improvement Area in 2016.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/YECS-Wrap-Up-Contest-Sponsors-Graphic.png" /></entry></feed>
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><summary type="html">Download this letter in PDF format</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry></feed>
