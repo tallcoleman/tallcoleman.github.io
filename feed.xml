@@ -1,7 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-03-10T17:32:32-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Steps to Writing A Grant: Part II</title><link href="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html" rel="alternate" type="text/html" title="Steps to Writing A Grant: Part II" /><published>2019-03-10T00:00:00-05:00</published><updated>2019-03-10T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html">&lt;p&gt;In the &lt;a href=&quot;https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I.html&quot;&gt;last post&lt;/a&gt; we went through all the steps a grant writer goes through before they even type their first word. In this post, we’ll go through the rest of the steps, including typing your first word. Let’s assume that you’ve found a funding program, have done your research, and have made the decision to go for it and submit an application. What comes next?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-04-08T07:05:10-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Formatting Restrictions in Grant Portals: Part I</title><link href="https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I.html" rel="alternate" type="text/html" title="Formatting Restrictions in Grant Portals: Part I" /><published>2019-04-07T00:00:00-04:00</published><updated>2019-04-07T00:00:00-04:00</updated><id>https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I.html">&lt;h2 id=&quot;the-pains-of-plaintext&quot;&gt;The Pains of Plaintext&lt;/h2&gt;
 
-&lt;h3 id=&quot;4-set-up-your-drafting-document&quot;&gt;4. Set up your drafting document&lt;/h3&gt;
+&lt;p&gt;One of my biggest frustrations with grant portals is that they make writing feel primitive. Most portals only allow you to submit answers in unformatted plaintext, taking away a lot of important formatting tools that good writers use to make their text easy to read and to understand.&lt;/p&gt;
+
+&lt;p&gt;Don’t just take my word for it: some of the things in the standard formatting toolbox come recommended by the U.S. government! At &lt;a href=&quot;https://www.plainlanguage.gov&quot;&gt;plainlanguage.gov&lt;/a&gt; you can find a whole set of guidelines about how to be a clear and effective writer. These guidelines are designed for people in government who might write a regulation, a form, or a letter that is sent out to citizens, but the advice applies to a lot of technical writing. Grant writing is no exception.&lt;/p&gt;
+
+&lt;p&gt;Here is a selection of some of their tips:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/organize/add-useful-headings/&quot;&gt;Add useful headings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/highlight-important-concepts/&quot;&gt;Highlight important concepts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/organize/use-lists/&quot;&gt;Use lists&lt;/a&gt; (with bullets or numbers)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/&quot;&gt;Use tables to make complex material easier to understand&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/consider-using-visuals/&quot;&gt;Consider using visuals&lt;/a&gt; (such as diagrams, maps, and images)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The descriptive text for “Highlight important concepts” is particularly fun to read:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can … add &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italics&lt;/em&gt; to emphasize important concepts within a particular section …. Only emphasize important information, otherwise you’ll dilute its impact.&lt;/p&gt;
+
+  &lt;p&gt;PUTTING EVERYTHING IN CAPITAL LETTERS IS NOT A GOOD EMPHASIS TECHNIQUE. ALTHOUGH IT MAY DRAW THE USER’S ATTENTION TO THE SECTION, IT MAKES IT HARDER TO READ. AND ONLINE, IT’S CONSIDERED SHOUTING.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Inspired by this fabulous &lt;a href=&quot;https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/&quot;&gt;Wall Street Journal Article&lt;/a&gt;, I’m going to start removing these formatting techniques as I talk about them so that you can see what it looks like when you’re not able to use them in your writing&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;problem-1-organizing-complex-information-is-hard-without-headings&quot;&gt;Problem 1: Organizing Complex Information is Hard Without Headings&lt;/h2&gt;
+
+&lt;p&gt;In most grant applications, it’s not a huge deal that you can’t make your own headings because the application is structured for you, with headings and questions set out by the funder. However, I still find myself using headings all the time—usually in one of two cases:&lt;/p&gt;
+
+&lt;h3 id=&quot;case-1---the-question-is-incredibly-long&quot;&gt;Case 1 - The Question Is Incredibly Long&lt;/h3&gt;
+
+&lt;p&gt;Most grant application questions have word limits in the range of 100–500 words. Since a full page of single-spaced writing is usually about 500 words, this makes things very manageable, and ensures that there’s usually at least one heading on each page.&lt;/p&gt;
+
+&lt;p&gt;However, there are some cases where questions can be much, much longer. In the Year 1 Canada Council for the Arts operating funding application, half of the questions are over 500 words, and the longest is a full 3,000 words, which is about &lt;em&gt;six full pages&lt;/em&gt; of text. For one question!&lt;/p&gt;
+
+&lt;h3 id=&quot;case-2---the-question-has-multiple-parts&quot;&gt;Case 2 - The Question Has Multiple Parts&lt;/h3&gt;
+
+&lt;p&gt;Quite often, a question will ask you to talk about multiple things in the same answer. Take this question from the &lt;a href=&quot;http://www.arts.on.ca/grants/general-granting-information/guide-to-operating-programs/operating-program-application-questions&quot;&gt;Ontario Arts Council operating funding application&lt;/a&gt;, for example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Brief History&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Tell us about your organization, for example: the year you were founded, what you’re doing now, the communities you serve, important milestones in your development and how they have had an impact on your current programming.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This question has a 250-word limit, so instead of moving from topic to topic with transition sentences, you can just use simple headings instead like “Current Activities”, “Milestones”, and “Communities Served” to jump between topics without wasting words.&lt;/p&gt;
+
+&lt;p&gt;To make sure the reviewers don’t get lost in the sea of your 3,000 word answer or can follow along as you jump between different topics or time periods, you have to use headings, even though it’s not supported in plaintext. The best workaround I’ve found so far is to shout THIS IS A HEADING in all caps and put some extra space before it through judicious use of the enter key. It’s not ideal—it doesn’t help people who might use headings to navigate with a screen reader—and you can’t use bigger or smaller headings to organize your work in a sophisticated way.&lt;/p&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 class=&quot;noformat&quot;&gt;PROBLEM 2: YOU CAN'T HIGHLIGHT KEY POINTS OR ITALICIZE TITLES IN PLAINTEXT&lt;/h3&gt;
+
+&lt;p&gt;Let’s try an experiment. Imagine you are skimming the following paragraph in an application. Where do your eyes land? How long does it take you to understand the main point of the paragraph?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Schools scoring in the top 25% of the &lt;strong&gt;Learning Opportunity Index (LOI)&lt;/strong&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; make up 40% of paid attendees, and schools in the bottom 25% only represent 10% of participants, showing that schools from lower-income neighbourhoods face barriers to attending our theatre programs. However, ABC Neighbourhood Theatre  has long run a targeted program offering complimentary tickets, with over 80% of free tickets going to schools with LOI scores in the bottom 25%. As a result, &lt;strong&gt;30% of our total attendees are from schools with LOI scores in the bottom 25%, demonstrating our commitment to serving schools that do not usually have good access to arts programs&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now skim it again without the formatting. What changes? Are you still able to figure out the main point in only a couple seconds?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Schools scoring in the top 25% of the Learning Opportunity Index (LOI) make up 40% of paid attendees, and schools in the bottom 25% only represent 10% of participants, showing that schools from lower-income neighbourhoods face barriers to attending our theatre programs. However, ABC Neighbourhood Theatre  has long run a targeted program offering complimentary tickets, with over 80% of free tickets going to schools with LOI scores in the bottom 25%. As a result, 30% of our total attendees are from schools with LOI scores in the bottom 25%, demonstrating our commitment to serving schools that do not usually have good access to arts programs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When you are able to put your key points in bold, you have much more flexibility to decide how to structure your writing. In this case, it allows you to use the following logical sequence…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Problem&lt;/li&gt;
+  &lt;li&gt;Solution&lt;/li&gt;
+  &lt;li&gt;Result&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;…&lt;em&gt;without&lt;/em&gt; having the reader miss your key point at the end.&lt;/p&gt;
+
+&lt;p&gt;When you can’t use formatting for emphasis, you have to write &lt;em&gt;everything&lt;/em&gt; like a newspaper article—main point at the top, and less important information below. The only thing you can do to help out a skim reader is to put your paragraph breaks in the right places. IT’S NOT LIKE YOU CAN PUT YOUR KEY POINTS IN ALL CAPS INSTEAD. THEN YOU JUST COME ACROSS LIKE &lt;a href=&quot;https://www.youtube.com/watch?v=hmxAfAXhAYk&quot;&gt;“LOUD HOWARD” FROM DILBERT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;br&gt;
+&lt;h3 class=&quot;noformat&quot;&gt;A WORKAROUND FOR ITALICS&lt;/h3&gt;
+
+&lt;p&gt;As someone who has mostly written grants for arts organizations, one of the most frustrating limitations of grant portals is that you can’t use italics, since they are an essential part of writing titles of artistic works like movies and pieces of music. There’s an easy workaround for this, but let me illustrate the problem first:&lt;/p&gt;
+
+&lt;p&gt;Imagine that there is a composer who writes a piece for orchestra called “My deepest, most horrible fantasy”. When I write my grant, I might write a sentence like:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The orchestra performed &lt;em&gt;My deepest, most horrible fantasy&lt;/em&gt; in Salzburg last spring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can see that the italics really help make it clear that the orchestra did not commit any crimes or heinous acts on stage in Salzburg.&lt;/p&gt;
+
+&lt;p&gt;The solution is pretty simple—use single quotes instead. So in most portals, I would write:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The orchestra performed ‘My deepest, most horrible fantasy’ in Salzburg last spring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The only challenges I sometimes come across are communicating this convention to my editors (I usually leave a note at the top saying something like “single quotes = italics”) and catching myself when I habitually italicize things in my answers. Fortunately, searching for italicized text is &lt;a href=&quot;https://support.office.com/en-us/article/find-and-replace-text-or-formatting-in-word-for-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea&quot;&gt;actually quite easy in Microsoft Word&lt;/a&gt;, so you can just look for any italics that should be single quotes before the text is uploaded into a portal.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there isn’t really a good replacement for using italics as a method of emphasis. You could use some plaintext alternatives, but they *very* often look _incredibly_ odd, and -unprofessional- to many readers.&lt;/p&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 class=&quot;noformat&quot;&gt;PROBLEM 3: LIFE WITHOUT LISTS IS LACKING&lt;/h3&gt;
+
+&lt;p&gt;So far, I’ve shown you that  *without formatting*:&lt;/p&gt;
+
+&lt;p&gt;- you can only use ALL CAPS for headings, which is a little off-putting, not very sophisticated, and not terribly accessible&lt;br&gt;
+- you can't highlight key points to help skim readers, and you can't italicize titles of artistic works etc. and have to use single quotes instead&lt;br&gt;
+- you can't use italics for emphasis, unless you want to look very _strange_.&lt;/p&gt;
+
+&lt;p&gt;1. Now it’s time to explore what it means to write without proper lists. As you can see above, without formatting, lists can start to look a little messy and become harder to read. If you want your list items to go on for multiple lines, then the numbering or bullets you use really don’t stand out as strongly as they should. I’ve numbered these paragraphs so you can see what that looks like.&lt;/p&gt;
+
+&lt;p&gt;2. You can re-write your lists into paragraphs, but that will make them harder to read (there’s a reason listicles are so popular), it will probably increase your word count, and it won’t give you the benefit of providing some variety in the way you write your answers. The Canada Council application I mentioned earlier is about 22 pages long—can you imagine how much harder it would be to read 22 pages without the occasional list to spice things up a bit?&lt;/p&gt;
+
+&lt;p&gt;3. Lists are another great way to emphasize key points. If you want to talk about the three key parts of your strategic plan, a list will make it stand out. If it looks like the three paragraphs you just read, the effect is nowhere near as strong.&lt;/p&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 class=&quot;noformat&quot;&gt;NEXT WEEK: TABLES, VISUALS, AND OTHER GRIPES&lt;/h3&gt;
+
+&lt;p&gt;I have more formatting complaints to make, but those will have to wait for the next post. This is already pretty long, and I definitely need to look up how to make tables in markdown before I keep going…&lt;/p&gt;
+
+&lt;p&gt;As a concluding thought to tie all these things together, when I tell people that I’m a grant writer, people often tell me that they think grant writing is uniquely difficult, with lots of traps you need to avoid and tricks and techniques you have to know to be successful.&lt;/p&gt;
+
+&lt;p&gt;In an ideal world, it wouldn’t be like this. If you assume that funders want to give funding to the best organizations and the best ideas, then that should be possible without talented grant writers. Putting barriers in the way of clear communication only benefits established organizations who have grant writers on staff. List formatting and ALL CAPS HEADINGS may be small gripes, but they matter because they contribute to a system of giving out public money that is exclusionary.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+
+      &lt;p&gt;To make sure this post is still navigable for people using screen readers, the “unformatted” headings are regular HTML headings with all the distinctive formatting removed. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+
+      &lt;p&gt;This is a real metric used by the Toronto District School Board: &lt;a href=&quot;https://web.archive.org/web/20190407190902/https://www.tdsb.on.ca/Portals/research/docs/reports/LOI2017.pdf&quot;&gt;tdsb.on.ca/Portals/research/docs/reports/LOI2017.pdf&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><summary type="html">The Pains of Plaintext</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry><entry><title type="html">Steps to Writing A Grant: Part II</title><link href="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html" rel="alternate" type="text/html" title="Steps to Writing A Grant: Part II" /><published>2019-03-10T00:00:00-05:00</published><updated>2019-03-10T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html">&lt;p&gt;In the &lt;a href=&quot;https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I.html&quot;&gt;last post&lt;/a&gt; we went through all the steps a grant writer goes through before they even type their first word. In this post, we’ll go through the rest of the steps, including typing your first word. Let’s assume that you’ve found a funding program, have done your research, and have made the decision to go for it and submit an application. What comes next?&lt;/p&gt;
+
+&lt;h2 id=&quot;4-set-up-your-drafting-document&quot;&gt;4. Set up your drafting document&lt;/h2&gt;
 
 &lt;p&gt;If you like to live life dangerously, you could write your application right in the portal. For people who buy a cute puppy without researching food and vet costs first, or who apply makeup and/or shave while driving, this might be appealing. The rest of us usually open up our word processor of choice and get to work.&lt;/p&gt;
 
@@ -36,19 +175,19 @@
   &lt;li&gt;The ability to highlight text that you know is bad so that you can put off fixing it until much later&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;5-research-the-evaluation-criteria&quot;&gt;5. Research the evaluation criteria&lt;/h3&gt;
+&lt;h2 id=&quot;5-research-the-evaluation-criteria&quot;&gt;5. Research the evaluation criteria&lt;/h2&gt;
 
 &lt;p&gt;Now you have a nice word doc with all the application questions in it. Time to start writing, right? Wrong! Before typing anything, you should take a look at how your application will be scored. I often like to find the evaluation criteria that are relevant to each question and write out some notes about them under every question. It’s a great way to make sure your writing stays focused and to ensure that your efforts are going to result in a high-scoring application.&lt;/p&gt;
 
 &lt;p&gt;I also paste the full criteria at the top of the document in case I need to refer to it quickly. This also helps people who will later edit your work—if the first thing they read is the scoring criteria, they’ll hopefully make their edits while keeping in mind what the funder is looking for.&lt;/p&gt;
 
-&lt;h3 id=&quot;6-start-drafting&quot;&gt;6. Start drafting&lt;/h3&gt;
+&lt;h2 id=&quot;6-start-drafting&quot;&gt;6. Start drafting&lt;/h2&gt;
 
 &lt;p&gt;It’s finally time to write! I often start with a bullet point outline and type it all out into prose later, but if you just want to let your keyboard fingers fly, that’s cool too. You’re all set up, so go ahead and start writing out your answers.&lt;/p&gt;
 
 &lt;p&gt;A small tip for grant writers who want to make the world a better place: cite your sources, both internal and external. Most grant applications don’t require citations (in the arts anyway—we’ll talk more about this in a later post). However, if you add footnotes/endnotes that detail where you got a specific fact, especially when you are writing annual operating funding applications, you will be doing a big solid for the person who has your job after you leave.&lt;/p&gt;
 
-&lt;h3 id=&quot;7-editing&quot;&gt;7. Editing&lt;/h3&gt;
+&lt;h2 id=&quot;7-editing&quot;&gt;7. Editing&lt;/h2&gt;
 
 &lt;p&gt;Once at least part of your application is written up, you can start sharing it with your boss, friends, coworkers, etc. to start getting feedback. It might take a while to get to this stage, and I’ve usually found that it takes around 60-70% of the total project time to get to the first full draft. If possible,  try to get there with some time to spare, because the less you rush your editors, the better feedback they’ll give you.&lt;/p&gt;
 
@@ -64,7 +203,7 @@
 
 &lt;p&gt;When you’ve finished incorporating the edits from all your reviewers, make sure to save time to go through the whole application one more time in case there are any errors that were missed.&lt;/p&gt;
 
-&lt;h3 id=&quot;8-submit&quot;&gt;8. Submit&lt;/h3&gt;
+&lt;h2 id=&quot;8-submit&quot;&gt;8. Submit&lt;/h2&gt;
 
 &lt;p&gt;Once you’ve finished the editing process and you’ve done a last check of the whole thing, it’s time to log in to the portal and upload. &lt;em&gt;Ideally&lt;/em&gt; you should submit your application with some time to spare in case you run into any issues along the way. Some portals have also been known to crash under the load of everyone submitting their applications at the last minute.&lt;/p&gt;
 
@@ -78,7 +217,7 @@
 
 &lt;p&gt;Here are the steps:&lt;/p&gt;
 
-&lt;h3 id=&quot;1-discover-the-funding-program&quot;&gt;1. Discover the funding program&lt;/h3&gt;
+&lt;h2 id=&quot;1-discover-the-funding-program&quot;&gt;1. Discover the funding program&lt;/h2&gt;
 
 &lt;p&gt;To state the obvious, you have to know a funding program exists in order to apply for it. Funders usually advertise and describe their funding programs on their website. However, this is a difficult task, because they have to communicate lots of different things to different people. Eligibility, for example, varies by artistic discipline and organization type, but most grant writers want to be able to quickly drill down to the programs that are meant for them or their organization.&lt;/p&gt;
 
@@ -98,7 +237,7 @@
 
 &lt;p&gt;In a lot of ways, it makes sense that the potential here is ignored. Most grant writers only visit the portal when they are going to write a grant, so unless you can send customized emails, the effort would probably go un-seen. Funders might also assume that most people who have gone to the trouble of setting up a portal account are probably familiar enough with their funding programs to know which ones they are eligible for. We’ll come back to that assumption later.&lt;/p&gt;
 
-&lt;h3 id=&quot;2-find-out-more-about-the-program&quot;&gt;2. Find out more about the program&lt;/h3&gt;
+&lt;h2 id=&quot;2-find-out-more-about-the-program&quot;&gt;2. Find out more about the program&lt;/h2&gt;
 
 &lt;p&gt;So you’ve found a program you can apply to. Is it worth it to write an application? Part of being a good grant writer is being strategic about where you commit your time and the time of other people in your organization.&lt;/p&gt;
 
@@ -112,7 +251,7 @@
 
 &lt;p&gt;Usually funders are nice and will &lt;del&gt;hide&lt;/del&gt; provide a PDF of the application questions on their website, though these don’t always give you all the little details, like whether you can put descriptions on supporting material, or if you just have to rely on writing meaningful file names. For some reason, information like “estimated writing time”, “total question word count”, and “list of appendices required” is usually not summarized for you, so you have to make your own summary to figure out how much work it’s going to take to apply.&lt;/p&gt;
 
-&lt;h3 id=&quot;3-decide-to-apply&quot;&gt;3. Decide to apply&lt;/h3&gt;
+&lt;h2 id=&quot;3-decide-to-apply&quot;&gt;3. Decide to apply&lt;/h2&gt;
 
 &lt;p&gt;Once all your questions about the funding program have been answered, the grant writer can decide whether an application is worth their time. More importantly, anyone else who would be affected needs to decide that it’s worth their time too. This needs to be a &lt;em&gt;real&lt;/em&gt; decision—the kind where everyone is committed to whatever is promised in the application, including the worst and best possible scenarios.&lt;/p&gt;
 
@@ -268,7 +407,7 @@
 
 &lt;p&gt;That being said, after I asked her all my &lt;em&gt;Mean Girls&lt;/em&gt; questions, I did do the real interview with her, which you can read on the &lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;TIFF Website&lt;/a&gt;.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
@@ -626,89 +765,4 @@ instructions if the bird has not shown any activity after one hour.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Recuperation tips from FLAP Canada. See &lt;a href=&quot;http://www.flap.org/faqs.php&quot;&gt;their website for more
 Frequently Asked Questions&lt;/a&gt; about helping
-birds.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Bloor-Yorkville 2017" /><category term="Urban Ecology" /><category term="Fatal Light Attraction" /><category term="Injured Birds" /><summary type="html">This article originally appeared on the Bloor-Yorkville BIA Blog</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/IMG_1648-COLLAGE.jpg" /></entry><entry><title type="html">Liberating My Media Files From Wordpress</title><link href="https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html" rel="alternate" type="text/html" title="Liberating My Media Files From Wordpress" /><published>2017-03-27T00:00:00-04:00</published><updated>2017-03-27T00:00:00-04:00</updated><id>https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com</id><content type="html" xml:base="https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has lots of good importers for migrating posts from WordPress sites, but the task of bringing over your assets (files, images, etc.) is something you have to do yourself. If you plan on keeping your WordPress site running, your migrated posts will still be able to serve their assets correctly, but it’s much better to have assets fully integrated into your site, instead of being served from an external URL.&lt;/p&gt;
-
-&lt;p&gt;This post has instructions for one simple-ish way of getting all the files that are used in your WordPress posts. It works for Linux and should be pretty easy in OSX (you might have to install tools like wget if you don’t have that already.) Sorry Windows users–I know Jekyll is already hard for you&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Once you have downloaded all the files, you can choose how you want to integrate them into your Jekyll site.&lt;/p&gt;
-
-&lt;h2 id=&quot;setup&quot;&gt;Setup&lt;/h2&gt;
-
-&lt;p&gt;First, you need to migrate your posts from WordPress. There are multiple ways to do this listed on the Jekyll website for both &lt;a href=&quot;http://import.jekyllrb.com/docs/wordpress/&quot;&gt;self-hosted WordPress&lt;/a&gt; and &lt;a href=&quot;http://import.jekyllrb.com/docs/wordpressdotcom/&quot;&gt;WordPress.com blogs&lt;/a&gt;. I used &lt;a href=&quot;https://github.com/thomasf/exitwp&quot;&gt;exitwp&lt;/a&gt; since I had a WordPress.com blog and wanted to keep all my metadata.&lt;/p&gt;
-
-&lt;h2 id=&quot;extracting-the-assets-used-in-your-posts&quot;&gt;Extracting the Assets Used in Your Posts&lt;/h2&gt;
-
-&lt;p&gt;Start by navigating to the directory that contains all your migrated WordPress posts. You’ll need to figure out the general structure of asset links in the posts. For me, the asset links looked like this:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [U of T Publications with Intl Coauthors](http://tallcoleman.files.wordpress.com/2014/05/u-of-t-publications-with-intl-coauthors2.png?w=625)
-
-- [Letter from Brad Duguid](http://tallcoleman.files.wordpress.com/2014/02/signedcopy-262605.pdf)
-
-- [Transcription of John Tory Interview](http://tallcoleman.files.wordpress.com/2013/10/transcription-of-john-tory-interview-03.docx)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;grep-asset-urls&quot;&gt;Grep Asset URLs&lt;/h3&gt;
-
-&lt;p&gt;To pull out all the asset links, I used grep, with the output streamed to a text file. In this case it looks for links that start with the asset base url and end with either &lt;code class=&quot;highlighter-rouge&quot;&gt;)&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;?&lt;/code&gt;. Another way to do it would be to use a list of file extensions to find the end of each link.&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;grep&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-rio&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;http://tallcoleman.files.wordpress.com[^&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\)\?&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;]*[&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\)\?&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;]&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; WpFileLinks1.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;There were two image links ending in ‘”&amp;lt;’ that I missed but no big deal. In my case, there were no https links so if you have those, try “http[s]:// …” instead to catch both http:// and https:// asset links.&lt;/p&gt;
-
-&lt;h3 id=&quot;processing-the-grep-output&quot;&gt;Processing the Grep Output&lt;/h3&gt;
-
-&lt;p&gt;I don’t remember why I ran this command. Something to do with line breaks, I think.&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sed &lt;span class=&quot;s1&quot;&gt;'s/.$//'&lt;/span&gt; WpFileLinks1.txt &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; WpFileLinks2.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;I wrote in my notes “There is a recursiveness problem which I don’t quite know how to fix.” I can’t remember what that meant, but I’ll try this all again at some point to finish writing up proper instructions. In any case, it shouldn’t prevent you from continuing on:&lt;/p&gt;
-
-&lt;p&gt;This command removes the file references from the grep output. I’m sure there must be a better way of doing this, but this (mostly) worked for me:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sed &lt;span class=&quot;s1&quot;&gt;'s|.*:h\(.*\)|\1|'&lt;/span&gt; WpFileLinks2.txt &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; WpFileLinks3.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;I had to go add the h’s back in using find-and-replace to substitute ‘ttp://’ with ‘http://’. (I told you it’s not a very good method). I should go learn the proper syntax for &lt;code class=&quot;highlighter-rouge&quot;&gt;sed&lt;/code&gt; later.&lt;/p&gt;
-
-&lt;h3 id=&quot;downloading-your-files&quot;&gt;Downloading Your Files&lt;/h3&gt;
-
-&lt;p&gt;And now the &lt;strong&gt;magic&lt;/strong&gt; happens:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; ~/Documents/tallcoleman.github.io/WpFileLinks3.txt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;the &lt;code class=&quot;highlighter-rouge&quot;&gt;-i&lt;/code&gt; flag tells wget to get the list of URLs from our file.&lt;/p&gt;
-
-&lt;p&gt;Nice folder of files!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Screenshot from 2017-03-27 21-40-45.png&quot; alt=&quot;Screenshot of downloaded Wordpress Files&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ll have to decide later if I want to fully integrate them with my separated assets folder, or just keep them in the same folder to make swapping out the links easier.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-step-swap-out-the-asset-links-in-your-imported-wordpress-posts&quot;&gt;Final Step: Swap Out the Asset Links in Your Imported WordPress Posts&lt;/h2&gt;
-
-&lt;p&gt;What worked for me so far was doing find and replace using regex in Atom:&lt;/p&gt;
-
-&lt;p&gt;Find:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;http://tallcoleman.files.wordpress.com/[0-9]&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;4&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;/[0-9]&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;2&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Replace:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/assets/WpAssets/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;There are still some php suffixes remaining but Jekyll just ignores them, so I’ve only removed them if I catch them in the wild, though finding them with regex shouldn’t be too hard if you want to make sure you’ve removed them all.&lt;/p&gt;
-
-&lt;p&gt;If you have suggestions for ways I can do this less badly, hit me up at ben[dot]coleman[at]mail[dot]utoronto[dot]ca or on &lt;a href=&quot;https://twitter.com/tallcoleman&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I actually run Windows, but honestly it’s easier to run Ubuntu in a VM than to get Ruby to play nice with Windows. Works well enough for me, and since I deployed the site in github pages, I can still write posts in the browser on github or push them from Windows without running &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; locally. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><summary type="html">Introduction</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /></entry></feed>
+birds.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Bloor-Yorkville 2017" /><category term="Urban Ecology" /><category term="Fatal Light Attraction" /><category term="Injured Birds" /><summary type="html">This article originally appeared on the Bloor-Yorkville BIA Blog</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/IMG_1648-COLLAGE.jpg" /></entry></feed>

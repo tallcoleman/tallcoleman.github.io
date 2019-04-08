@@ -102,8 +102,7 @@ blockquote {
   color: #555;
   border-left: 4px solid #bbbbbb;
   padding-left: 15px;
-  font-size: 0.9em;
-  font-style: italic; }
+  font-size: 0.9em; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -607,3 +606,15 @@ span.tso {
   color: #3a87ad;
   background-color: #d9edf7;
   border-color: #bce8f1; }
+
+/**
+ * No Format Headings
+ */
+h2.noformat, h3.noformat, h4.noformat {
+  font-size: 18px;
+  font-family: "Franklin Gothic Book", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  color: #002A5C; }
+  @media screen and (max-width: 700px) {
+    h2.noformat, h3.noformat, h4.noformat {
+      font-size: 18px; } }
