@@ -174,14 +174,14 @@
 
 <p>I don’t remember why I ran this command. Something to do with line breaks, I think.</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sed <span class="s1">'s/.$//'</span> WpFileLinks1.txt <span class="o">&gt;</span> WpFileLinks2.txt
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sed</span> <span class="s1">'s/.$//'</span> WpFileLinks1.txt <span class="o">&gt;</span> WpFileLinks2.txt
 </code></pre></div></div>
 
 <p>I wrote in my notes “There is a recursiveness problem which I don’t quite know how to fix.” I can’t remember what that meant, but I’ll try this all again at some point to finish writing up proper instructions. In any case, it shouldn’t prevent you from continuing on:</p>
 
 <p>This command removes the file references from the grep output. I’m sure there must be a better way of doing this, but this (mostly) worked for me:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sed <span class="s1">'s|.*:h\(.*\)|\1|'</span> WpFileLinks2.txt <span class="o">&gt;</span> WpFileLinks3.txt
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sed</span> <span class="s1">'s|.*:h\(.*\)|\1|'</span> WpFileLinks2.txt <span class="o">&gt;</span> WpFileLinks3.txt
 </code></pre></div></div>
 
 <p>I had to go add the h’s back in using find-and-replace to substitute ‘ttp://’ with ‘http://’. (I told you it’s not a very good method). I should go learn the proper syntax for <code class="highlighter-rouge">sed</code> later.</p>
