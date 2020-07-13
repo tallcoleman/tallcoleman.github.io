@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2019-12-06T18:21:17-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2020-07-13T18:50:16-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
 </subtitle><author><name>Ben Coleman</name></author><entry><title type="html">TSO Blog Post: Carmina Burana</title><link href="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html" rel="alternate" type="text/html" title="TSO Blog Post: Carmina Burana" /><published>2019-05-30T00:00:00-04:00</published><updated>2019-05-30T00:00:00-04:00</updated><id>https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana</id><content type="html" xml:base="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html">&lt;p&gt;As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s &lt;em&gt;Carmina Burana&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;On the surface, orchestral music seems very “proper” most of the time—art that is produced for aesthetic enjoyment and nothing else. However, orchestral music is like any other art form, and contains many examples of the political, the extreme, and the provocative. Some well-known examples would include:&lt;/p&gt;
@@ -81,16 +81,16 @@
   &lt;p&gt;Schools scoring in the top 25% of the Learning Opportunity Index (LOI) make up 40% of paid attendees, and schools in the bottom 25% only represent 10% of participants, showing that schools from lower-income neighbourhoods face barriers to attending our theatre programs. However, ABC Neighbourhood Theatre  has long run a targeted program offering complimentary tickets, with over 80% of free tickets going to schools with LOI scores in the bottom 25%. As a result, 30% of our total attendees are from schools with LOI scores in the bottom 25%, demonstrating our commitment to serving schools that do not usually have good access to arts programs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;When you are able to put your key points in bold, you have much more flexibility to decide how to structure your writing. When you can’t use formatting for emphasis, you have to write everything like a newspaper article—main point at the top, and less important information below. The only thing you can do to help out a skim reader is to put your paragraph breaks in the right places. IT’S NOT LIKE YOU CAN PUT YOUR KEY POINTS IN ALL CAPS INSTEAD. THEN YOU JUST COME ACROSS LIKE &lt;a href=&quot;https://www.youtube.com/watch?v=hmxAfAXhAYk&quot;&gt;“LOUD HOWARD” FROM DILBERT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When you are able to put your key points in bold, you have much more flexibility to decide how to structure your writing. When you can’t use formatting for emphasis, you have to write everything like a newspaper article—main point at the top, and less important information below. The only thing you can do to help out a skim reader is to put your paragraph breaks in the right places. IT’S NOT LIKE YOU CAN PUT YOUR KEY POINTS IN ALL CAPS INSTEAD. THEN YOU JUST COME ACROSS LIKE YOU’RE SHOUTING.&lt;/p&gt;
 
 &lt;h3 id=&quot;a-workaround-for-italics&quot;&gt;A Workaround for Italics&lt;/h3&gt;
 
 &lt;p&gt;As someone who has mostly written grants for arts organizations, one of the most frustrating limitations of grant portals is that you can’t use italics, since they are an essential part of writing titles of artistic works like movies and pieces of music. There’s an easy workaround for this, but let me illustrate the problem first:&lt;/p&gt;
 
-&lt;p&gt;Imagine that there is a composer who writes a piece for orchestra called “My deepest, most horrible fantasy”. When I write my grant, I might write a sentence like:&lt;/p&gt;
+&lt;p&gt;Imagine that there is a composer who writes a piece for orchestra called “my deepest, most horrible fantasy”. When I write my grant, I might write a sentence like:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The orchestra performed &lt;em&gt;My deepest, most horrible fantasy&lt;/em&gt; in Salzburg last spring.&lt;/p&gt;
+  &lt;p&gt;The orchestra performed &lt;em&gt;my deepest, most horrible fantasy&lt;/em&gt; in Salzburg last spring.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;You can see that the italics really help make it clear that the orchestra did not commit any crimes or heinous acts on stage in Salzburg.&lt;/p&gt;
@@ -98,7 +98,7 @@
 &lt;p&gt;The solution is pretty simple—use single quotes instead. So in most portals, I would write:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The orchestra performed ‘My deepest, most horrible fantasy’ in Salzburg last spring.&lt;/p&gt;
+  &lt;p&gt;The orchestra performed ‘my deepest, most horrible fantasy’ in Salzburg last spring.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The only challenges I sometimes come across are communicating this convention to my editors (I usually leave a note at the top saying something like “single quotes = italics”) and catching myself when I habitually italicize things in my answers. Fortunately, searching for italicized text is &lt;a href=&quot;https://support.office.com/en-us/article/find-and-replace-text-or-formatting-in-word-for-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea&quot;&gt;actually quite easy in Microsoft Word&lt;/a&gt;, so you can just look for any italics that should be single quotes before the text is uploaded into a portal.&lt;/p&gt;
@@ -185,7 +185,7 @@
 &lt;ul&gt;
   &lt;li&gt;Robust spelling and grammar checking&lt;/li&gt;
   &lt;li&gt;Track changes and comments&lt;/li&gt;
-  &lt;li&gt;Robust back-ups and autosave&lt;/li&gt;
+  &lt;li&gt;File back-ups and autosave&lt;/li&gt;
   &lt;li&gt;Some kind of version control (ranging in sophistication from saving word files with “Version X” in the file name up to Google Docs’ detailed document history)&lt;/li&gt;
   &lt;li&gt;Find and replace&lt;/li&gt;
   &lt;li&gt;Space to write drafting and research notes&lt;/li&gt;
@@ -193,7 +193,7 @@
 
 &lt;p&gt;And most importantly:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;The ability to highlight text that you know is bad so that you can put off fixing it until much later&lt;/li&gt;
+  &lt;li&gt;The ability to highlight sections that you know are badly written so that you can put off fixing them until much later&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;5-research-the-evaluation-criteria&quot;&gt;5. Research the evaluation criteria&lt;/h2&gt;
