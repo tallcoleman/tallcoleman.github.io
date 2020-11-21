@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- <title>Liberating My Media Files From Wordpress</title>
-  
+
   
   <meta name="description" content="Introduction">
    -->
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html">
   <link rel="alternate" type="application/rss+xml" title="tallcoleman" href="/feed.xml">
-  
+
   
   <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Liberating My Media Files From Wordpress | tallcoleman</title>
-<meta name="generator" content="Jekyll v3.8.7" />
+<meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Liberating My Media Files From Wordpress" />
 <meta name="author" content="Ben Coleman" />
 <meta property="og:locale" content="en_US" />
@@ -33,9 +33,11 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-03-27T00:00:00-04:00" />
 <script type="application/ld+json">
-{"dateModified":"2017-03-27T00:00:00-04:00","datePublished":"2017-03-27T00:00:00-04:00","image":"https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG","mainEntityOfPage":{"@type":"WebPage","@id":"https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html"},"author":{"@type":"Person","name":"Ben Coleman"},"description":"Introduction","@type":"BlogPosting","url":"https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html","headline":"Liberating My Media Files From Wordpress","@context":"https://schema.org"}</script>
+{"url":"https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html","headline":"Liberating My Media Files From Wordpress","dateModified":"2017-03-27T00:00:00-04:00","datePublished":"2017-03-27T00:00:00-04:00","image":"https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG","mainEntityOfPage":{"@type":"WebPage","@id":"https://tallcoleman.me/website%20setup/2017/03/27/liberating-my-media-files-from-wordpress-dot-com.html"},"author":{"@type":"Person","name":"Ben Coleman"},"description":"Introduction","@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
+
+  <script defer src="/scripts/footnotes2.js"></script>
 </head>
 
 
@@ -144,7 +146,9 @@
 
 <p>Jekyll has lots of good importers for migrating posts from WordPress sites, but the task of bringing over your assets (files, images, etc.) is something you have to do yourself. If you plan on keeping your WordPress site running, your migrated posts will still be able to serve their assets correctly, but it’s much better to have assets fully integrated into your site, instead of being served from an external URL.</p>
 
-<p>This post has instructions for one simple-ish way of getting all the files that are used in your WordPress posts. It works for Linux and should be pretty easy in OSX (you might have to install tools like wget if you don’t have that already.) Sorry Windows users–I know Jekyll is already hard for you<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. Once you have downloaded all the files, you can choose how you want to integrate them into your Jekyll site.</p>
+<p>This post has instructions for one simple-ish way of getting all the files that are used in your WordPress posts. It works for Linux and should be pretty easy in OSX (you might have to install tools like wget if you don’t have that already.) Sorry Windows users–I know Jekyll is already hard for you <a class="annotation-link">1</a>.
+<span class="annotation">I actually run Windows, but honestly it’s easier to run Ubuntu in a VM than to get Ruby to play nice with Windows. Works well enough for me, and since I deployed the site in github pages, I can still write posts in the browser on github or push them from Windows without running <code class="language-plaintext highlighter-rouge">jekyll serve</code> locally.</span>
+Once you have downloaded all the files, you can choose how you want to integrate them into your Jekyll site.</p>
 
 <h2 id="setup">Setup</h2>
 
@@ -154,7 +158,7 @@
 
 <p>Start by navigating to the directory that contains all your migrated WordPress posts. You’ll need to figure out the general structure of asset links in the posts. For me, the asset links looked like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- [U of T Publications with Intl Coauthors](http://tallcoleman.files.wordpress.com/2014/05/u-of-t-publications-with-intl-coauthors2.png?w=625)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- [U of T Publications with Intl Coauthors](http://tallcoleman.files.wordpress.com/2014/05/u-of-t-publications-with-intl-coauthors2.png?w=625)
 
 - [Letter from Brad Duguid](http://tallcoleman.files.wordpress.com/2014/02/signedcopy-262605.pdf)
 
@@ -163,7 +167,7 @@
 
 <h3 id="grep-asset-urls">Grep Asset URLs</h3>
 
-<p>To pull out all the asset links, I used grep, with the output streamed to a text file. In this case it looks for links that start with the asset base url and end with either <code class="highlighter-rouge">)</code> or <code class="highlighter-rouge">?</code>. Another way to do it would be to use a list of file extensions to find the end of each link.</p>
+<p>To pull out all the asset links, I used grep, with the output streamed to a text file. In this case it looks for links that start with the asset base url and end with either <code class="language-plaintext highlighter-rouge">)</code> or <code class="language-plaintext highlighter-rouge">?</code>. Another way to do it would be to use a list of file extensions to find the end of each link.</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">grep</span> <span class="nt">-rio</span> <span class="s2">"http://tallcoleman.files.wordpress.com[^</span><span class="se">\)\?</span><span class="s2">]*[</span><span class="se">\)\?</span><span class="s2">]"</span> <span class="o">&gt;</span> WpFileLinks1.txt
 </code></pre></div></div>
@@ -184,7 +188,7 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sed</span> <span class="s1">'s|.*:h\(.*\)|\1|'</span> WpFileLinks2.txt <span class="o">&gt;</span> WpFileLinks3.txt
 </code></pre></div></div>
 
-<p>I had to go add the h’s back in using find-and-replace to substitute ‘ttp://’ with ‘http://’. (I told you it’s not a very good method). I should go learn the proper syntax for <code class="highlighter-rouge">sed</code> later.</p>
+<p>I had to go add the h’s back in using find-and-replace to substitute ‘ttp://’ with ‘http://’. (I told you it’s not a very good method). I should go learn the proper syntax for <code class="language-plaintext highlighter-rouge">sed</code> later.</p>
 
 <h3 id="downloading-your-files">Downloading Your Files</h3>
 
@@ -193,7 +197,7 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget <span class="nt">-i</span> ~/Documents/tallcoleman.github.io/WpFileLinks3.txt
 </code></pre></div></div>
 
-<p>the <code class="highlighter-rouge">-i</code> flag tells wget to get the list of URLs from our file.</p>
+<p>the <code class="language-plaintext highlighter-rouge">-i</code> flag tells wget to get the list of URLs from our file.</p>
 
 <p>Nice folder of files!</p>
 
@@ -212,20 +216,12 @@
 
 <p>Replace:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/assets/WpAssets/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/assets/WpAssets/
 </code></pre></div></div>
 
 <p>There are still some php suffixes remaining but Jekyll just ignores them, so I’ve only removed them if I catch them in the wild, though finding them with regex shouldn’t be too hard if you want to make sure you’ve removed them all.</p>
 
 <p>If you have suggestions for ways I can do this less badly, hit me up at ben[dot]coleman[at]mail[dot]utoronto[dot]ca or on <a href="https://twitter.com/tallcoleman">Twitter</a>.</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>I actually run Windows, but honestly it’s easier to run Ubuntu in a VM than to get Ruby to play nice with Windows. Works well enough for me, and since I deployed the site in github pages, I can still write posts in the browser on github or push them from Windows without running <code class="highlighter-rouge">jekyll serve</code> locally. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 
   </div>
 
