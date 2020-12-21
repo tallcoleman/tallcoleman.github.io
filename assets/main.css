@@ -59,6 +59,38 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+@media screen and (min-width: 775px) {
+  .full-width {
+    display: flex;
+    justify-content: center;
+    left: 50%;
+    margin-left: -45vw;
+    margin-right: -45vw;
+    max-width: 90vw;
+    position: relative;
+    right: 50%;
+    width: 90vw; } }
+
+p.full-width > img, p.full-width > a {
+  max-width: 1050px;
+  height: auto;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+  @media screen and (min-width: 775px) {
+    p.full-width > img, p.full-width > a {
+      padding: 0 30px 0 30px; } }
+
+.image-caption {
+  font-size: 16.2px;
+  background-color: #eeeeee;
+  margin-top: -15px;
+  padding: 10px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  color: #151515; }
+
 /**
  * Figures
  */
@@ -84,11 +116,15 @@ li > ol {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400; }
 
+article h2, article h3, article h4, article h5, article h6 {
+  line-height: 1.2;
+  margin-top: 1.2em; }
+
 /**
  * Links
  */
 a {
-  color: #008BB0;
+  color: #00637d;
   text-decoration: none;
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
@@ -99,7 +135,7 @@ a {
   /* Instead use this non-standard one: */
   word-break: break-word; }
   a:visited {
-    color: #8851a3; }
+    color: #6c4081; }
   a:hover {
     color: #002A5C;
     text-decoration: underline; }
@@ -178,6 +214,22 @@ sup {
   font-size: smaller; }
 
 /**
+ * Buttons
+ */
+button {
+  border: 1px solid #002A5C;
+  border-radius: 3px;
+  background-color: #FFF;
+  font-size: 16.2px;
+  padding: 6px 9px; }
+  button:hover {
+    -webkit-box-shadow: 1px 1px 1px #bbbbbb;
+    box-shadow: 1px 1px 1px #bbbbbb; }
+  button:active {
+    color: #fff;
+    background-color: #008BB0; }
+
+/**
  * Site header
  */
 .site-header {
@@ -239,7 +291,7 @@ sup {
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg path {
-          fill: #151515; }
+          fill: #bbbbbb; }
       .site-nav input ~ .trigger {
         clear: both;
         display: none; }
@@ -258,6 +310,9 @@ sup {
 /**
  * Site footer
  */
+footer a {
+  color: #002A5C; }
+
 .site-footer {
   background-image: url("Images/2013-05-19-16-17-30-Footer_2.png");
   background-size: cover;
@@ -519,19 +574,13 @@ span.category {
   border-radius: 4px;
   /* replace with relative */ }
 
-span.website-setup {
-  background: #DAE5CD; }
-
-span.cycling {
-  background: #DAE5CD; }
-
-span.ecology {
+span.website-setup, span.cycling, span.ecology {
   background: #DAE5CD; }
 
 span.bloor-yorkville-bia {
   background: #EACACD; }
 
-span.star-trek {
+span.star-trek, span.music {
   background: #FFE498; }
 
 span.governing-council {
@@ -545,8 +594,7 @@ span.utsu {
   background: #7de4ff; }
 
 span.tiff {
-  background: #e67e22;
-  color: #FFF; }
+  background: #f0b37e; }
 
 span.tso {
   background: #DA1512;
@@ -620,7 +668,7 @@ span.tso {
 
 .panel-info .panel-heading {
   color: #020407;
-  background-color: #7BA4D9;
+  background-color: #b6cdea;
   border-color: #356fb9; }
 
 /**
@@ -682,3 +730,28 @@ span.annotation {
 
 .annotation-displayed {
   display: block; }
+
+article.post table {
+  border-collapse: separate;
+  width: 100%;
+  margin-bottom: 20px;
+  border: 1px solid #356fb9;
+  border-spacing: 0;
+  border-radius: 5px; }
+  article.post table th, article.post table td {
+    padding: 3px 9px 3px 9px; }
+  article.post table > thead {
+    background-color: #b6cdea;
+    color: #020407; }
+    article.post table > thead th {
+      border-bottom: 1px solid #356fb9; }
+  article.post table > tbody > tr:nth-child(even) {
+    background-color: #eeeeee; }
+  article.post table th:first-of-type {
+    border-top-left-radius: 4px; }
+  article.post table th:last-of-type {
+    border-top-right-radius: 4px; }
+  article.post table tr:last-of-type td:first-of-type {
+    border-bottom-left-radius: 4px; }
+  article.post table tr:last-of-type td:last-of-type {
+    border-bottom-right-radius: 4px; }
