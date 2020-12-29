@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2020-12-20T21:48:33-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2020-12-29T14:29:27-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
 </subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Exploring Orchestral Music via a Favourite Instrument</title><link href="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html" rel="alternate" type="text/html" title="Exploring Orchestral Music via a Favourite Instrument" /><published>2020-12-20T00:00:00-05:00</published><updated>2020-12-20T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html">&lt;p&gt;I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.&lt;/p&gt;
 
 &lt;p&gt;However, lots of people find getting into orchestral music intimidating. Even I do, from time to time. So I thought I would write about some creative ways that people can explore orchestral music and find new pieces that they like. My hope is that this will be informative for people who are new to orchestral music, and interesting to people who already feel they know orchestral music pretty well.&lt;/p&gt;
@@ -17,7 +17,7 @@
 
 &lt;p&gt;I’ve put links to albums on Spotify and also links to the &lt;a href=&quot;https://www.hornsociety.org/hornexcerpts-org&quot;&gt;International Horn Society’s excerpts pages&lt;/a&gt; so that you can easily find the parts I’m talking about.&lt;/p&gt;
 
-&lt;script defer=&quot;&quot; src=&quot;/assets/Scripts/spotifyEmbedLoader.js&quot;&gt;&lt;/script&gt;
+&lt;script defer=&quot;&quot; src=&quot;/scripts/spotifyEmbedLoader.js&quot;&gt;&lt;/script&gt;
 
 &lt;div class=&quot;panel panel-info&quot;&gt;
   &lt;h2 class=&quot;panel-heading panel-info&quot; id=&quot;embedded-spotify-players&quot;&gt;Embedded Spotify Players&lt;/h2&gt;
