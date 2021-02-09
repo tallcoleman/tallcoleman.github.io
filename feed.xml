@@ -1,5 +1,184 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2020-12-30T21:27:08-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-02-09T10:52:29-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
+
+&lt;p&gt;Streaming is now the primary way that most people listen to music. &lt;a href=&quot;https://medium.com/@RIAA/charting-a-path-to-musics-sustainable-success-12a5625bbc7d#8e10&quot;&gt;According to the Recording Industry Association of America&lt;/a&gt;, streaming now accounts for 79% of U.S. music industry revenues &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;If you’ve read any feature piece about the past and future of the music industry, you’ve probably seen the &lt;a href=&quot;https://www.riaa.com/u-s-sales-database/&quot;&gt;RIAA’s graph of how revenue sources have changed over time&lt;/a&gt;. As someone who went to high school in the late 2000s, my favourite thing about this graph is looking at the “Era of Paying for Ringtones” between about 2005 and 2010.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Classical music has lagged behind in the overall trend towards streaming: &lt;a href=&quot;https://www.bbc.com/news/entertainment-arts-46861984&quot;&gt;a report covered by the BBC in 2019&lt;/a&gt; showed that in the UK, CD sales were still dominant (and growing) in the classical genre. Classical streaming was much smaller as a proportion of the UK market (about a quarter of sales compared to two thirds overall) but catching up quickly. In fact, year over year growth in classical streaming was reported to be 42% compared to 33% for streaming overall. A recent article from &lt;a href=&quot;https://www.ludwig-van.com/toronto/2020/03/10/report-streaming-music-the-song-economy-classical-music/&quot;&gt;Ludwig van Toronto exploring the same figures in-depth&lt;/a&gt; speculated that “those figures are generally recognized to represent existing classical music lovers. Streaming is the way to get that new blood the classical music world is always looking for.”&lt;/p&gt;
+
+&lt;p&gt;So — continuing the train of thought &lt;a href=&quot;/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;from my last post&lt;/a&gt; — when someone searches for “classical” in their streaming service of choice, what do they find?&lt;/p&gt;
+
+&lt;p&gt;If they’re listening to some of the most popular classical or orchestral playlists on Spotify or Apple Music, you won’t hear many pieces by composers of colour, or women composers. In some cases you won’t hear them at all. In many cases, your chances of hearing such composers is two to three times higher at a local US symphony than it is on the top classical playlists on these major streaming platforms.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary-classical-playlist-analysis&quot;&gt;Summary: Classical Playlist Analysis&lt;/h2&gt;
+
+&lt;p&gt;For this analysis, I examined top classical playlists — four from Apple Music, and four from Spotify — that you might find by searching “classical” or “orchestral” in each service and picking from the top results. I compared the number of composers that were women, Black, Indigenous, and people of colour in these playlists with similar numbers from the recent mainstage programs of 120 US orchestras.&lt;/p&gt;
+
+&lt;h3 id=&quot;us-orchestra-mainstage-seasons&quot;&gt;US Orchestra Mainstage Seasons&lt;/h3&gt;
+
+&lt;p&gt;The comparator I’m using is from the &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;Institute for Composer Diversity&lt;/a&gt;. From their 2019/20 season analysis, this is the representation of composers by number of times their pieces were programmed by orchestras:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;BIPOC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;120 US Orchestras&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.9%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21 “Top” US Orchestras&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.0%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4.5%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;apple-music-summary&quot;&gt;Apple Music&lt;/h3&gt;
+
+&lt;p&gt;Official classical playlists on Apple Music consistently had about half the number of women composers compared to the average US orchestra mainstage season, and only their new releases playlist, &lt;em&gt;The A-List: Classical&lt;/em&gt;, had any pieces by composers of colour (one track by Sofiane Pamart and another by Alexis Ffrench). Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; playlist in particular exclusively featured white men composers.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Apple Music Playlist&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Black / POC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Essentials&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.0%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Relaxing Classical&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4.0%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;The A-List: Classical&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.9%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Kids&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Full figures and composer details for Apple Music playlists to come in a future post.&lt;/p&gt;
+
+&lt;h3 id=&quot;spotify-summary&quot;&gt;Spotify&lt;/h3&gt;
+
+&lt;p&gt;Spotify’s classical playlists were slightly better, but still lagged US orchestras in representation. Most of their playlists had — at best — about half the number of women composers or composers of colour compared to the average US orchestra mainstage season. The one exception was Spotify’s &lt;em&gt;Classical New Releases&lt;/em&gt; playlist, which had nearly comparable representation of women composers, and slightly greater representation of composers of colour. &lt;em&gt;Classical New Releases&lt;/em&gt; also holds the distinction of having the only track written by an Indigenous composer (Yorta Yorta woman Deborah Cheetham).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Spotify Playlist&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;BIPOC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Essentials&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4.1%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Sleep&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4.2%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical New Releases&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6.4%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Orchestra 100: Spotify Picks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.0%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2.0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Full figures and composer details for Spotify playlists to come in a future post.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what&quot;&gt;So What?&lt;/h2&gt;
+
+&lt;p&gt;Both of these platforms have made repeated commitments to improve representation of women and people of colour on their platforms.&lt;/p&gt;
+
+&lt;p&gt;After mass protests in response to racism and police brutality, in particular the police killings of George Floyd, Ahmaud Arbery, and Breonna Taylor, &lt;a href=&quot;https://newsroom.spotify.com/2020-06-01/spotify-stands-with-the-black-community-in-the-fight-against-racism-and-injustice/&quot;&gt;Spotify announced on Blackout Tuesday that it “Stands With the Black Community in the Fight Against Racism and Injustice”&lt;/a&gt;, and outlined a number of measures to amplify Black musicians and podcasts on its platform. Two weeks later, it pledged to donate USD $10 million to “organizations that are focused on the fight against racism, injustice, and inequity around the world”. &lt;a href=&quot;https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest&quot;&gt;Apple Music made some similar symbolic changes to its platform&lt;/a&gt;, and &lt;a href=&quot;https://www.cnbc.com/2020/05/31/apple-ceo-tim-cook-email-to-employees-about-george-floyd.html&quot;&gt;Apple pledged to make unspecified donations to racial justice organizations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now, many months later, pieces by Black composers remain scarce on classical playlists on both platforms.&lt;/p&gt;
+
+&lt;p&gt;In addition to commitments to support movements for racial justice, these platforms have also tried to position themselves as being on the vanguard of sharing the wealth of music offered by global multicuturalism. In 2018, &lt;a href=&quot;https://newsroom.spotify.com/2018-09-28/discover-hits-from-around-the-world-with-spotifys-global-cultures-initiative/&quot;&gt;Spotify launched their Global Cultures Initiative&lt;/a&gt;, “which promotes and advances culturally diverse music, surfacing hits from different countries around the world”.&lt;/p&gt;
+
+&lt;p&gt;Yet, just over a year later, &lt;a href=&quot;https://www.musicbusinessworldwide.com/spotifys-head-of-african-music-tunde-ogundipe-leaves-service-alongside-indian-music-expert-himanshu-suri/&quot;&gt;Spotify disbanded the original Global Cultures curatorial team&lt;/a&gt;. Although they pledged to continue the initiative with “a larger, region-specific editorial team of experts”, &lt;a href=&quot;https://www.rollingstone.com/pro/features/spotify-global-cultures-initiative-892762/&quot;&gt;the change elicited negative reactions from many artists, as reported by Rolling Stone&lt;/a&gt;. Rolling Stone also noted that the disbanding coincided with an exodus of several high-profile curators who are people of colour, and &lt;a href=&quot;https://www.cnbc.com/2020/12/03/how-spotify-hopes-to-win-the-podcasting-wars.html&quot;&gt;a nearly-billion dollar shift towards podcasting&lt;/a&gt; — which has largely been to the benefit of creators and businesspeople who are white and established.&lt;/p&gt;
+
+&lt;p&gt;Underrepresentation of women has also been an issue on streaming platforms for many years. In 2019, &lt;a href=&quot;https://www.rollingstone.com/music/music-country/martina-mcbride-spotify-country-music-882401/&quot;&gt;country singer Martina McBride posted about her frustration with overwhelmingly male-dominated algorithmic recommendations&lt;/a&gt; in &lt;a href=&quot;https://www.nbcnews.com/think/opinion/country-music-radio-has-ignored-female-artists-years-we-have-ncna1137571&quot;&gt;a genre that is well known for being hostile to female artists&lt;/a&gt;. Musicologist &lt;a href=&quot;https://songdata.ca/2019/10/01/reflecting-on-spotifys-recommender-system/&quot;&gt;Dr. Jada E. Watson also found similar results when testing the algorithmic song recommendations&lt;/a&gt; for country music fans.&lt;/p&gt;
+
+&lt;p&gt;Even earlier, &lt;a href=&quot;https://thebaffler.com/latest/discover-weakly-pelly&quot;&gt;writer Liz Pelly used Spotify’s absurd “Smirnoff Equalizer” marketing campaign to show that the platform had a distinct male bias&lt;/a&gt; that was “subtly shifting us back toward a more homogenous and overtly masculine pop music culture”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I listened almost exclusively to a sampling of the most popular entries: Today’s Top Hits, New Music Friday, Rock This, Rap Caviar, Hot Country, ¡Viva Latino!, and more. Every week, for one month, I downloaded a spreadsheet of the playlist data and analyzed the gender disparity. In the interest of not misgendering artists on the basis of their appearance or sound, I focused on confirming how artists self-identify on their Spotify “about” pages or other verified bios.&lt;/p&gt;
+
+  &lt;p&gt;The result of this experiment: I found Spotify’s most popular and visible playlists to be staggeringly male-dominated. Not only this, I approached the project by listening from a brand new account in order to confirm that gender bias would be reproduced by way of algorithmic recommendations—that when a user listens to mostly male-dominated playlists, what is produced are yet more male-dominated playlists. Indeed, the sexist music industry status quo is upheld widely by Spotify, even as the platform exploits the woke optics of playlists like Feminist Friday and advertising schemes like the Smirnoff Equalizer to further benefit its brand recognition and bottom line.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In all likelihood, human–algorithmic curation that reinforces bias against cis women is even more inhospitable for trans and non-binary musicians. Despite looking through hundreds of songs, Liz Pelly reported that she “encountered no artists on Spotify’s top playlists who did not identify as a man or woman”.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the platforms could argue that classical music is such a small niche that it’s just been overlooked by their efforts to feature diverse artists. Or that the lack of representation in their playlists reflects a lack of representation in a historically-white genre. But neither of these reactions would hold up to much scrutiny. Wouldn’t a genuine commitment to diversity be reflected in all curatorial decisions; in official playlists of all sizes? If the genre is to blame, why do most of the playlists have at best half the number of women composers or composers of colour compared to an average US orchestra season?&lt;/p&gt;
+
+&lt;div class=&quot;annotation-wrapper&quot;&gt;Playlist diversity compared to orchestra mainstage programming is not a hard benchmark to exceed. Most orchestras are literally-eurocentric, small-c conservative institutions. And yet, the meager steps taken by US orchestras — at least a full year before the pandemic &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+    &lt;p&gt;Orchestras are known for having long planning timelines. For the 2019/20 season, conductors and soloists might have been booked two or three years ahead of their performances.&lt;/p&gt;
+
+    &lt;p&gt;The latest a piece could have been confirmed would have been December 2018 (maybe January 2019 at a stretch), since marketing teams then need to prepare materials for a mid-winter subscription on-sale that usually launches at least half a year in advance of the first performance.&lt;/p&gt;
+  &lt;/div&gt; — to program more composers from the likes of Florence Price, Gabriela Lena Frank, Jennifer Higdon, and Anna Clyne have put them much further ahead than the current efforts of these two tech companies &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;The dates that tracks were added to a Spotify playlist are visible in the metadata, so we know when curatorial decisions were published:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;All of the tracks in &lt;em&gt;Classical Essentials&lt;/em&gt; were added on October 2, 2020&lt;/li&gt;
+    &lt;li&gt;The tracks in &lt;em&gt;Classical New Releases&lt;/em&gt; were added between December 18, 2020 and January 1, 2021&lt;/li&gt;
+    &lt;li&gt;All of the tracks in &lt;em&gt;Classical Sleep&lt;/em&gt; were added on January 1, 2021&lt;/li&gt;
+    &lt;li&gt;&lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; by contrast, hasn’t been actively curated since 2017; most of the tracks were added in May of 2016&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Apple Music’s metadata has “Date Modified” and “Date Added” fields, but both appear to be blank when exporting data from official playlists.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I would like to see progress in orchestra programming continue and pick up speed. If streaming platforms lived up to their diversity commitments, perhaps a new generation of audience members who discover classical composers online would act as a catalyst, demanding orchestra programs that better represent the communities that ensembles work in. As it is, these platforms are cementing the status quo; investing in unseen curators and algorithms who spend their time tending to a musical monoculture.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-better-options&quot;&gt;Some Better Options&lt;/h2&gt;
+
+&lt;p&gt;For people looking to find ways to listen to a more diverse range of classical music composers, there are some options:&lt;/p&gt;
+
+&lt;p&gt;For US listeners, the &lt;a href=&quot;https://www.composerdiversity.com/media&quot;&gt;Institute for Composer Diversity has a partnership with Pandora&lt;/a&gt; to curate channels that feature a diverse mix of composers.&lt;/p&gt;
+
+&lt;p&gt;For Canadian listeners, &lt;a href=&quot;https://www.cbc.ca/listen/live-radio/2-4278-tempo&quot;&gt;CBC’s &lt;em&gt;Tempo&lt;/em&gt;&lt;/a&gt; seems to be a good choice. There are also a number of Canadian composers who are women or people of colour featured on the &lt;a href=&quot;https://cmccanada.org/product-category/recordings/centrediscs/&quot;&gt;Canadian Music Centre’s Centredisks Label&lt;/a&gt;. (Centredisks albums are also on the major streaming services, e.g. you can &lt;a href=&quot;https://open.spotify.com/album/4YJETJz7W99jMXRlEHPWJb?si=pLfDSybqRbiSB6chYt0x4g&quot;&gt;listen to Alexina Louie’s &lt;em&gt;Take the Dog Sled&lt;/em&gt; on Spotify&lt;/a&gt;. While I’m at it, I should shill a little bit and note that you can also &lt;a href=&quot;https://www.youtube.com/watch?v=yYvegcavM9k&quot;&gt;listen to her Triple Concerto&lt;/a&gt; on the TSO’s YouTube channel.)&lt;/p&gt;
+
+&lt;p&gt;On the major streaming services themselves, there are some playlists designed to specifically showcase women composers, e.g. &lt;a href=&quot;https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb&quot;&gt;Spotify’s &lt;em&gt;Women of Classical&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;https://music.apple.com/ca/playlist/women-in-classical-music/pl.03392dae73604942b02ab8e53c482ae0&quot;&gt;Apple Music’s &lt;em&gt;Women in Classical Music&lt;/em&gt;&lt;/a&gt;. I couldn’t find official playlists on either service specifically for classical composers of colour, but you can certainly find third party playlists, such as &lt;a href=&quot;https://open.spotify.com/playlist/67avQ7fZ1zvEk1RDI9C3sd?si=ydgJJhfnQ1OCiRCjv3A7Pg&quot;&gt;this playlist on Spotify made by NAXOS for Black History Month&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, although the numbers of women composers and composers who are Indigenous, Black, or people of colour on streaming services are low, I researched over 650 tracks for this project &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665…&lt;/span&gt;, so the list of people who &lt;em&gt;are&lt;/em&gt; represented is still fairly long and interesting.&lt;/p&gt;
+
+&lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;In thinking about creative ways that people can explore orchestral music and find new pieces that they like, I’ve been thinking a lot about representation. There are many good pieces written by composers who don’t fit the stereotype of dead white men, and I want to make sure they are prominently featured in my posts.&lt;/p&gt;
 
@@ -62,7 +241,7 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;A slightly more cynical take would be that, for some people, new music has a reputation of being hard to listen to, so keeping it short and early in the program makes concerts tolerable for audience members who don’t like abstract or atonal music that much. The Baltimore Symphony has a good &lt;a href=&quot;https://www.bsomusic.org/stories/reconsidering-our-assumptions-about-new-music/&quot;&gt;blog post about the reputation that “new music” has with audiences&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In any case, it’s notable when works by a composer of colour, or a woman composer (or honestly, a living composer) takes the longest spot on the program.&lt;/p&gt;
+&lt;p&gt;In any case, it’s notable when works by a composer of colour, or a woman composer (or honestly, a living composer) takes the longest spot on the program. In fact, the Institute for Composer Diversity &lt;a href=&quot;https://www.composerdiversity.com/programming&quot;&gt;specifically makes a point of recommending&lt;/a&gt; that Orchestras “Include more substantial works by composers from underrepresented groups in the second or third positions on the program.”&lt;/p&gt;
 
 &lt;h3 id=&quot;representation-in-marketing-materials&quot;&gt;Representation in marketing materials&lt;/h3&gt;
 
@@ -91,26 +270,26 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 &lt;p&gt;The &lt;a href=&quot;https://www.bsomusic.org/stories/all-stories&quot;&gt;Baltimore Symphony Orchestra&lt;/a&gt; had a series called “By the Numbers” analyzing the concert seasons of top US orchestras:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-2014-15-orchestra-season-by-the-numbers.aspx&quot;&gt;Baltimore 2014/15 (22 Orchestras)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/what-data-tells-us-about-the-2015-16-orchestra-season.aspx&quot;&gt;Baltimore 2015/16 (89 Orchestras)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-data-behind-the-2016-2017-orchestra-season/&quot;&gt;Baltimore 2016/17 (85 Orchestras)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-2014-15-orchestra-season-by-the-numbers.aspx&quot; target=&quot;_blank&quot;&gt;Baltimore 2014/15 (22 Orchestras)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/what-data-tells-us-about-the-2015-16-orchestra-season.aspx&quot; target=&quot;_blank&quot;&gt;Baltimore 2015/16 (89 Orchestras)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-data-behind-the-2016-2017-orchestra-season/&quot; target=&quot;_blank&quot;&gt;Baltimore 2016/17 (85 Orchestras)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The Baltimore series stopped after three seasons, but &lt;a href=&quot;https://wophil.org/&quot;&gt;Women’s Philharmonic Advocacy&lt;/a&gt; started doing their own season analysis starting in 2016/17 with a smaller list of 21 orchestras &lt;a class=&quot;annotation-link&quot;&gt;8&lt;/a&gt;
 &lt;span class=&quot;annotation&quot;&gt;I think the intention was to continue using the 21 orchestras that Baltimore had initially looked at for 2014/15, though Baltimore later added Nashville, bringing their 2014/15 number up to 22.&lt;/span&gt; as a way to highlight the lack of women composers represented in orchestra programs:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/works-by-women-in-the-2016-2017-season/?doing_wp_cron=1609362368.6617569923400878906250&quot;&gt;WPA 2016/17&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1609128744.0469379425048828125000&quot;&gt;WPA 2017/18&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2018-19-season-by-the-numbers/?doing_wp_cron=1609129077.7042410373687744140625&quot;&gt;WPA 2018/19&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2019-2020-season-by-the-numbers/?doing_wp_cron=1609129530.1376090049743652343750&quot;&gt;WPA 2019/20&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wophil.org/works-by-women-in-the-2016-2017-season/?doing_wp_cron=1609362368.6617569923400878906250&quot; target=&quot;_blank&quot;&gt;WPA 2016/17&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1609128744.0469379425048828125000&quot; target=&quot;_blank&quot;&gt;WPA 2017/18&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2018-19-season-by-the-numbers/?doing_wp_cron=1609129077.7042410373687744140625&quot; target=&quot;_blank&quot;&gt;WPA 2018/19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2019-2020-season-by-the-numbers/?doing_wp_cron=1609129530.1376090049743652343750&quot; target=&quot;_blank&quot;&gt;WPA 2019/20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Another organization, called DONNE, &lt;a href=&quot;https://donne-uk.org/orchestras-research/&quot;&gt;has been doing similar analysis for a more global set of 15 orchestras&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2018-2019/&quot;&gt;DONNE 2018/19&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2019-2020/&quot;&gt;DONNE 2019/20&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2018-2019/&quot; target=&quot;_blank&quot;&gt;DONNE 2018/19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2019-2020/&quot; target=&quot;_blank&quot;&gt;DONNE 2019/20&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;DONNE also has a research page with links to other studies on representation in music, including &lt;a href=&quot;https://www.presencecompositrices.com/wp-content/uploads/2020/06/Bilan-Novembre-2019-_OBSERVER.pdf&quot;&gt;one on (mostly-classical) French music festivals&lt;/a&gt;, which I have put on my reading list.&lt;/p&gt;
@@ -140,10 +319,11 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
   &lt;p&gt;If you click the button below, it will load embedded Spotify players for each of the pieces described. However, you should be aware that they also load several ad-trackers and third party cookies,
     &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;
     &lt;span class=&quot;annotation&quot;&gt;A more detailed description of the trackers and cookies loaded by the embedded Spotify player can be found on the
-      &lt;a href=&quot;https://themarkup.org/blacklight?url=open.spotify.com&quot;&gt;Blacklight privacy inspector&lt;/a&gt;
+      &lt;a href=&quot;https://themarkup.org/blacklight?url=open.spotify.com&quot;&gt;Blacklight privacy inspector&lt;/a&gt;.
     &lt;/span&gt;
  so make sure to disable third-party cookies and use a tool like
  &lt;a href=&quot;https://privacybadger.org/&quot; target=&quot;_blank&quot;&gt;Privacy Badger&lt;/a&gt; if you choose to use this option.&lt;/p&gt;
+ &lt;p&gt;The &lt;a href=&quot;https://www.naxosmusiclibrary.com&quot; target=&quot;_blank&quot;&gt;Naxos Music Library&lt;/a&gt; is also a great way to listen to orchestral music, and you can get free access to it through most local library systems.&lt;/p&gt;
   &lt;p class=&quot;panel-footer panel-info&quot;&gt;
     &lt;button class=&quot;spotify-embed-button&quot; type=&quot;button&quot;&gt;Load Embedded Spotify Players&lt;/button&gt;
   &lt;/p&gt;
@@ -158,6 +338,8 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;This is probably one of the most beautiful French Horn solos in the orchestral repertoire. Although it doesn’t sound like it, it’s absolute murder to play since holding long, high notes without a break is a real workout for the lips.&lt;/p&gt;
 
+&lt;p&gt;The horn player in this recording is presumably Dale Clevenger, who retired in 2013 after nearly five decades as Chicago’s principal horn.&lt;/p&gt;
+
 &lt;h3 id=&quot;bonus-holst-the-planets-second-movement-venus-the-bringer-of-peace&quot;&gt;Bonus: Holst &lt;em&gt;The Planets&lt;/em&gt;, Second Movement “Venus, the Bringer of Peace”&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://open.spotify.com/track/2voC37VwC0NcD4LME5t6sS&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: Toronto Symphony Orchestra&lt;/a&gt;&lt;/p&gt;
@@ -167,11 +349,13 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;Another famous and incredibly serene French Horn solo. Also incredibly difficult for the same reasons.&lt;/p&gt;
 
+&lt;p&gt;TSO’s principal horn is Neil Deland. Maybe it’s home team bias, but I’m always blown away by the quality of his sound and how it just totally fills the hall.&lt;/p&gt;
+
 &lt;h2 id=&quot;mahler-symphony-no-5-first-and-third-movements&quot;&gt;Mahler Symphony No. 5, First and Third Movements&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/0CIVMeCs5ZM6y7Lckc635b&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: London Symphony Orchestra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/6Mlx6uECLVK8v4q0zPyqdL&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: Philadelphia Orchestra&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;spotify-embed&quot;&gt;
-&lt;!-- &lt;iframe id=&quot;iframe&quot; src=&quot;https://open.spotify.com/embed/album/0CIVMeCs5ZM6y7Lckc635b&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;!-- &lt;iframe id=&quot;iframe&quot; src=&quot;https://open.spotify.com/embed/album/6Mlx6uECLVK8v4q0zPyqdL&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
 &lt;/div&gt;
 
 &lt;p&gt;If you like things to get loud, Mahler is a pretty safe bet. (One of his symphonies famously features a &lt;a href=&quot;https://www.youtube.com/watch?v=dSh5I_rMr9c&quot;&gt;comically large hammer&lt;/a&gt; as an instrument.)&lt;/p&gt;
@@ -182,8 +366,11 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-1&quot;&gt;The opening fanfare&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-2&quot;&gt;A scale, but dramatic&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-3&quot;&gt;The happy part in-between all the turmoil&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-4&quot;&gt;The part where four horn players have to play the same loud note in tune (just after 1:00 in the linked clips)&lt;/a&gt; &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Most people consider French Horn to be a hard instrument to consistently play in tune due to how much the pitch can change, depending on what you do with your lips. These four notes are particularly difficult because they have to be played with the bell end of the horn held up in the air, which makes playing in tune even harder.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-4&quot;&gt;The part where four horn players have to play the same loud note in tune (just after 1:00 in the linked clips)&lt;/a&gt; &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Most people consider French Horn to be a hard instrument to consistently play in tune because of how much the pitch can be affected by what you do with your lips and the hand that sits in the bell. These four notes are particularly difficult because they have to be played with the bell end of the horn held up in the air, which makes playing in tune even harder (no hand control and harder to keep the mouthpiece stable on your lips). The video with Sarah Willis linked below gives a good demonstration of how the hand can sometimes be used to help manage pitch.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Philadelphia’s principal horn is Jennifer Montone - she’s played on a wide range of recordings that includes her work as a soloist, in orchestras, and in chamber groups.
+&lt;a href=&quot;https://www.jenmontone.com/discography&quot;&gt;Jennifer Montone’s Discography&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bonus-strauss&quot;&gt;Bonus: Strauss&lt;/h3&gt;
 
@@ -194,14 +381,27 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;If you like fanfares and big soaring passages, you’ll probably like Strauss’s &lt;a href=&quot;https://www.hornsociety.org/strauss/strauss-te&quot;&gt;&lt;em&gt;Till Eulenspiegel&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;https://www.hornsociety.org/strauss/strauss-eh&quot;&gt;&lt;em&gt;Ein Heldenleben&lt;/em&gt;&lt;/a&gt; too.&lt;/p&gt;
 
+&lt;p&gt;Philharmonia’s principal horn is Nigel Black. I thought it might also be interesting to link this &lt;a href=&quot;https://www.youtube.com/watch?v=SZoZLWaMYaQ&quot;&gt;video of Sarah Willis from the Berlin Philharmonic giving a demonstration of &lt;em&gt;Till Eulenspiegel&lt;/em&gt; and also a common Beethoven excerpt&lt;/a&gt;. I think it’s a good demonstration that being a good horn player often isn’t about playing things that are super complicated and fiddly, but rather playing things that often sound simple while achieving the best sound possible.&lt;/p&gt;
+
 &lt;h2 id=&quot;ravel-pavane-for-a-dead-princess&quot;&gt;Ravel: &lt;em&gt;Pavane for a Dead Princess&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/track/3LZAmCYXzkK1WemjJVxFXT&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: Cleveland Orchestra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/track/2DmlTLFphBLAIACKPsLAQH&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: Orchestre Philharmonique du Luxembourg&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;spotify-embed&quot;&gt;
-&lt;!-- &lt;iframe id=&quot;iframe&quot; src=&quot;https://open.spotify.com/embed/track/3LZAmCYXzkK1WemjJVxFXT&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;!-- &lt;iframe id=&quot;iframe&quot; src=&quot;https://open.spotify.com/embed/track/2DmlTLFphBLAIACKPsLAQH&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
 &lt;/div&gt;
 
 &lt;p&gt;An all time classic. Incredibly beautiful.&lt;/p&gt;
+
+&lt;p&gt;This recording was conducted by the TSO’s new Music Director, Gustavo Gimeno. The horn player I would guess is OPL’s principal, Miklós Nagy.&lt;/p&gt;
+
+&lt;h3 id=&quot;bonus-berlioz&quot;&gt;Bonus: Berlioz&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/1Z0qIV4ZqwzERjiWw62JRR&quot; target=&quot;_blank&quot;&gt;🔗 Spotify: Cleveland Orchestra&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;spotify-embed&quot;&gt;
+&lt;!-- &lt;iframe id=&quot;iframe&quot; src=&quot;https://open.spotify.com/embed/album/1Z0qIV4ZqwzERjiWw62JRR&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you like the French, you should check out this other Cleveland Orchestra recording, which is of Berlioz’s &lt;em&gt;Symphonie fantastique&lt;/em&gt;. The principal horn on the recording is Shelly Showers, who now is part of the Philadelphia Orchestra (they’ve got some incredible horn section bench strength over there…)&lt;/p&gt;
 
 &lt;p&gt;That’s it for today - the next post will be looking at ways to explore living and diverse composers.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TSO Blog Post: Carmina Burana</title><link href="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html" rel="alternate" type="text/html" title="TSO Blog Post: Carmina Burana" /><published>2019-05-30T00:00:00-04:00</published><updated>2019-05-30T00:00:00-04:00</updated><id>https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana</id><content type="html" xml:base="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html">&lt;p&gt;As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s &lt;em&gt;Carmina Burana&lt;/em&gt;.&lt;/p&gt;
 
@@ -614,64 +814,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;In her interview, Danis talks about getting started as a casting director and how her experiences during casting motivated her to make her own films. While I was doing my pre-interview research, I found out that one of the gigs she had was doing the Canadian casting for &lt;em&gt;Mean Girls&lt;/em&gt;, which meant casting all the extras and many of the smaller roles. Apparently the &lt;a href=&quot;https://www.youtube.com/watch?v=9KY8WU0oa3I&quot;&gt;Kevin Gnapoor rap&lt;/a&gt; is burned into her brain now.&lt;/p&gt;
 
-&lt;p&gt;That being said, after I asked her all my &lt;em&gt;Mean Girls&lt;/em&gt; questions, I did do the real interview with her, which you can read on the &lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;TIFF Website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TIFF" /><summary type="html">I’ve been spending a lot of time recently writing internal-facing reports, so it’s nice to be able to write something to share with the world. TIFF has a publication of sorts called ACTION report, which is an excellent showcase of how our funding makes a difference in the moving image arts 1.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mac Setup</title><link href="https://tallcoleman.me/technology/2017/08/07/mac-setup.html" rel="alternate" type="text/html" title="Mac Setup" /><published>2017-08-07T00:00:00-04:00</published><updated>2017-08-07T00:00:00-04:00</updated><id>https://tallcoleman.me/technology/2017/08/07/mac-setup</id><content type="html" xml:base="https://tallcoleman.me/technology/2017/08/07/mac-setup.html">&lt;p&gt;&lt;strong&gt;Updated: April 28, 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I bought a new computer (Mac) recently and wanted to make a list of all the tools I find useful in case other people find them useful too. I used to use a Windows computer, so a lot of these are things I used on Windows too, or equivalents.&lt;/p&gt;
-
-&lt;p&gt;So here it is:&lt;/p&gt;
-
-&lt;h2 id=&quot;new-airdrop-location-selection&quot;&gt;New: AirDrop Location Selection&lt;/h2&gt;
-
-&lt;p&gt;I find that AirDrop is often the fastest way to transfer individual files over to my computer. However, if you want to choose where the files end up, you’ll have to use an Automator Script. &lt;a href=&quot;http://www.idownloadblog.com/2017/03/03/change-airdrop-destination-folder-mac/&quot;&gt;This site&lt;/a&gt; has a good description of how to set that up (ignore the phony notification request). I would suggest one twist: for the “Move Finder Items” action, click “Options” and check “Show this action when the workflow runs”. That way, you can select a specific folder every time you receive an AirDrop file.&lt;/p&gt;
-
-&lt;h2 id=&quot;window-management&quot;&gt;Window Management&lt;/h2&gt;
-
-&lt;p&gt;This is something Windows does better natively than Mac (in my opinion). However, as long as you’re comfortable with using your keyboard, &lt;a href=&quot;https://www.spectacleapp.com/&quot;&gt;Spectacle&lt;/a&gt; does a good job of bringing OSX up to par.&lt;/p&gt;
-
-&lt;p&gt;One small note: if you use the keyboard shortcut for footnotes in Word (⌘ + ⌥ + F), you might want to remap the “fullscreen” shortcut in Spectacle’s preferences so they don’t conflict.&lt;/p&gt;
-
-&lt;h2 id=&quot;spotify-notifications&quot;&gt;Spotify Notifications&lt;/h2&gt;
-
-&lt;p&gt;Why isn’t this a thing that the Spotify app already does!? Anyway, in the meantime, you can see the title of each new song with &lt;a href=&quot;https://spotify-notifications.citruspi.io/&quot;&gt;this app&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;flux&quot;&gt;Flux&lt;/h2&gt;
-
-&lt;p&gt;Screw night shift. &lt;a href=&quot;https://justgetflux.com/&quot;&gt;Flux&lt;/a&gt; is &lt;a href=&quot;https://9to5mac.com/2017/03/28/flux-developer-says-apples-new-competitive-macos-night-shift-feature-falls-short/&quot;&gt;better&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;battery-lifetime&quot;&gt;Battery Lifetime&lt;/h2&gt;
-
-&lt;p&gt;Since the newer versions of OSX &lt;a href=&quot;https://9to5mac.com/2016/12/13/why-apple-is-removing-time-remaining-battery-life-estimates-macbook-pro/&quot;&gt;don’t have the battery time remaining indicator&lt;/a&gt;, I think this &lt;a href=&quot;https://itunes.apple.com/app/battery-diag/id836505650?mt=12&quot;&gt;Battery Monitor App (App Store Link)&lt;/a&gt; is pretty useful.&lt;/p&gt;
-
-&lt;h2 id=&quot;trackball-scrolling&quot;&gt;Trackball scrolling&lt;/h2&gt;
-
-&lt;p&gt;I have a Logitech M570 Trackball Mouse and I like to use the trackball to scroll. It’s amazing and I don’t know why the Logitech software doesn’t allow you to do this already since it’s 1000% better than using the scroll wheel.&lt;/p&gt;
-
-&lt;p&gt;I got the trackball scrolling working using a &lt;a href=&quot;http://www.hammerspoon.org/&quot;&gt;hammerspoon&lt;/a&gt; script from this thread:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/tekezo/Karabiner/issues/814&quot;&gt;https://github.com/tekezo/Karabiner/issues/814&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It has options for keybinding to start the scroll mode, or you can press a button on the mouse, which is what I do. I only changed two parts of the mouse button script:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Line 4:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;local &lt;/span&gt;scrollmult &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-2&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;The negative number makes it non-natural scrolling. I prefer the natural scrolling, but this helps me switch back to Windows, which I have to use at work. I also tamped down the speed a bit, from 4 to 2.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Line 13:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;nb&quot;&gt;local &lt;/span&gt;shouldScroll &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; 2 &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; pressedMouseButton
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Changed the button to OSX button 3 (middle button). I also remapped the fifth button (“forward”) in Logitech Options to be the middle button, which is how I had it set up in Windows. I find it easier to click than the mouse wheel.&lt;/p&gt;
-
-&lt;p&gt;Other than that, I kept the rest of the script the same. Works better than the Windows AHK script I was using.&lt;/p&gt;
-
-&lt;h2 id=&quot;typewriter-scrolling-in-ms-word&quot;&gt;Typewriter Scrolling in MS Word&lt;/h2&gt;
-
-&lt;p&gt;On Windows, I had an AHK script that kept the active line in Microsoft Word in the middle of the screen, instead of wandering to the bottom (a.k.a. “typewriter scrolling”). Since I occasionally do transcription, this is really useful, since it improves the ergonomics of typing for a long time.&lt;/p&gt;
-
-&lt;p&gt;I couldn’t find a script that did the same thing using Hammerspoon, so I wrote one using AppleScript. It’s not elegant… but it works!&lt;/p&gt;
-
-&lt;p&gt;Link: &lt;a href=&quot;https://github.com/tallcoleman/MacWordTypewriterScroll&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Technology" /><summary type="html">Updated: April 28, 2018</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;That being said, after I asked her all my &lt;em&gt;Mean Girls&lt;/em&gt; questions, I did do the real interview with her, which you can read on the &lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;TIFF Website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TIFF" /><summary type="html">I’ve been spending a lot of time recently writing internal-facing reports, so it’s nice to be able to write something to share with the world. TIFF has a publication of sorts called ACTION report, which is an excellent showcase of how our funding makes a difference in the moving image arts 1.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
