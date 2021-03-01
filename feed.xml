@@ -1,5 +1,393 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-02-09T10:52:29-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics and Nature
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-03-01T00:22:56-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Apple Music Classical Playlists</title><link href="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Apple Music Classical Playlists" /><published>2021-03-01T00:00:00-05:00</published><updated>2021-03-01T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music</id><content type="html" xml:base="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html">&lt;h2 id=&quot;the-deep-dive&quot;&gt;The Deep Dive&lt;/h2&gt;
+
+&lt;p&gt;My goal for this blog series was to write about ways to explore and enjoy orchestral music. So, as part of going over the Spotify and Apple Music stats in detail, I wanted to highlight the small number of composers in each playlist that were women, Black, Indigenous, and/or people of colour. This way, you can discover more about them and get to know their music.&lt;/p&gt;
+
+&lt;p&gt;There’s a really interesting range of artists featured on both streaming services, ranging from composers from as early as the 17th century to some modern musicians who have built careers in and around the streaming platforms.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-201920-orchestra-seasons-as-a-benchmark&quot;&gt;Using 2019/20 orchestra seasons as a benchmark&lt;/h2&gt;
+
+&lt;p&gt;To provide a benchmark, each playlist below is compared to a hypothetical playlist where the number of composers who are women; Black, Indigenous, or people of colour; or both is proportional to how often these composers are programmed by the average US orchestra.&lt;/p&gt;
+
+&lt;p&gt;This “average US orchestra” calculation is based on the &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;2019/20 season analysis of 120 US orchestras from the Institute for Composer Diversity&lt;/a&gt;. The ICD analysis found that only 7.9% of works on mainstage programs were by women composers, and only 5.6% were by composers from underrepresented racial, ethnic, or cultural heritages. A full summary of their findings is included in the table below:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Full ICD List&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;“Top 21” from ICD List &lt;a class=&quot;annotation-link&quot;&gt;*&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Orchestras&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;120&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Works Programmed&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4075&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1490&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;321 (7.9%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;104 (7.0%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;BIPOC &lt;a class=&quot;annotation-link&quot;&gt;**&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;236 (5.8%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;67 (4.5%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;BIPOC Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;77 (1.9%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;24 (1.6%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;658 (16.1%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;241 (16.2%)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;span class=&quot;annotation&quot;&gt;This subgroup of 21 of the largest US orchestras will come up later when I talk about the ICD analysis in more detail. It is the original group analyzed by the Baltimore Symphony for the 2014/15 season and the group that has continued to be analyzed by Women’s Philharmonic Advocacy from 2016/17 to the present.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;annotation&quot;&gt;The designation used by the Institute for Composer Diversity is “Composers from Underrepresented Racial, Ethnic, or Cultural Heritages”. My understanding is that this comprises composers who are Black, Indigenous, or people of colour.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#methodology&quot;&gt;More information about the methodology behind these numbers.&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- Needs some fiddling with the CSS to make it work (e.g. H2 adds its own padding under the heading div) --&gt;
+&lt;!-- also needs inclusion of footer; add to post template --&gt;
+&lt;div class=&quot;panel panel-warning&quot;&gt;
+  &lt;div class=&quot;panel-warning panel-heading&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Labels for Composers who are Black, Indigenous, or People of Colour&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;p&gt;Since the intention of the BIPOC acronym is to specifically highlight the unique experiences of Black and Indigenous people, and not to be a catch-all for people who are not white, I’ve only used it in acronym form when talking about a group that includes all of the identities the acronym implies and when the acronym is warranted due to space limitations.&lt;/p&gt;
+
+  &lt;p&gt;When talking about a group that does not include all the identities that BIPOC implies, I’ve written out the specific identities that are included. When talking about an individual artist, I’ve tried to use their specific identity, as they describe it.&lt;/p&gt;
+
+  &lt;p&gt;The NPR podcast &lt;a href=&quot;https://www.npr.org/transcripts/918418825&quot;&gt;Code Switch had a good episode on the BIPOC acronym&lt;/a&gt; and
+the various opinions people have about it.&lt;/p&gt;
+
+  &lt;p&gt;One important thing to note is that the labels used in the tables below only describe the specific identities of the composers actually featured in each playlist. However, the &lt;em&gt;Average US Orchestra&lt;/em&gt; numbers should always be understood to imply the potential for broader representation.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;apple-music&quot;&gt;Apple Music&lt;/h2&gt;
+
+&lt;p&gt;Apple Music is often seen as a streaming platform that cares more about the experience of classical music listeners. Their app does a better job of displaying pieces of music that have multiple movements, and their metadata is more suited to the genre. Unlike Spotify, &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#analysis&quot;&gt;they have a pretty reliable “composer” field for most tracks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, this increased attention to the genre hasn’t resulted in composer representation that keeps up with the field, as you can see in the playlists examined below.&lt;/p&gt;
+
+&lt;h3 id=&quot;classical-essentials&quot;&gt;Classical Essentials&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Classical Essentials&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;101&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3 (3.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4 (4.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As you can see, there are no composers of colour represented on this playlist.&lt;/p&gt;
+
+&lt;p&gt;One interesting thing about all of the three women composers on this playlist is that they are partially known for having deep musical and personal relationships with another person: Fanny Mendelssohn with her brother Felix, Nadia Boulanger, with her sister Lili, and Clara Schumann with her husband Robert.&lt;/p&gt;
+
+&lt;h4 id=&quot;fanny-mendelssohn-string-quartet-in-e-flat-major-i-adagio-ma-non-troppo&quot;&gt;Fanny Mendelssohn: String Quartet in E-Flat Major: I. Adagio ma non troppo&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Fanny_Mendelssohn&quot;&gt;Fanny Mendelssohn&lt;/a&gt; (14 November 1805 – 14 May 1847), later Fanny [Cäcilie] Mendelssohn Bartholdy and, after her marriage, Fanny Hensel, also referred to as Fanny Mendelssohn Hensel, was a German composer and pianist of the early Romantic era. Her compositions include a piano trio, a piano quartet, an orchestral overture, four cantatas, more than 125 pieces for the piano, and over 250 lieder, most of which went unpublished in her lifetime. Although praised for her piano technique, she rarely gave public performances outside her family circle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The first movement of this string quartet is really good - I see why they chose it for the playlist. Apparently she never formally learned to play any string instruments, and also &lt;a href=&quot;https://en.wikipedia.org/wiki/Fanny_Mendelssohn#Compositions&quot;&gt;was self-deprecating about this particular piece&lt;/a&gt;, which I think is sad:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;She was also undoubtedly hampered by the fact that, unlike her brother, she had never studied or played any string instruments, experience which would have assisted her in writing chamber or orchestral works… After completing her string quartet, she wrote to Felix in 1835, “I lack the ability to sustain ideas properly and give them the needed consistency. Therefore lieder suit me best, in which, if need be, merely a pretty idea without much potential for development can suffice.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;lili-boulanger--nadia-boulanger-lux-aeterna-for-voice-harp-violin-and-cello&quot;&gt;Lili Boulanger &amp;amp; Nadia Boulanger: Lux Aeterna (For Voice, Harp, Violin And Cello)&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nadia_Boulanger&quot;&gt;Juliette Nadia Boulanger&lt;/a&gt; (16 September 1887 – 22 October 1979) was a French composer, conductor, and teacher. She is notable for having taught many of the leading composers and musicians of the 20th century. She also performed occasionally as a pianist and organist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lili_Boulanger&quot;&gt;Marie-Juliette Olga “Lili” Boulanger&lt;/a&gt; (21 August 1893 – 15 March 1918) was a French composer, and the first female winner of the Prix de Rome composition prize. Her older sister was the noted composer and composition teacher Nadia Boulanger.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The history of this piece is quite interesting — in an article titled &lt;em&gt;Nadia and Lili Boulanger: Sister Composers&lt;/em&gt;, Dr. Caroline Potter notes that &lt;em&gt;Lux Aeterna&lt;/em&gt; is the second version of the song; the first was &lt;em&gt;Cantique&lt;/em&gt;, a setting of a poem from a play named &lt;em&gt;Soeur Béatrice&lt;/em&gt; by Belgian playwright Maurice Maeterlinck &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.
+&lt;span class=&quot;annotation&quot;&gt;
+Potter, Caroline. “Nadia and Lili Boulanger: Sister Composers.” The Musical Quarterly, vol. 83, no. 4, 1999, pp. 536–556. JSTOR, www.jstor.org/stable/742616. Accessed 24 Jan. 2021.
+&lt;/span&gt; Dr. Potter observes that &lt;em&gt;Cantique&lt;/em&gt; is heavily influenced by Gabriel Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and has very similar opening chords &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;.
+&lt;span class=&quot;annotation&quot;&gt;
+The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and Boulanger’s &lt;em&gt;Cantique&lt;/em&gt;, according to Dr. Potter, is that Fauré used the Lydian mode as a musical pun.
+&lt;/span&gt; Nadia Boulanger later re-orchestrated &lt;em&gt;Cantique&lt;/em&gt; and set it to the text of the &lt;em&gt;Lux Aeterna&lt;/em&gt; for a mass commemorating Lili’s (early) death.&lt;/p&gt;
+
+&lt;p&gt;Although Apple Music credits the song to both sisters, this seems to be incorrect. The &lt;a href=&quot;https://id.loc.gov/authorities/names/no2011126201.html&quot;&gt;Library of Congress credits Nadia as the sole composer&lt;/a&gt;, though it notes that she intended to have her orchestration match Lili’s &lt;em&gt;Pie Jesu&lt;/em&gt; in the reworking of the song. The &lt;a href=&quot;https://www.naxos.com/mainsite/blurbs_reviews.asp?item_code=8.223636&amp;amp;catNum=223636&amp;amp;filetype=About%20this%20Recording&amp;amp;language=English&quot;&gt;liner notes for the album&lt;/a&gt; note that “Since 1918, Nadia’s &lt;em&gt;Lux Aeterna&lt;/em&gt; and Lili’s &lt;em&gt;Pie Jesu&lt;/em&gt; have been sung every 15th March at a memorial Mass in Paris”.&lt;/p&gt;
+
+&lt;h4 id=&quot;clara-schumann-scherzo-no-2-in-c-minor-op-14&quot;&gt;Clara Schumann: Scherzo No. 2 in C Minor, Op. 14&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Clara_Schumann&quot;&gt;Clara Josephine Schumann&lt;/a&gt; (née Wieck; 13 September 1819 – 20 May 1896) was a German pianist, composer and piano teacher. Regarded as one of the most distinguished pianists of the Romantic era, she exerted her influence over a 61-year concert career, changing the format and repertoire of the piano recital from displays of virtuosity to programs of serious works. She also composed solo piano pieces, a piano concerto (her Op. 7), chamber music, choral pieces, and songs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you like this piece, Isata Kanneh-Mason recorded a whole &lt;a href=&quot;https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE?si=DPiJdpJoQ-qiRhorHxMP2A&quot;&gt;album of pieces by Clara Schumann&lt;/a&gt; in 2019, including this one.&lt;/p&gt;
+
+&lt;h3 id=&quot;relaxing-classical&quot;&gt;Relaxing Classical&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Relaxing Classical&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;50&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (4.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (4.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Again, no composers of colour.&lt;/p&gt;
+
+&lt;p&gt;While researching both of the women composers featured on this playlist, I came across the &lt;a href=&quot;https://www.swedishmusicalheritage.com/&quot;&gt;Swedish Musical Heritage Website&lt;/a&gt;, which is a project initiated by The Royal Swedish Academy of Music. Thanks to this site, you can read detailed biographies for both composers and even download a lot of their sheet music for free.&lt;/p&gt;
+
+&lt;h4 id=&quot;helena-munktell-kleines-trio-ii-andante-espressivo&quot;&gt;Helena Munktell: Kleines Trio: II. Andante espressivo&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Helena_Munktell&quot;&gt;Helena Mathilda Munktell&lt;/a&gt; (24 November 1852 – 10 September 1919) was a Swedish composer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From the &lt;a href=&quot;https://bis.se/helena-munktell-violin-sonata-dix-melodies-kleines-trio&quot;&gt;liner notes&lt;/a&gt;: “The third work on this disc is a small-scale piano trio, probably an early work and possibly composed for performance at one of the musical salons at the Munktell family home in Stockholm.”&lt;/p&gt;
+
+&lt;p&gt;There were no works by Munktell included in the League analysis of 120 US orchestra mainstage programs, however, there is a &lt;a href=&quot;https://open.spotify.com/album/7FyUzdTN1C8U1uekkOLsZU?si=su8cZTqpTtqCo16MNjNfOA&quot;&gt;2005 album of her orchestral works by the Gälve Symphony Orchestra&lt;/a&gt;. An untapped opportunity for orchestras looking to increase the number of women on the program, perhaps. Despite the fact that I spent a lot of a &lt;a href=&quot;/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt; talking about how women and people of colour should be programmed more in the back half of orchestra programs, I think her symphonic poem &lt;em&gt;Bränningar&lt;/em&gt; (Breaking Waves) would make a great opener.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.swedishmusicalheritage.com/composers/munktell-helena/&quot;&gt;Biography of Helena Munktell on Swedish Musical Heritage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;amanda-rontgen-maier-violin-sonata-in-b-minor-ii-andantino&quot;&gt;Amanda Rontgen-Maier: Violin Sonata in B Minor: II. Andantino&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amanda_R%C3%B6ntgen-Maier&quot;&gt;Amanda Röntgen-Maier&lt;/a&gt; (20 February 1853 – 15 July 1894) was a Swedish violinist and composer. She was the first female graduate in music direction from the Royal College of Music in Stockholm in 1872.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My favourite fact about this Sonata, according to her biography, is that when she submitted it to the Swedish Art Music Society, one of the three men who reviewed it suggested she change the slow movement. To which she basically said “no, I like it too much the way it is”. The result: “The sonata was printed without any alterations and published in 1878.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.swedishmusicalheritage.com/composers/maier-rontgen-amanda/&quot;&gt;Biography of Amanda Röntgen-Maier on Swedish Musical Heritage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-a-list-classical&quot;&gt;The A-List: Classical&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;The A-List: Classical&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;51&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (3.9%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Black / People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (3.9%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5 (9.8%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As I understand it, Apple Music’s “A-List” playlists are where they program new releases. The kinds of music on this playlist range from new recordings of the kinds of classical composers you might see on an orchestra program to instrumental streaming artists who primarily make their living based on placement on mood-themed playlists.&lt;/p&gt;
+
+&lt;p&gt;Both of the two composers of colour that were featured on this playlist are in the latter category of musicians who have made careers primarily as streaming artists.&lt;/p&gt;
+
+&lt;h4 id=&quot;sofiane-pamart-san-francisco&quot;&gt;Sofiane Pamart: San Francisco&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sofiane_Pamart&quot;&gt;Sofiane Pamart&lt;/a&gt; is a French pianist, based in Paris and originally from Hellemmes in the suburbs of Lille. He is known to the French public for breaking the elitist codes of classical piano.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Every track on Pamart’s &lt;em&gt;Planet Gold&lt;/em&gt; album is geographically-named, so consider this a fun way to get the thrill of travelling while staying safe at home. &lt;em&gt;San Francisco&lt;/em&gt; in particular I thought was pretty hypnotic and cinematic. It reminded me a lot of Christopher Larkin’s very popular &lt;a href=&quot;https://christopherlarkin.bandcamp.com/album/hollow-knight-original-soundtrack&quot;&gt;Hollow Knight soundtrack&lt;/a&gt;, which I think speaks to Pamart’s ability to create a strong sense of atmosphere that really fuels your imagination.&lt;/p&gt;
+
+&lt;h4 id=&quot;alexis-ffrench-a-time-for-giving&quot;&gt;Alexis Ffrench: A Time for Giving&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alexis_Ffrench&quot;&gt;Alexis Ffrench&lt;/a&gt; (born 1970) is a British classical soul pioneer, composer, producer and pianist. Not only is Ffrench the UK’s biggest selling pianist of 2020, he has headlined London’s Royal Albert Hall, collaborated with fashion houses Miyake and Hugo Boss, played Latitude Festival, worked with Paloma Faith, composed several film scores and shares the same management team as Little Mix and Niall Horan.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This reminds me of the kinds of music my mum used to play on the piano while people were coming in to church. Which makes sense in a certain way — &lt;a href=&quot;https://archive.voice-online.co.uk/article/im-always-trying-retain-spirituality-my-music&quot;&gt;Alexis Ffrench often talks about how he grew up playing the organ at church and the role that spirituality has in his music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you like this song, you should also check out his &lt;a href=&quot;https://www.youtube.com/watch?v=3_YNupMR6A4&quot;&gt;performance of the Bluebird Suite with orchestra at the Classic BRIT Awards 2018&lt;/a&gt;, which also features South African singer Pretty Yende.&lt;/p&gt;
+
+&lt;h4 id=&quot;streaming-artists-and-their-audience&quot;&gt;Streaming Artists and Their Audience&lt;/h4&gt;
+
+&lt;p&gt;Artists who have been able to make a career on streaming platforms playing classical instruments often get asked in interviews some variant of a question “how do you feel about the fact that you’re not making &lt;em&gt;serious&lt;/em&gt; classical music?”&lt;/p&gt;
+
+&lt;p&gt;Sometimes the implication is that their talent is being wasted on an audience who is primarily assumed to be writing emails while listening, other times it’s a nastier implication that they make simple, uncomplicated music with little “high art” merit. I don’t think it’s a particularly fair or meaningful question, but I do find that the variety of responses that these artists give is interesting.&lt;/p&gt;
+
+&lt;p&gt;The best answers seem to turn the question on its head: instead of being about “is your art valuable” (as judged by the existing gatekeepers), it becomes about the relationship each artist has with their audience, and the value that the audience gets from their music.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://panm360.com/en/interviews-panm360/les-mondes-de-sofiane-pamart/&quot;&gt;Sofiane Pamart talks about this&lt;/a&gt; in a recent interview:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How do you respond to the classical purists, who remain unconvinced?&lt;/p&gt;
+
+  &lt;p&gt;… The important thing is to touch, to be moved. That goes beyond the technical repertoire. That comes later. It’s interesting to understand how an artist creates, but that comes later. I’m very happy to move away from that. If it does you good to tell you that there are winks at Debussy, I’m very happy, and if you have no classical references and it makes you think of film music or something else, I’m very comfortable with that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.standard.co.uk/culture/alexis-ffrench-interview-classical-music-needs-to-be-more-provocative-to-survive-a3866271.html&quot;&gt;Alexis Ffrench has a good answer too&lt;/a&gt;, I think:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Crucially, this means “breaking down perceived barriers”, therefore the power of the three-and-a-half-minute message should not be underestimated. “You can write 40-minute symphonies, but it’s more important to me to connect with people at this stage.” All of his singles on Spotify are under four minutes long and his new album is “tuneful,” despite many classical artists seeing this a “dirty word”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Actually, &lt;a href=&quot;https://www.standaard.be/cnt/dmf20210108_97760578?adh_i=&amp;amp;imai=&amp;amp;articlehash=CCA16B79E2A7BEBE80A47827F93058CF1FD977FAC79F5EF802575F1CBE816ED8D09D95989DDD769F6DBA00D6A10D290093FC25920ABB3BD55ECF2D337719A86D&quot;&gt;the most entertaining answer I found was from streaming artist Jef Martens&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Doesn’t it bother that the compositions you work so hard on are often listened to as background music?&lt;/p&gt;
+
+  &lt;p&gt;‘There are also Debussy arrangements, or pieces by Vikingur Olafsson. Just because people use them as a background doesn’t mean the music is bad. And apart from that: is one listener worth more than another? When I bring someone to a transcendental metaphysical insight with my music, I love it. And if I can help an official through his first tax check on a Monday morning, that’s fine.’
+&lt;br /&gt;[Via Google Translate - the original article is in Dutch]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/11/25/arts/music/peter-gelb-met-opera.html&quot;&gt;Even Peter Gelb answers emails while listening to the Met Opera rehearse&lt;/a&gt;. That’s the great thing about music: it can be enjoyed many different ways. Sometimes it can bring joy to your life in the background, and sometimes it can be an all-encompassing artistic experience.&lt;/p&gt;
+
+&lt;h4 id=&quot;milana-zilnik-dicembre&quot;&gt;Milana Zilnik: Dicembre&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.milana.ws/biography/&quot;&gt;Milana&lt;/a&gt; is a multi-award winning pianist, composer and singer-songwriter, who has been a performing and recording artist since her childhood. A strong lyricist and composer in her own right, Milana’s style is reminiscent of Tori Amos, Sarah McLachlan, Michael Nyman, Keith Jarret and Chick Corea. Milana enjoys playing by ear, improvising and using whatever inspires her to create her own style of playing. She is known as an adept improviser, catching melodies on the fly and expanding them into her own creations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A Canadian!! I too would write sad piano music if I lived in Ottawa year-round.&lt;/p&gt;
+
+&lt;h4 id=&quot;amanda-rontgen-maier-violin-sonata-in-b-minor-ii-andantino-1&quot;&gt;Amanda Rontgen-Maier: Violin Sonata in B Minor: II. Andantino&lt;/h4&gt;
+
+&lt;p&gt;This track was &lt;a href=&quot;#amanda-rontgen-maier-violin-sonata-in-b-minor-ii-andantino&quot;&gt;also featured in Apple Music’s &lt;em&gt;Relaxing Classical&lt;/em&gt; playlist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;classical-kids&quot;&gt;Classical Kids&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Classical Kids&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks &lt;a class=&quot;annotation-link&quot;&gt;*&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;50&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;9 (18.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;Of these 50, three of the tracks are nursery rhymes with no known composer, one did not have an identifiable composer listed (&lt;em&gt;Classical Piano Music for Baby Sleep&lt;/em&gt; by Baby Lullaby Academy), and one was not a piece of music, but rather an audiobook chapter read by Michael Morpurgo. These unknown composers are not omitted for the percentage calculations — &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;see the methodology section for more details&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The theoretical underpinning of this whole exercise is “what classical music do new listeners find on streaming platforms”, and no listeners are newer than children. Pretty disappointing that this whole playlist has no women or people of colour at all.&lt;/p&gt;
+
+&lt;p&gt;Of course, music for children has the same representation issues as music for any other audience. &lt;a href=&quot;https://www.billboard.com/articles/news/awards/9506870/childrens-music-album-grammy-nominees-withdraw-lack-diversity/&quot;&gt;Billboard recently reported&lt;/a&gt; that “three of this year’s five Grammy nominees for best children’s music album asked the Recording Academy to withdraw their nominations to signal their disappointment that all the nominees in the category are white and only one is female.”&lt;/p&gt;
+
+&lt;h2 id=&quot;next-up-spotify&quot;&gt;Next Up: Spotify&lt;/h2&gt;
+
+&lt;p&gt;The Spotify classical playlists were longer than those on Apple Music, and had greater representation of composers who are women and composers who are Black, Indigenous, or people of colour. So I’ll split my Spotify deep dive into two or three posts so that I can talk about all the tracks in proper detail.&lt;/p&gt;
+
+&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
 
 &lt;p&gt;Streaming is now the primary way that most people listen to music. &lt;a href=&quot;https://medium.com/@RIAA/charting-a-path-to-musics-sustainable-success-12a5625bbc7d#8e10&quot;&gt;According to the Recording Industry Association of America&lt;/a&gt;, streaming now accounts for 79% of U.S. music industry revenues &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
 
@@ -33,7 +421,7 @@
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;120 US Orchestras&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;7.9%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5.6%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5.8%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;21 “Top” US Orchestras&lt;/td&gt;
@@ -79,7 +467,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Full figures and composer details for Apple Music playlists to come in a future post.&lt;/p&gt;
+&lt;p&gt;Full figures and composer details for Apple Music playlists can be found in the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html&quot;&gt;Apple Music Deep Dive post&lt;/a&gt;).&lt;/p&gt;
 
 &lt;h3 id=&quot;spotify-summary&quot;&gt;Spotify&lt;/h3&gt;
 
@@ -107,7 +495,7 @@
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Classical New Releases&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;6.4%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;7.1%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8.6%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Orchestra 100: Spotify Picks&lt;/td&gt;
@@ -174,11 +562,19 @@
 
 &lt;p&gt;For Canadian listeners, &lt;a href=&quot;https://www.cbc.ca/listen/live-radio/2-4278-tempo&quot;&gt;CBC’s &lt;em&gt;Tempo&lt;/em&gt;&lt;/a&gt; seems to be a good choice. There are also a number of Canadian composers who are women or people of colour featured on the &lt;a href=&quot;https://cmccanada.org/product-category/recordings/centrediscs/&quot;&gt;Canadian Music Centre’s Centredisks Label&lt;/a&gt;. (Centredisks albums are also on the major streaming services, e.g. you can &lt;a href=&quot;https://open.spotify.com/album/4YJETJz7W99jMXRlEHPWJb?si=pLfDSybqRbiSB6chYt0x4g&quot;&gt;listen to Alexina Louie’s &lt;em&gt;Take the Dog Sled&lt;/em&gt; on Spotify&lt;/a&gt;. While I’m at it, I should shill a little bit and note that you can also &lt;a href=&quot;https://www.youtube.com/watch?v=yYvegcavM9k&quot;&gt;listen to her Triple Concerto&lt;/a&gt; on the TSO’s YouTube channel.)&lt;/p&gt;
 
-&lt;p&gt;On the major streaming services themselves, there are some playlists designed to specifically showcase women composers, e.g. &lt;a href=&quot;https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb&quot;&gt;Spotify’s &lt;em&gt;Women of Classical&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;https://music.apple.com/ca/playlist/women-in-classical-music/pl.03392dae73604942b02ab8e53c482ae0&quot;&gt;Apple Music’s &lt;em&gt;Women in Classical Music&lt;/em&gt;&lt;/a&gt;. I couldn’t find official playlists on either service specifically for classical composers of colour, but you can certainly find third party playlists, such as &lt;a href=&quot;https://open.spotify.com/playlist/67avQ7fZ1zvEk1RDI9C3sd?si=ydgJJhfnQ1OCiRCjv3A7Pg&quot;&gt;this playlist on Spotify made by NAXOS for Black History Month&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On the major streaming services themselves, there are some playlists designed to specifically showcase women composers, e.g. &lt;a href=&quot;https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb&quot;&gt;Spotify’s &lt;em&gt;Women of Classical&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;https://music.apple.com/ca/playlist/women-in-classical-music/pl.03392dae73604942b02ab8e53c482ae0&quot;&gt;Apple Music’s &lt;em&gt;Women in Classical Music&lt;/em&gt;&lt;/a&gt;. I couldn’t find official playlists on either service specifically for classical composers of colour, but you can certainly find third party playlists, such as &lt;a href=&quot;https://open.spotify.com/playlist/67avQ7fZ1zvEk1RDI9C3sd?si=ydgJJhfnQ1OCiRCjv3A7Pg&quot;&gt;this playlist on Spotify made by NAXOS for Black History Month&lt;/a&gt;. I’ll also give an honourable mention to the &lt;a href=&quot;https://www.uoftfomara.org/&quot;&gt;University of Toronto Faculty of Music Anti-Racism Alliance&lt;/a&gt; who made this &lt;a href=&quot;https://open.spotify.com/playlist/7KsIccKNvDyftVlxWWPEdQ?si=7d886f70c97b420b&quot;&gt;Centring BIPOC Musicians Playlist&lt;/a&gt; (It has a much broader selection of genres than orchestral/classical, but I think it’s very good).&lt;/p&gt;
 
 &lt;p&gt;Finally, although the numbers of women composers and composers who are Indigenous, Black, or people of colour on streaming services are low, I researched over 650 tracks for this project &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665…&lt;/span&gt;, so the list of people who &lt;em&gt;are&lt;/em&gt; represented is still fairly long and interesting.&lt;/p&gt;
 
-&lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;
+
+&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;In thinking about creative ways that people can explore orchestral music and find new pieces that they like, I’ve been thinking a lot about representation. There are many good pieces written by composers who don’t fit the stereotype of dead white men, and I want to make sure they are prominently featured in my posts.&lt;/p&gt;
 
@@ -266,6 +662,13 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;appendix-analyses-of-orchestra-seasons&quot;&gt;Appendix: analyses of orchestra seasons&lt;/h2&gt;
+
+&lt;div class=&quot;panel panel-info&quot;&gt;
+  &lt;div class=&quot;panel-info panel-heading&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Updated and Expanded Version of This List&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;p&gt;I’ve since expanded this list into its own page with additional studies and commentary. You can &lt;a href=&quot;/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html&quot;&gt;view the expanded version of this list here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://www.bsomusic.org/stories/all-stories&quot;&gt;Baltimore Symphony Orchestra&lt;/a&gt; had a series called “By the Numbers” analyzing the concert seasons of top US orchestras:&lt;/p&gt;
 
@@ -795,23 +1198,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;Aside from the whole Milkman’s Lane thing, this part is mostly downhill. Keep an eye on the time if you’re tired. If you’re running out of time getting out of the ravine, there’s a rack in Rosedale Park a couple minutes to the north.&lt;/p&gt;
 
-&lt;p&gt;Enjoy the ride!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Cycling" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TIFF Blog Post: 2167 Indigenous VR</title><link href="https://tallcoleman.me/tiff/2017/11/26/2167-Indigenous-VR.html" rel="alternate" type="text/html" title="TIFF Blog Post: 2167 Indigenous VR" /><published>2017-11-26T00:00:00-05:00</published><updated>2017-11-26T00:00:00-05:00</updated><id>https://tallcoleman.me/tiff/2017/11/26/2167-Indigenous-VR</id><content type="html" xml:base="https://tallcoleman.me/tiff/2017/11/26/2167-Indigenous-VR.html">&lt;p&gt;I’ve been spending a lot of time recently writing internal-facing reports, so it’s nice to be able to write something to share with the world. TIFF has a publication of sorts called &lt;a href=&quot;https://www.tiff.net/action-report/&quot;&gt;ACTION report&lt;/a&gt;, which is an excellent showcase of how our funding makes a difference in the moving image arts &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- footnote --&gt;
-&lt;p class=&quot;annotation&quot;&gt;It’s annoying how tech can make things more difficult. 10 or 20 years ago, “film” might be an OK descriptor of TIFF’s wheelhouse. However, these days an artist might make an augmented reality experience (think Pokemon GO, but artsy), and that would be something TIFF would care about. Would you call that a “film”? Probably not.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;&lt;img src=&quot;/assets/Images/TIFF-Action-Report-Fall-2017.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The ACTION report page&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I was lucky enough to be able to write about &lt;a href=&quot;http://www.tiff.net/events/2167/&quot;&gt;2167&lt;/a&gt;, an indigneous VR exhibit that’s been housed at TIFF for about the past half-year (and travelled around–it’s been to Yellowknife!). There are “VR Experiences” on show, and I spoke to the creator/director of one titled &lt;a href=&quot;http://www.tiff.net/exhibitions/the-hunt/&quot;&gt;&lt;em&gt;The Hunt&lt;/em&gt;&lt;/a&gt;. Her name is Danis Goulet, and she is a Cree/Métis filmmaker, TIFF Short Cuts programmer, and an absolute pleasure to interview.&lt;/p&gt;
-
-&lt;p&gt;To see all of the interesting things that she said about VR, Sci-Fi, and Indigenous filmmaking, go and &lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;read the interview&lt;/a&gt;. &lt;em&gt;The Review&lt;/em&gt;, another great TIFF publication also did an excellent interview with Danis and some of the other VR filmmakers that you can &lt;a href=&quot;http://www.tiff.net/the-review/indigenous-existence-is-resistance/&quot;&gt;read here&lt;/a&gt;. It talks a lot more about the actual filmmaking and the art behind VR, so it’s a fantastic read if you’re into those elements of the project.&lt;/p&gt;
-
-&lt;p&gt;But for this blog, there’s one tidbit I didn’t have space for in the piece that I wanted to share:&lt;/p&gt;
-
-&lt;p&gt;In her interview, Danis talks about getting started as a casting director and how her experiences during casting motivated her to make her own films. While I was doing my pre-interview research, I found out that one of the gigs she had was doing the Canadian casting for &lt;em&gt;Mean Girls&lt;/em&gt;, which meant casting all the extras and many of the smaller roles. Apparently the &lt;a href=&quot;https://www.youtube.com/watch?v=9KY8WU0oa3I&quot;&gt;Kevin Gnapoor rap&lt;/a&gt; is burned into her brain now.&lt;/p&gt;
-
-&lt;p&gt;That being said, after I asked her all my &lt;em&gt;Mean Girls&lt;/em&gt; questions, I did do the real interview with her, which you can read on the &lt;a href=&quot;http://www.tiff.net/action-report/fall2017/indigenous-virtual-futures/&quot;&gt;TIFF Website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TIFF" /><summary type="html">I’ve been spending a lot of time recently writing internal-facing reports, so it’s nice to be able to write something to share with the world. TIFF has a publication of sorts called ACTION report, which is an excellent showcase of how our funding makes a difference in the moving image arts 1.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/TIFF-Action-Report-Fall-2017.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Enjoy the ride!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Cycling" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
