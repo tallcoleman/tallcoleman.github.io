@@ -586,7 +586,7 @@ span.category {
 span.website-setup, span.cycling, span.ecology {
   background: #DAE5CD; }
 
-span.bloor-yorkville-bia {
+span.bloor-yorkville-bia, span.tso {
   background: #EACACD; }
 
 span.star-trek, span.music {
@@ -605,9 +605,10 @@ span.utsu {
 span.tiff {
   background: #f0b37e; }
 
-span.tso {
-  background: #DA1512;
-  color: #FFF; }
+span.programming {
+  font-family: monospace;
+  font-size: 16.875px;
+  background: #eef; }
 
 .panel {
   padding: 15px;

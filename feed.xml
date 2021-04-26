@@ -1,5 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-03-01T00:22:56-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Apple Music Classical Playlists</title><link href="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Apple Music Classical Playlists" /><published>2021-03-01T00:00:00-05:00</published><updated>2021-03-01T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music</id><content type="html" xml:base="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html">&lt;h2 id=&quot;the-deep-dive&quot;&gt;The Deep Dive&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-04-25T22:27:57-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">A Google Docs Word Counter for Grant Writers</title><link href="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html" rel="alternate" type="text/html" title="A Google Docs Word Counter for Grant Writers" /><published>2021-04-25T00:00:00-04:00</published><updated>2021-04-25T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html">&lt;p&gt;My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)&lt;/p&gt;
+
+&lt;p&gt;Scrivener is designed really well for solo writing, but when it comes to collaborative writing and commenting, Google Docs is much, much better. This makes it ideal for grant writing, and I’ve had very few complaints using Google Docs as my main writing tool. However, there is one feature from Scrivener that would be really nice to have for grant writing: a way of setting a word count and word limit for each question.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Images/Scrivener Example.png&quot; alt=&quot;A screenshot of the Scrivener application showing sections with word count targets&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;Scrivener’s outline view allows you to get a quick overview of how your writing is coming along.&lt;/p&gt;
+
+&lt;p&gt;The good thing about Google Apps is that is has pretty extensive scripting support, so I was able to make a script to create wordcounts for each section in a document. You can find the &lt;a href=&quot;https://github.com/tallcoleman/heading-word-counter&quot;&gt;script and its instructions on GitHub&lt;/a&gt;, but I also made a quick demonstration video:&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; width=&quot;100%&quot;&gt;&lt;source src=&quot;/assets/Videos/exampleclip.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;
+
+&lt;p&gt;As you can see, you can put a word limit in parentheses in the heading, and it will add and update a word count within the parentheses as well. I also added some colouring of the word count to serve as a quick visual indicator of how close you are to the limit.&lt;/p&gt;
+
+&lt;p&gt;One thing that’s a bit frustrating is that, unlike in Google Sheets, there’s no trigger you can set up in Google Docs to run the script after you make an edit. So the best I was able to do for now is to provide a menu to run the script on command; in addition, the script will run on a time trigger every minute. (Once per minute is as often as Apps Script allows).&lt;/p&gt;
+
+&lt;p&gt;Despite the trigger limitations, it works pretty well, and I’m going to try using it and try to make additional refinements over time. I’m also going to dig deeper into different word count algorithms so that I can make sure the word count used in the script handles some of the odd edge cases in the same way that Google Docs does. I’ve also encountered some cases where grant portals count words slightly differently than google docs, and it would be interesting to try to figure out why.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking for a session word count target as a writing motivator (another well-loved Scrivener feature), you can check out the &lt;a href=&quot;https://workspace.google.com/marketplace/app/word_counter_max_for_google_docs/364683295233?hl=en&amp;amp;pann=docs_addon_widget&quot;&gt;Word Counter Max add-on&lt;/a&gt;, which looks like it would also be a pretty useful tool for grant writers.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Programming" /><summary type="html">My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Apple Music Classical Playlists</title><link href="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Apple Music Classical Playlists" /><published>2021-03-01T00:00:00-05:00</published><updated>2021-03-01T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music</id><content type="html" xml:base="https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html">&lt;h2 id=&quot;the-deep-dive&quot;&gt;The Deep Dive&lt;/h2&gt;
 
 &lt;p&gt;My goal for this blog series was to write about ways to explore and enjoy orchestral music. So, as part of going over the Spotify and Apple Music stats in detail, I wanted to highlight the small number of composers in each playlist that were women, Black, Indigenous, and/or people of colour. This way, you can discover more about them and get to know their music.&lt;/p&gt;
 
@@ -1100,102 +1118,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;Grant portals are also an interesting study in how technology shapes the way we communicate. The tools we use to communicate often change what we say, how we say it, and how it is received. I have lots of interesting examples of that to share with you later in this series.&lt;/p&gt;
 
-&lt;p&gt;But before that… on with the gripes!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Toronto Beltline Trail via BikeShare</title><link href="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html" rel="alternate" type="text/html" title="Toronto Beltline Trail via BikeShare" /><published>2018-08-26T00:00:00-04:00</published><updated>2018-08-26T00:00:00-04:00</updated><id>https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare</id><content type="html" xml:base="https://tallcoleman.me/cycling/2018/08/26/toronto-beltline-trail-via-bikeshare.html">&lt;p&gt;&lt;img src=&quot;/assets/Images/Ronald-Ave-Station.JPG&quot; alt=&quot;A Bikeshare Bike next to a sign titled Ronald Avenue Station&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;Ronald Ave E - The Turning Around Point&lt;/p&gt;
-
-&lt;h2 id=&quot;key-stats&quot;&gt;Key Stats:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 1h 45m - 2h, depending on how often you take breaks.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Distance:&lt;/strong&gt; about 26km&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hills:&lt;/strong&gt; Moderate, unless you take Milkman’s Lane&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On August 15, Bike Share Toronto &lt;a href=&quot;https://www.thestar.com/news/city_hall/2018/08/15/torontos-bike-share-system-expanding-again.html&quot;&gt;announced that they were expanding their network again&lt;/a&gt;, with 75 new stations across Toronto. One of the interesting new additions was a station on the Kay Gardiner Beltline Trail, which is a great trail for an afternoon bike ride. Naturally, I thought I would try it.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-couple-important-caveats&quot;&gt;A couple important caveats:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keep an eye on the time - especially for the first part of the journey. I use a timer set to 25 minutes to make sure I don’t go over 30 minutes for each part of the trip.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t do this route with a BikeShare bike if it’s raining or has recently rained. They have pretty smooth tires and you don’t want to get the bike dirty. Remember–someone else will be using it later.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When you grab a bike, make sure it has a working bell, well-functioning brakes, and one of the new seats. (They don’t have a suspension, so the new seat thing is important.)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;part-i---castle-frank-to-oriole-park&quot;&gt;Part I - Castle Frank to Oriole Park&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Map-Part-I.png&quot; alt=&quot;Map of route from Castle Frank Station to Oriole Park&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the longest part of the trip, and also the most uphill. If you want to avoid the treacherous ride down Milkman’s Lane, there’s a ramp down from Crescent Road and Mount Pleasant Road that takes you north. You can go down there and enter the ravine at Mount Pleasant and Roxborough. This part takes 22 minutes, or 27 if you avoid Milkman’s Lane.&lt;/p&gt;
-
-&lt;p&gt;Optional Diversion (especially on the way back) - if you want to stop at the Don Valley Brickworks, you can exit through Chorley Park and there’s a rack right at the top of the hill on Douglas Drive.&lt;/p&gt;
-
-&lt;h3 id=&quot;tips&quot;&gt;Tips:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once the trail stops being side-by-side with Bayview Ave, there’s a big fork. Take the larger trail on the left (the other one goes to the Brickworks parking lot)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you don’t want to go through the cemetery, or can’t because of the &lt;a href=&quot;https://www.mountpleasantgroup.com/Locations/Cemeteries/Mount-Pleasant.aspx&quot;&gt;gate hours&lt;/a&gt;, you can go west on Moore Ave and North on Mount Pleasant Rd. Once you hit Merton St, you can go back south slightly and catch the trail again.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The rack in Oriole Park is slightly off the trail, but you should be able to see it when you cross the road.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Davisville-Yard.JPG&quot; alt=&quot;Photo of the Davisville TTC Yard taken from the trail bridge&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;Once you see the Davisville TTC Yard, you’re almost at Oriole Park.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-ii---oriole-park-to-memorial-park&quot;&gt;Part II - Oriole Park to Memorial Park&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Map-Part-II.png&quot; alt=&quot;Map of route from Oriole Park to Memorial Park&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the shortest part of the trip. It’s slightly uphill, but pretty easy. It should take just under 10 minutes. The rack at Memorial Park is right on the trail, so it’s hard to miss.&lt;/p&gt;
-
-&lt;p&gt;There are park washrooms on the outside of the Arena, so if you need a bathroom break, this is a good spot.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Memorial-Park-Dock.JPG&quot; alt=&quot;The Bike Rack at Memorial Park&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;The rack by Memorial Park. Currently the northern-most rack in the system.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-iii---memorial-park-to-the-york-beltline-trail-and-back-again&quot;&gt;Part III - Memorial Park to the York Beltline Trail and Back Again&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Map-Part-III.png&quot; alt=&quot;Map of route from Memorial Park westward&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There’s no other BikeShare racks after this, so &lt;strong&gt;make sure you set a timer to tell you when to turn around!&lt;/strong&gt; I set mine for a safe 13 minutes, but you could do 14.5 minutes if you like to live life on the edge.&lt;/p&gt;
-
-&lt;p&gt;There’s a small section where this trail hops up to Elm Ridge Dr/Roselawn Ave to get over the Allen Expressway, but it’s short and has good signs to get you back to the trail.&lt;/p&gt;
-
-&lt;p&gt;I managed to get to Ronald Ave E before turning around. I think if you really cut it close and went fast you could get to the end of the trail… but that’s an experiment for another day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/York-Beltline-View.JPG&quot; alt=&quot;Photo of the York Beltline Trail&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;Enjoy the paved trail while it lasts! If you have time, check out all the historical signs–they’re great.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-iv---memorial-park-to-oriole-park&quot;&gt;Part IV - Memorial Park to Oriole Park&lt;/h2&gt;
-
-&lt;p&gt;This is the same as part II, but going back. Enjoy going slightly downhill!&lt;/p&gt;
-
-&lt;p&gt;If you want to take a different route, you can head leave the trail south at Russell Hill Rd and head downtown. There are racks all over north downtown within a 30 minute ride (Spadina Station is just under 20 minutes, for example.)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/Kay-Gardiner-Beltline-View.JPG&quot; alt=&quot;Photo of the Kay Gardiner Beltline Trail Park&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;The shade on this part of the trail is fantastic on a hot day.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-v---oriole-park-to-castle-frank-station&quot;&gt;Part V - Oriole Park to Castle Frank Station&lt;/h2&gt;
-
-&lt;p&gt;Avoid going up Milkman’s Lane unless you want to be completely exhausted, especially since the bikes only have one low gear.&lt;/p&gt;
-
-&lt;p&gt;Don’t make the same mistake that I did and go into the Cemetery before Mount Pleasant and then take the trail from the West side. That trail has stairs, and the BikeShare bikes are &lt;em&gt;heavy&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Aside from the whole Milkman’s Lane thing, this part is mostly downhill. Keep an eye on the time if you’re tired. If you’re running out of time getting out of the ravine, there’s a rack in Rosedale Park a couple minutes to the north.&lt;/p&gt;
-
-&lt;p&gt;Enjoy the ride!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Cycling" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ronald-Ave-Station.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;But before that… on with the gripes!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
