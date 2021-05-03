@@ -1,5 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-04-25T22:27:57-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">A Google Docs Word Counter for Grant Writers</title><link href="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html" rel="alternate" type="text/html" title="A Google Docs Word Counter for Grant Writers" /><published>2021-04-25T00:00:00-04:00</published><updated>2021-04-25T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html">&lt;p&gt;My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-05-03T12:03:59-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part One)</title><link href="https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part One)" /><published>2021-05-03T00:00:00-04:00</published><updated>2021-05-03T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one</id><content type="html" xml:base="https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html">&lt;h2 id=&quot;the-deep-dive-continues&quot;&gt;The Deep Dive Continues&lt;/h2&gt;
+
+&lt;p&gt;To recap quickly from &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html&quot;&gt;my last post going through the Apple Music playlists&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My goal for this blog series was to write about ways to explore and enjoy orchestral music. So, as part of going over the Spotify and Apple Music stats in detail, I wanted to highlight the small number of composers in each playlist that were women, Black, Indigenous, and/or people of colour. This way, you can discover more about them and get to know their music.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you’ve just landed here, or haven’t read the Apple Music post, make sure to read &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#using-201920-orchestra-seasons-as-a-benchmark&quot;&gt;the notes explaining the “Average US Orchestra” comparator&lt;/a&gt; I’m using below.&lt;/p&gt;
+
+&lt;h2 id=&quot;spotify&quot;&gt;Spotify&lt;/h2&gt;
+
+&lt;p&gt;Representation of composers on Spotify was a bit better than on Apple Music, especially for composers of colour. The other thing that is notably different between the two platforms is that Spotify has historically had a much stronger focus on mood-themed playlists, so there are more streaming-first artists in some of the playlists I examined.&lt;/p&gt;
+
+&lt;h3 id=&quot;classical-essentials&quot;&gt;Classical Essentials&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Classical Essentials&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;172&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7 (4.1%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Black / People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3 (1.7%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;20 (11.6%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;28&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Compared to the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#classical-essentials&quot;&gt;equivalent playlist on Apple Music&lt;/a&gt;, Spotify &lt;em&gt;Classical Essentials&lt;/em&gt; has a slightly higher representation of women composers, and actually has some composers who are Black or people of colour. The proportion of living composers is also significantly higher.&lt;/p&gt;
+
+&lt;h4 id=&quot;samuel-coleridge-taylor-symphonic-variations-on-an-african-air-op63&quot;&gt;Samuel Coleridge-Taylor: Symphonic Variations on an African Air, Op.63&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Samuel_Coleridge-Taylor&quot;&gt;Samuel Coleridge-Taylor&lt;/a&gt; (15 August 1875 – 1 September 1912) was an English composer and conductor.&lt;/p&gt;
+
+  &lt;p&gt;Of mixed race birth, Coleridge-Taylor achieved such success that he was referred to by white New York musicians as the “African Mahler” when he had three tours of the United States in the early 1900s. He was particularly known for his three cantatas on the epic poem, Song of Hiawatha by American Henry Wadsworth Longfellow. Coleridge-Taylor premiered the first section in 1898, when he was 22.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m going to write a whole post on this piece at some point. There are a lot of interesting choices to make in a theme and variations format and I think Coleridge-Taylor does a good job of transforming a spiritual (&lt;em&gt;I’m Troubled in Mind&lt;/em&gt;) into several different styles of music.&lt;/p&gt;
+
+&lt;p&gt;If you want to listen to a version of the source material, you can check out this &lt;a href=&quot;https://www.youtube.com/watch?v=POSaaCOJiq0&quot; target=&quot;_blank&quot;&gt;recording by the Southern University Quartet&lt;/a&gt;. Also important to note that &lt;em&gt;I’m Troubled in Mind&lt;/em&gt; is not the same as &lt;em&gt;Trouble In Mind&lt;/em&gt;, which is a blues standard, though &lt;a href=&quot;https://en.wikipedia.org/wiki/Trouble_in_Mind_(song)#Lyrics_and_composition&quot;&gt;it seems like the two songs are related&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;astor-piazzolla-libertango&quot;&gt;Astor Piazzolla: Libertango&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Astor_Piazzolla&quot;&gt;Astor Pantaleón Piazzolla&lt;/a&gt; (March 11, 1921 – July 4, 1992) was an Argentine tango composer, bandoneon player, and arranger. His works revolutionized the traditional tango into a new style termed Nuevo tango, incorporating elements from jazz and classical music. A virtuoso bandoneonist, he regularly performed his own compositions with a variety of ensembles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You will perhaps be unsurprised to learn that this song by  “the world’s foremost composer of Tango music” will make you want to dance. The track on Spotify is a &lt;a href=&quot;https://open.spotify.com/track/0mcgXc8P5GyGtP9aY7zir6?si=hWvtm1sbQcarPSoTJbBfgg&quot;&gt;trumpet version by Alison Balsom&lt;/a&gt; but I also highly recommend &lt;a href=&quot;https://www.youtube.com/watch?v=nIN3IE3DHqc&quot;&gt;Grace Jones’ cover&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;takashi-yoshimatsu-saxophone-concerto-op-59-cyber-bird-i-bird-in-colors-allegro&quot;&gt;Takashi Yoshimatsu: Saxophone Concerto, Op. 59, “Cyber-bird”: I. Bird in Colors: Allegro&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Takashi_Yoshimatsu&quot;&gt;Takashi Yoshimatsu&lt;/a&gt; (吉松 隆, Yoshimatsu Takashi) (born March 18, 1953) is a contemporary Japanese composer of classical music. He is well known for composing the 2003 remake of Astro Boy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/infographic-the-hierarchy-of-solo-instruments.aspx&quot;&gt;The majority of concertos performed are for piano, violin, and to a slightly lesser extent, cello&lt;/a&gt;. So I would absolutely buy tickets to see this, especially with a name as cool as “Cyber Bird”. It’s an excellent concerto. Also: Yoshimatsu has a bird-themed album with fantastic cover art. How could I not be a fan?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Cover Art - Yoshimatsu Symphonic Exhibition of Birds.jpg&quot; alt=&quot;Tori no Kyohten - Symphonic Exhibition of Birds&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;jess-gillam-merry-christmas-mr-lawrence-arr-metcalfe&quot;&gt;Jess Gillam: Merry Christmas Mr. Lawrence (Arr. Metcalfe)&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Jess_Gillam&quot;&gt;Jess Gillam&lt;/a&gt; (born 24 May 1998) is a British saxophonist and BBC radio broadcaster from Ulverston, Cumbria. Gillam hosts This Classical Life on BBC Radio 3.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Maybe I spent too much time in high school band, but I don’t usually think of Saxophone as a “light and airy” instrument. A really incredible performance here.&lt;/p&gt;
+
+&lt;h4 id=&quot;germaine-tailleferre-string-quartet-i-modere&quot;&gt;Germaine Tailleferre: String Quartet: I. Modere&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Germaine_Tailleferre&quot;&gt;Germaine Tailleferre&lt;/a&gt; (born Marcelle Germaine Taillefesse; 19 April 1892 – 7 November 1983) was a French composer and the only female member of the group of composers known as Les Six.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The melodies in this quartet are a little abstract for my taste, but I do really like how it feels like a story told through a number of sometimes-complex emotional states. The history of &lt;em&gt;Les Six&lt;/em&gt; is also pretty fascinating, including their role in popularizing &lt;a href=&quot;https://en.wikipedia.org/wiki/Le_Boeuf_sur_le_Toit_(cabaret)&quot;&gt;&lt;em&gt;Le Boeuf sur le Toit&lt;/em&gt;, a bar that was “the epicenter of the Paris of the Roaring Twenties”&lt;/a&gt;. This bar apparently originated the French expression for musicians to jam together: &lt;a href=&quot;https://www.collinsdictionary.com/dictionary/english-french/jam&quot;&gt;“faire un boeuf”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;nadia-boulanger-3-pieces-for-cello-and-piano-no-1-modere&quot;&gt;Nadia Boulanger: 3 Pieces for cello and piano: No. 1. Modere&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nadia_Boulanger&quot;&gt;Juliette Nadia Boulanger&lt;/a&gt; (16 September 1887 – 22 October 1979) was a French composer, conductor, and teacher. She is notable for having taught many of the leading composers and musicians of the 20th century. She also performed occasionally as a pianist and organist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think this is really beautiful, and it makes excellent use of the cello’s upper range. The other two parts of the &lt;em&gt;3 Pieces&lt;/em&gt; are also worth a listen: #2 is lyrical and sweet, and #3 is energetic and fun.&lt;/p&gt;
+
+&lt;p&gt;Nadia’s &lt;em&gt;Lux Aeterna&lt;/em&gt; was also featured on the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#lili-boulanger--nadia-boulanger-lux-aeterna-for-voice-harp-violin-and-cello&quot;&gt;Apple Music Classical Essentials playlist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;louise-farrenc-nonet-in-e-flat-major-op-38-iii-scherzo-vivace&quot;&gt;Louise Farrenc: Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Louise_Farrenc&quot;&gt;Louise Farrenc&lt;/a&gt; (née Jeanne-Louise Dumont; 31 May 1804 – 15 September 1875) was a French composer, virtuoso pianist and teacher.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nine is an interesting number of musicians to have — you can blur the line between chamber and small-orchestra music. Farrenc’s Nonet, which uses the most common instrumentation of combining a wind quintet with a string quartet (with a double bass instead of a second violin) is essentially a symphony, with fewer players. She wrote it after already completing three symphonies, and I think it shows in her talented use of form and different instrumental voices.&lt;/p&gt;
+
+&lt;p&gt;Listening to this made me think about one of the things that’s interesting about orchestral music, which is that instruments can serve so many different roles during one piece. Sometimes it’s establishing rhythm, sometimes it’s providing harmony, sometimes it’s playing the melody, and other times it’s playing for accent or effect.&lt;/p&gt;
+
+&lt;h4 id=&quot;jessica-curry-finding-the-pattern&quot;&gt;Jessica Curry: Finding the Pattern&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Jessica_Curry&quot;&gt;Jessica Curry&lt;/a&gt; (born c. 1973) is an English composer, radio presenter and former co-head of the British video game development studio The Chinese Room. She won a BAFTA award in 2016 for her score for the video game &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the most popular track from the &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt; video game (on Spotify anyway). I’ll have to ask my girlfriend nicely to borrow her Windows computer so I can play this game. Several of the reviews I read about it mention how good the music is and how well it was used to emphasize emotional moments.&lt;/p&gt;
+
+&lt;p&gt;It must have been bittersweet to win a BAFTA after &lt;a href=&quot;https://web.archive.org/web/20160402170520/http://www.thechineseroom.co.uk/blog/blog/why-im-sort-of-leaving-the-chinese-room&quot;&gt;announcing she would be distancing herself from The Chinese Room&lt;/a&gt; because of her health and because her experiences as a woman in the video game industry were so awful. However, judging by &lt;a href=&quot;https://www.jessicacurry.co.uk/&quot;&gt;the projects listed on her website&lt;/a&gt;, it looks like she was successful in broadening her music-making beyond video games, with a number of interesting standalone pieces and commissions.&lt;/p&gt;
+
+&lt;p&gt;After The Chinese Room went through a rebirth and new ownership, Curry composed music for their 2020 game, &lt;em&gt;Little Orpheus&lt;/em&gt;, which was released on Apple Arcade. Unfortunately, like with &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;, I don’t have the right device to play it: my iPhone is too old &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;My iPhone 6 has had a longer useful life than the Nokia brick I had as a teenager, which is pretty impressive. I’m going to hold on to that headphone jack for as long as I can.&lt;/span&gt;, and I haven’t upgraded my mac to Catalina yet.&lt;/p&gt;
+
+&lt;h4 id=&quot;amy-beach-young-birches-op-128-no-2&quot;&gt;Amy Beach: Young Birches, Op. 128, No. 2&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amy_Beach&quot;&gt;Amy Marcy Cheney Beach&lt;/a&gt; (September 5, 1867 – December 27, 1944) was an American composer and pianist. She was the first successful American female composer of large-scale art music. Her “Gaelic” Symphony, premiered by the Boston Symphony Orchestra in 1896, was the first symphony composed and published by an American woman. She was one of the first American composers to succeed without the benefit of European training, and one of the most respected and acclaimed American composers of her era. As a pianist, she was acclaimed for concerts she gave featuring her own music in the United States and in Germany.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is actually part of a set of three nature-themed piano pieces (the other two are about a chipmunk and a hummingbird, respectively). I love program music and Amy Beach does a great job of capturing the essence of these animals and plants in this music.&lt;/p&gt;
+
+&lt;h4 id=&quot;barbara-strozzi-amor-dormiglione&quot;&gt;Barbara Strozzi: Amor dormiglione&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Barbara_Strozzi&quot;&gt;Barbara Strozzi&lt;/a&gt; (also called Barbara Valle; baptised 6 August 1619  – 11 November 1677) was an Italian singer and composer of the Baroque Period. During her lifetime, Strozzi published eight volumes of her own music, having more music in print than any other composer of the era. This was made possible without any support from the Church or consistent patronage of the nobility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m not usually a fan of Baroque music, but I like this piece. It has big folk song energy. Apparently the title means something along the lines of “sleepy cupid”; you can read a &lt;a href=&quot;https://barbarastrozzi.com/piece/amor-dormiglione/&quot;&gt;translation of the lyrics&lt;/a&gt; if you’re interested.&lt;/p&gt;
+
+&lt;p&gt;Barbara Strozzi is one of several women composers profiled in Anna Beer’s &lt;a href=&quot;https://oneworld-publications.com/sounds-and-sweet-airs-pb.html&quot;&gt;&lt;em&gt;Sounds And Sweet Airs: The Forgotten Women Of Classical Music&lt;/em&gt;&lt;/a&gt;, which is a book I was able to read part of before having to return it to the library. I’ll have to take it out again soon and re-read the Strozzi chapter.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-cant-make-up-for-missing-metadata&quot;&gt;AI can’t make up for missing metadata&lt;/h2&gt;
+
+&lt;p&gt;One thing that’s true about nearly all of the pieces listed here (but that I only noticed with the Amy Beach piece) — you can really see the effect of placement on an official playlist. Amy Beach’s &lt;em&gt;Young Birches&lt;/em&gt; has nearly 2 million plays, whereas &lt;em&gt;A Peterboro Chipmunk&lt;/em&gt; and &lt;em&gt;A Humming Bird&lt;/em&gt; only average about 2,000 each. Similar orders of magnitude can be found for the other tracks that are part of a larger work.&lt;/p&gt;
+
+&lt;p&gt;As a quick experiment, I tried looking through the song radio for some of the tracks on this playlist to see if the other movements would show up. In a couple cases they did (e.g. the second movement of Nadia Boulanger’s &lt;em&gt;3 Pieces&lt;/em&gt; is #11 on song radio for the first movement), but in most cases, the other movements from the same piece were absent.&lt;/p&gt;
+
+&lt;p&gt;A large part of this may be due to the fact that Spotify has no metadata to describe multi-movement pieces of music (Apple Music does, which is why movements from the same symphony are grouped in their UI). Perhaps if they did, it would be a useful signal for song radio. Goodness knows - if they can generate a logistic variable for “danceability”, they can probably manage a field or two to indicate tracks that should be grouped together.&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next&quot;&gt;Up next&lt;/h2&gt;
+
+&lt;p&gt;Part two of the Spotify deep dive will look at the &lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; and &lt;em&gt;Classical Sleep&lt;/em&gt; playlists. Part three will conclude the Spotify deep dive with &lt;em&gt;Classical New Releases&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive Continues</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Google Docs Word Counter for Grant Writers</title><link href="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html" rel="alternate" type="text/html" title="A Google Docs Word Counter for Grant Writers" /><published>2021-04-25T00:00:00-04:00</published><updated>2021-04-25T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html">&lt;p&gt;My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)&lt;/p&gt;
 
 &lt;p&gt;Scrivener is designed really well for solo writing, but when it comes to collaborative writing and commenting, Google Docs is much, much better. This makes it ideal for grant writing, and I’ve had very few complaints using Google Docs as my main writing tool. However, there is one feature from Scrivener that would be really nice to have for grant writing: a way of setting a word count and word limit for each question.&lt;/p&gt;
 
@@ -11,7 +180,7 @@
 
 &lt;video controls=&quot;&quot; width=&quot;100%&quot;&gt;&lt;source src=&quot;/assets/Videos/exampleclip.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;
 
-&lt;p&gt;As you can see, you can put a word limit in parentheses in the heading, and it will add and update a word count within the parentheses as well. I also added some colouring of the word count to serve as a quick visual indicator of how close you are to the limit.&lt;/p&gt;
+&lt;p&gt;As you can see, you can put a word limit in parentheses in the heading, and it will then add and update a word count within those parentheses as well. The word count also gets a highlight colour to serve as a quick visual indicator of how close you are to the word limit.&lt;/p&gt;
 
 &lt;p&gt;One thing that’s a bit frustrating is that, unlike in Google Sheets, there’s no trigger you can set up in Google Docs to run the script after you make an edit. So the best I was able to do for now is to provide a menu to run the script on command; in addition, the script will run on a time trigger every minute. (Once per minute is as often as Apps Script allows).&lt;/p&gt;
 
@@ -1098,24 +1267,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;That’s a lot of work already, and we haven’t even gotten to the &lt;em&gt;writing&lt;/em&gt; part. In fact, if I were going to hire a grantwriter, I wouldn’t ask them for a writing sample from an application. I would ask them to write a one-page briefing for program staff about a funding program, the kind of document you would write up for step #3.&lt;/p&gt;
 
-&lt;p&gt;The writing part does come next though, and I’ll go through that… in the next post.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">In the intro post I argued that grant portals are rarely designed to make life easier for the grant writer. But what if they were? There is a whole list of things that a grant writer has to do before they press “submit”, and grant portals can help or hinder that work at various points along the way.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Grant Portal Limitations - Intro</title><link href="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html" rel="alternate" type="text/html" title="Grant Portal Limitations - Intro" /><published>2019-02-24T00:00:00-05:00</published><updated>2019-02-24T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/02/24/Grant-Portal-Limitations-Intro.html">&lt;p&gt;I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.&lt;/p&gt;
-
-&lt;p&gt;Hence my topic today: in the last several years, many government ministries and agencies who give out grants (I’ll call them “funders”) have transitioned away from using forms made in Microsoft Word or Adobe Acrobat and have started using web portals. As a grant writer, I spend a lot of time using these portals. And they generally suck.&lt;/p&gt;
-
-&lt;p&gt;The quality of most mass-market web applications creates a false sense of security. Google Docs is so consistent with saving your work that it takes effort to actually lose something you’ve written. Products like Dropbox have whole teams of user experience designers who work to ensure that their service is intuitive and easy to use. Grant Portals, on the other hand, are usually implemented by government agencies who do not have a lot of people and money to throw towards IT. If a grant portal is reasonably functional and reliable, it’s already doing well.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Microsoft-Word-Canada-Council-Application.png&quot; alt=&quot;Screenshot of Microsoft Word. The document being worked on is an application form for travel funding from the Canada Council for the Arts.&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Microsoft Word: still the worst way to write a grant, except for all the others.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Perhaps the biggest problem for a grant writer is that most grant portals are not designed with them in mind. In a lot of ways, the most user-friendly grant application software is still Microsoft Word. No, grant portals are there because they are meant to make life easier for the &lt;em&gt;funder&lt;/em&gt;. It’s a lot easier to manage and sort through hundreds (or maybe even thousands) of applications if they’re in a database. It’s the same reason some employers have job application sites where you have to re-write out your resume into their online form. It makes their work simpler, at your expense.&lt;/p&gt;
-
-&lt;p&gt;At surface level, I am going to gripe about all the things I find frustrating about grant portals. I have so many gripes, in fact, that I’ve decided to make this a multi-part series. Perhaps it will be enjoyable, cathartic reading if you too write grants. If you work for a funder, or design grant portal software, perhaps it will be useful user feedback.&lt;/p&gt;
-
-&lt;p&gt;However, I have a loftier goal in mind. Even if you don’t write grant applications or give out grants, they are an incredibly important part of how our civil society functions. Through grant applications, government gives resources to all manner of people, companies, and non-profits. Grant applications are also one of the most common ways that government communicates with the people it gives money to and holds them accountable. The design of grant portals says a lot about who government gives priority to (and who it doesn’t) and what relationship they have.&lt;/p&gt;
-
-&lt;p&gt;Grant portals are also an interesting study in how technology shapes the way we communicate. The tools we use to communicate often change what we say, how we say it, and how it is received. I have lots of interesting examples of that to share with you later in this series.&lt;/p&gt;
-
-&lt;p&gt;But before that… on with the gripes!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">I strongly believe that if you have a blog, the best way to use it is to write about something incredibly specific, with the hope of enlightening or enriching the lives of the other nine people who care about that thing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;The writing part does come next though, and I’ll go through that… in the next post.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">In the intro post I argued that grant portals are rarely designed to make life easier for the grant writer. But what if they were? There is a whole list of things that a grant writer has to do before they press “submit”, and grant portals can help or hinder that work at various points along the way.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
