@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Structure Prototype</title>
+    <style>
+      h2 {
+        color: blue;
+      }
+
+      .chart-container {
+        max-width: 640px;
+      }
+
+      /* legend styling */
+      .legend-container {
+        margin-bottom: 4px;
+        padding-bottom: 10px;
+      }
+
+      .legend-container div {
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .legend-item {
+        margin-right: 10px;
+      }
+
+      .legend-item-color {
+        height: 18px;
+        width: 18px;
+        margin-right: 3px;
+      }
+
+      /* barchart styling */
+      /* In datawrapper, there was some fancy last child stuff going on */
+      .bar-container {
+        margin-bottom: 4px;
+        width: 100%;
+      }
+
+      .bar-label {
+        margin-bottom: 4px;
+        padding-right: 5px;
+      }
+
+      .bar-graphic {
+        display: inline-block;
+        position: relative;
+        height: 22px;
+        width: 100%;
+      }
+
+      .bar-segment {
+        background: rgb(21 96 122);
+        position: absolute;
+
+        border-color: white;
+        border-style: solid;
+        border-width: 0 2px 0 0;
+      }
+
+      .bar-segment-label {
+        padding: 2px 5px;
+        color: white;
+      }
+
+      /* for fun */
+      .bar-segment:hover {
+        background: rgb(199, 30, 29);
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Structure Prototype</h2>
+    <div class="chart-container">
+      <div class="legend-container">
+        <div class="legend-item">
+          <div class="legend-item-color" style="background: rgb(21 96 122);"></div>
+          <div class="legend-item-label">Category A</div>
+        </div>
+        <div class="legend-item">
+          <div class="legend-item-color" style="background: rgb(199, 30, 29);"></div>
+          <div class="legend-item-label">Category B (Hover)</div>
+        </div>
+      </div>
+      <div class="bars-container">
+        <div class="bar-container">
+          <div class="bar-label">Label A</div>
+          <div class="bar-graphic">
+            <div class="bar-segment" style="left: 0%; right: 83.3334%;">
+              <div class="bar-segment-label">5</div>
+            </div>
+            <div class="bar-segment" style="left: 16.6667%; right: 50%;">
+              <div class="bar-segment-label">10</div>
+            </div>
+            <div class="bar-segment" style="left: 50%; right: 0%;">
+              <div class="bar-segment-label">15</div>
+            </div>
+          </div>
+        </div>
+        <div class="bar-container">
+          <div class="bar-label">Label B</div>
+          <div class="bar-graphic">
+            <div class="bar-segment" style="left: 0%; right: 90%;">
+              <div class="bar-segment-label">3</div>
+            </div>
+            <div class="bar-segment" style="left: 10%; right: 73.3333%;">
+              <div class="bar-segment-label">5</div>
+            </div>
+            <div class="bar-segment" style="left: 26.6666%; right: 40%;">
+              <div class="bar-segment-label">10</div>
+            </div>
+          </div>
+        </div>
+        <div class="bar-container">
+          <div class="bar-label">Label C</div>
+          <div class="bar-graphic">
+            <div class="bar-segment" style="left: 0%; right: 66.6666%;">
+              <div class="bar-segment-label">10</div>
+            </div>
+            <div class="bar-segment" style="left: 33.333%; right: 33.3333%;">
+              <div class="bar-segment-label">10</div>
+            </div>
+            <div class="bar-segment" style="left: 66.6666%; right: 26.6666%;">
+              <div class="bar-segment-label">2</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
