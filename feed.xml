@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-09-12T18:13:57-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-09-12T18:55:46-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
 </subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Building an Orchestra Season Visualization Tool</title><link href="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html" rel="alternate" type="text/html" title="Building an Orchestra Season Visualization Tool" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html">&lt;p&gt;In a &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt;, I had made a diagram to show the common structure of orchestra concerts:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/Images/MW Concerts Format 19-20 with legend.png&quot; alt=&quot;Visualization showing the length of pieces in Toronto Symphony MasterWorks Concerts&quot; /&gt;&lt;/p&gt;
@@ -72,7 +72,9 @@
 
 &lt;p&gt;After putting all those pieces together, I was able to make a beta version of the app to start generating charts for blog posts.&lt;/p&gt;
 
-&lt;p&gt;You can find the beta (or any improved versions that may come later) on github &lt;a href=&quot;https://github.com/tallcoleman/orchestra-season-visualization&quot;&gt;github.com/tallcoleman/orchestra-season-visualization&lt;/a&gt;, and the live app can be found at &lt;a href=&quot;https://osv.tallcoleman.me&quot;&gt;osv.tallcoleman.me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the beta (or any improved versions that may come later) on github &lt;a href=&quot;https://github.com/tallcoleman/orchestra-season-visualization&quot;&gt;github.com/tallcoleman/orchestra-season-visualization&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The live app can be found at &lt;a href=&quot;https://osv.tallcoleman.me&quot;&gt;osv.tallcoleman.me&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-end-result&quot;&gt;The End Result&lt;/h2&gt;
 
