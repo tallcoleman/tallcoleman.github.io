@@ -96,11 +96,6 @@ $(document).ready(function() {
         checkEUINavigation(currentSelection);
       }
 
-      $('.bar-segment').click(function(e) {
-        barSegmentSelect($(this));
-        if ($('.gu-explore-open').hasClass('d-none') === false) openExploreUI();
-      });
-
       $('.gu-explore-open').click(function(e) {
         openExploreUI();
       });
