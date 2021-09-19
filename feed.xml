@@ -1,5 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-09-18T07:49:08-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Building an Orchestra Season Visualization Tool</title><link href="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html" rel="alternate" type="text/html" title="Building an Orchestra Season Visualization Tool" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html">&lt;p&gt;In a &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt;, I had made a diagram to show the common structure of orchestra concerts:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-09-19T15:39:49-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)</title><link href="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)" /><published>2021-09-19T00:00:00-04:00</published><updated>2021-09-19T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two</id><content type="html" xml:base="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html">&lt;h2 id=&quot;diving-deeper-into-spotify&quot;&gt;Diving Deeper into Spotify&lt;/h2&gt;
+
+&lt;p&gt;Continuing from the &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html&quot;&gt;previous post on Spotify classical music playlists&lt;/a&gt;, we’re now turning to Spotify’s all-orchestra playlist.&lt;/p&gt;
+
+&lt;h3 id=&quot;orchestra-100-spotify-picks&quot;&gt;Orchestra 100: Spotify Picks&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Orchestra 100&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;100&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (2.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;People of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (2.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;8 (8.0%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Oddly enough, given Apple Music’s stronger UI and metadata for classical music, it didn’t have an equivalent first party “all-orchestra” playlist like this one. In a sense, this should be the most comparable playlist to the average US orchestra season since it only focuses on orchestral repertoire.&lt;/p&gt;
+
+&lt;p&gt;Like &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html#classical-essentials&quot;&gt;Spotify’s &lt;em&gt;Classical Essentials&lt;/em&gt;&lt;/a&gt;, this playlist has significantly fewer composers who are women or people of colour compared to the average US orchestra season, and no women of colour composers at all.&lt;/p&gt;
+
+&lt;h4 id=&quot;heitor-villa-lobos-choros-no-8&quot;&gt;Heitor Villa-Lobos: Choros No. 8&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Heitor_Villa-Lobos&quot;&gt;Heitor Villa-Lobos&lt;/a&gt; (March 5, 1887 – November 17, 1959) was a Brazilian composer, conductor, cellist, and classical guitarist described as “the single most significant creative figure in 20th-century Brazilian art music”. Villa-Lobos has become the best-known South American composer of all time. A prolific composer, he wrote numerous orchestral, chamber, instrumental and vocal works, totaling over 2000 works by his death in 1959.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is part of a larger series of pieces named after chôro, “music played by an ensemble of Brazilian street musicians (called chorões) using both African and European instruments, who improvise in a free and often dissonant kind of counterpoint called contracanto.” &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ch%C3%B4ros&quot;&gt;&lt;em&gt;Chôros&lt;/em&gt; on Wikipedia&lt;/a&gt;&lt;/span&gt;
+ I’m quite fond of the fact that the beginning sounds a bit like the warm-up that happens onstage before most concerts start.&lt;/p&gt;
+
+&lt;p&gt;It seems that Villa-Lobos is played much less often by US orchestras now than during his late lifetime. In his 1951 book “The American Symphony Orchestra: A Social History of Musical Taste”, John H. Mueller wrote “Among the composers [of Latin America], Villa-Lobos of Brazil is the most noted and enjoys a statistically perceptible rank in the repertoire.” &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Page 265.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;However, the &lt;a href=&quot;https://americanorchestras.org/learn/artistic-planning/orchestra-repertoire-report/&quot;&gt;League of American Orchestras Repertoire Reports&lt;/a&gt; note only two programs featuring pieces by Villa-Lobos in 2012/13 and no programs in 2011/12. The Institute for Composer Diversity analysis from 2019/20 (which included slightly more than twice as many orchestras compared to the League reports) notes eight performances of pieces by Villa-Lobos. The only major symphony featured in either source was Oregon, who included Villa-Lobos’ &lt;em&gt;Uirapurú&lt;/em&gt; in their 2019/20 season.&lt;/p&gt;
+
+&lt;p&gt;Part of the explanation may be related to US foreign policy? It’s possible that the &lt;a href=&quot;https://en.wikipedia.org/wiki/Good_Neighbor_policy&quot;&gt;Good Neighbour Policy&lt;/a&gt; espoused by President Roosevelt contributed to interest in South American composers; in turn, after the fall of Brazilian president Getúlio Vargas in 1945, Villa-Lobos was able to travel again, and his Wikipedia page notes that he “made regular visits to the United States”. If I can find an analysis of US orchestral repertoire that follows on from the time period of Mueller’s book, it would be interesting to see if there was a decline in performances of Villa-Lobos’ work brought on by a return to more interventionist South American US foreign policy with the onset of the Cold War.&lt;/p&gt;
+
+&lt;p&gt;One other fun comment on Villa-Lobos from Mueller’s book: in a section about audience reactions, he writes about how the tastes of conductor Leopold Stokowski were sometimes at odds with those of his audience. A Schoenberg performance apparently elicited a “shower of forthright hisses” from the audience, after which Stokowski “turned to his audience and defensively pleaded freedom of expression for the artist.” Mueller then tactfully notes that “Those who agreed with him applauded; those who preferred freedom of expression for the audience made known their opinions by a contrary sign.”&lt;/p&gt;
+
+&lt;p&gt;Stokowski later performed this piece—Chorôs No. 8—resulting in a similar audience reaction. Presumably having learned that arguing with the audience did no good, “on this occasion [Stokowski] invited the disaffected members of the audience to leave “and smoke the classic cigarette.”” &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Page 359 of &lt;em&gt;The American Symphony Orchestra: A Social History of Musical Taste&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Final note: I recently discovered an &lt;a href=&quot;https://open.spotify.com/album/3jvrf0brPEohaxmFHffZGM?si=YbyASROJTk6RiGjFaDCvyQ&amp;amp;dl_branch=1&quot;&gt;album of Villa-Lobos Choral Transcriptions&lt;/a&gt; performed by the São Paulo Symphony Choir and Valentina Peleggi and really enjoyed it. I would highly recommend you give it a listen!&lt;/p&gt;
+
+&lt;h4 id=&quot;toru-takemitsu-a-flock-descends-into-the-pentagonal-garden&quot;&gt;Toru Takemitsu: A Flock Descends Into the Pentagonal Garden&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/T%C5%8Dru_Takemitsu&quot;&gt;Tōru Takemitsu&lt;/a&gt; (武満 徹, Takemitsu Tōru, October 8, 1930 – February 20, 1996) was a Japanese composer and writer on aesthetics and music theory. Largely self-taught, Takemitsu was admired for the subtle manipulation of instrumental and orchestral timbre. He is known for combining elements of oriental and occidental philosophy and for fusing sound with silence and tradition with innovation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You know, I’ve listened to this one several times, and I don’t think I like it; it’s too abstract for my tastes. It seems to be one of Takemitsu’s more well-known pieces for Orchestra, and one of the ones I had heard of already before doing this project.&lt;/p&gt;
+
+&lt;p&gt;If you do like this style of music, then let me shill for my employer and recommend you check out an &lt;a href=&quot;https://open.spotify.com/album/3BFaA08GIWtZlfKdUxDIHu?si=2jf4L9brS7-fKsUKxDFZ7w&amp;amp;dl_branch=1&quot;&gt;album of four of Takemitsu’s early orchestra pieces&lt;/a&gt; from 1969, with the TSO conducted by then-Music Director Seiji Ozawa.&lt;/p&gt;
+
+&lt;h4 id=&quot;louise-farrenc-symphony-no-3-in-g-minor-op-36-i-adagio---allegro&quot;&gt;Louise Farrenc: Symphony No. 3 in G Minor, Op. 36: I. Adagio - Allegro&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Louise_Farrenc&quot;&gt;Louise Farrenc&lt;/a&gt; (née Jeanne-Louise Dumont; 31 May 1804 – 15 September 1875) was a French composer, virtuoso pianist and teacher.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the second piece we’ve looked at by Farrenc; the third movement from her Nonet in E-Flat Major, Op. 38 was on &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html#louise-farrenc-nonet-in-e-flat-major-op-38-iii-scherzo-vivace&quot;&gt;Spotify’s &lt;em&gt;Classical Essentials&lt;/em&gt; playlist&lt;/a&gt;. This symphony was written two years earlier than the Nonet.&lt;/p&gt;
+
+&lt;p&gt;By self-admission, Farrenc’s Symphony No. 3 is the only symphony by a female composer on Tom Service’s 2014 Guardian series on “50 Greatest Symphonies”. In &lt;a href=&quot;https://www.theguardian.com/music/tomserviceblog/2014/jun/24/symphony-guide-louise-farrenc-third-symphony-tom-service&quot;&gt;Service’s article on Farrenc’s symphony&lt;/a&gt;, he says the final movement is his favourite. I think mine is the first — the boisterous theme that comes after the slow lead-in is a top-tier example of “big C” classical drama.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-role-of-commercial-recordings&quot;&gt;The Role of Commercial Recordings&lt;/h4&gt;
+
+&lt;p&gt;In his article, Service noted that there were only two commercial recordings of Farrenc’s Symphony No. 3: one from the North German Radio Philharmonic (the one featured on this playlist) and another from the Orchestre de Bretagne. Two more recordings have since been made by the Solistes Européens, Luxembourg in 2018 &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;From their bio, it seems like the Solistes Européens, Luxembourg claim to be the NBA all star team of European orchestras, but maybe that’s just marketing.&lt;/span&gt;
+ and very recently by the Insula Orchestra in July 2021.&lt;/p&gt;
+
+&lt;p&gt;It’s interesting to watch how the availability of commercial recordings has started to catch up with changes in orchestra programming to feature more diverse composers. For example, Florence Price became a household name for many orchestras in 2020/21, while at the same time only her first symphony had more than one recording. Now, as of September 24, Deutche Grammophon is releasing a recording of &lt;a href=&quot;https://www.umusic.ca/press-releases/yannick-nezet-seguin-the-philadelphia-orchestra-announce-new-album-florence-price-symphonies-nos-1-3/&quot;&gt;Philadelphia Orchestra playing symphonies 1 &amp;amp; 3&lt;/a&gt; conducted by Yannick Nézet-Séguin. There’s still only the one &lt;a href=&quot;https://open.spotify.com/album/2EKqIZNOAbDdk4F1gL56Wh?si=65OzboWRSyiCotqOY3pANQ&amp;amp;dl_branch=1&quot;&gt;recording of Symphony No. 4 by the Fort Smith Symphony&lt;/a&gt;, but hopefully more are on their way.&lt;/p&gt;
+
+&lt;p&gt;There are still some gaps to fill: earlier in the year I did some back-of-the-napkin math, and about one-third of the most-played orchestra pieces by women composers have no commercial recordings at all; most notably Missy Mazzoli’s &lt;em&gt;Sinfonia (for Orbiting Spheres)&lt;/em&gt;, although you can find some &lt;a href=&quot;https://www.youtube.com/watch?v=RPyJt0aSnP8&quot;&gt;recorded performances of it on YouTube&lt;/a&gt;. Maybe this is a small part of the puzzle — even if you had curators at Spotify and Apple Music whose programming choices were more in line with the average US orchestra, there are still a sizeable number of pieces that aren’t in the catalogue yet.&lt;/p&gt;
+
+&lt;h4 id=&quot;kaija-saariaho-du-cristal&quot;&gt;Kaija Saariaho: Du Cristal&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Kaija_Saariaho&quot;&gt;Kaija Anneli Saariaho&lt;/a&gt; (Finnish: [ˈkɑi̯jɑ ˈsɑːriɑho]; née Laakkonen; born 14 October 1952) is a Finnish composer based in Paris, France. … In a 2019 composers’ poll by BBC Music Magazine, Saariaho was ranked the greatest living composer.&lt;/p&gt;
+
+  &lt;p&gt;Saariaho studied composition in Helsinki, Freiburg, and Paris, where she has lived since 1982. Her research at the Institute for Research and Coordination in Acoustics/Music (IRCAM) marked a turning point in her music away from strict serialism towards spectralism. Her characteristically rich, polyphonic textures are often created by combining live music and electronics.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Like “A Flock Descends…” this one is also a bit abstract for my tastes, though I find myself liking it more, and I would definitely be interested in hearing it live. In particular, the &lt;a href=&quot;https://saariaho.org/works/du-cristal/&quot;&gt;description on Saariaho’s website&lt;/a&gt; mentions that the piece has “an important part for synthesizer” which isn’t immediately obvious to me; &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;If I were to guess, I think you can hear it around 11:00?&lt;/span&gt;
+ maybe being able to see the synth player press the keys would be a good clue as to which sounds are analogue and which are digital.&lt;/p&gt;
+
+&lt;p&gt;The piece is actually a two-parter of sorts: &lt;a href=&quot;https://saariaho.org/works/a-la-fumee/&quot;&gt;&lt;em&gt;…à la Fumée&lt;/em&gt;&lt;/a&gt; is meant to follow, though it’s clear that Saariaho thinks that each can stand alone, and in fact they were each commissioned for two different orchestras. Like with &lt;em&gt;Du Cristal&lt;/em&gt;, there’s an electronic element to &lt;em&gt;à la Fumée&lt;/em&gt;, with electronically modified alto flute and cello soloists. There were a couple moments where the solo instruments sounded like they were using an effect or filter, but like with &lt;em&gt;Du Cristal&lt;/em&gt;, it’s very subtle.&lt;/p&gt;
+
+&lt;p&gt;I think the difference in how I feel about this piece compared to “A Flock Descends…” is that despite both being abstract (by which I mean neither has any clear melody), &lt;em&gt;Du Cristal&lt;/em&gt; feels like it has a clearer structure created by the differences in intensity and instrumentation, whereas I don’t think the musical ideas in “A Flock Descends…” come together in a way that makes the whole greater than the sum of its parts. I will admit, in both cases, I like each piece a little more after every repeat listen, so who knows, maybe after two dozen plays, I’ll change my mind and think “A Flock Descends…” is great.&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next&quot;&gt;Up Next&lt;/h2&gt;
+
+&lt;p&gt;Because I’m increasingly adding long digressions to these deep dives, it seems like I’m going to have to get through the rest of the Spotify tracks one playlist at a time. Up next is &lt;em&gt;Classical Sleep&lt;/em&gt;, where there are some interesting connections to wider conversations about streaming platforms, including metadata and how artists get paid, and the whole universe of streaming-first artists fostered by Spotify. In-between the digressions, there will also be interesting music to listen to.&lt;/p&gt;
+
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Diving Deeper into Spotify</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Building an Orchestra Season Visualization Tool</title><link href="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html" rel="alternate" type="text/html" title="Building an Orchestra Season Visualization Tool" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html">&lt;p&gt;In a &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt;, I had made a diagram to show the common structure of orchestra concerts:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/Images/MW Concerts Format 19-20 with legend.png&quot; alt=&quot;Visualization showing the length of pieces in Toronto Symphony MasterWorks Concerts&quot; /&gt;&lt;/p&gt;
 
@@ -227,7 +351,7 @@
   &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amy_Beach&quot;&gt;Amy Marcy Cheney Beach&lt;/a&gt; (September 5, 1867 – December 27, 1944) was an American composer and pianist. She was the first successful American female composer of large-scale art music. Her “Gaelic” Symphony, premiered by the Boston Symphony Orchestra in 1896, was the first symphony composed and published by an American woman. She was one of the first American composers to succeed without the benefit of European training, and one of the most respected and acclaimed American composers of her era. As a pianist, she was acclaimed for concerts she gave featuring her own music in the United States and in Germany.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is actually part of a set of three nature-themed piano pieces (the other two are about a chipmunk and a hummingbird, respectively). I love program music and Amy Beach does a great job of capturing the essence of these animals and plants in this music.&lt;/p&gt;
+&lt;p&gt;This is actually part of a set of three nature-themed piano pieces (the other two are about a chipmunk and a hummingbird, respectively). I love program music and Amy Beach does a great job of capturing the essence of these animals and plants in this trio.&lt;/p&gt;
 
 &lt;h4 id=&quot;barbara-strozzi-amor-dormiglione&quot;&gt;Barbara Strozzi: Amor dormiglione&lt;/h4&gt;
 
@@ -249,9 +373,11 @@
 
 &lt;h2 id=&quot;up-next&quot;&gt;Up next&lt;/h2&gt;
 
-&lt;p&gt;Part two of the Spotify deep dive will look at the &lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; and &lt;em&gt;Classical Sleep&lt;/em&gt; playlists. Part three will conclude the Spotify deep dive with &lt;em&gt;Classical New Releases&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Part two of the Spotify deep dive will look at the &lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
@@ -657,7 +783,9 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;The Spotify classical playlists were longer than those on Apple Music, and had greater representation of composers who are women and composers who are Black, Indigenous, or people of colour. So I’ll split my Spotify deep dive into two or three posts so that I can talk about all the tracks in proper detail.&lt;/p&gt;
 
-&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
@@ -844,7 +972,9 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;
 
-&lt;h2 id=&quot;methodology&quot;&gt;Methodology&lt;/h2&gt;
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
@@ -1233,77 +1363,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;If you wanted to make the doling out of funds even more inclusive, you might even challenge the idea that written applications are the ideal way to assess worthiness. It’s certainly the option that’s most convenient for funders, but not necessarily the most equitable option for everyone. Perhaps a good topic for a later post.&lt;/p&gt;
 
-&lt;p&gt;I think my next post will diverge from the minutiae of formatting and talk about how the structure of some grant programs contributes to precarious employment in the arts. Until next time…&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">The Pains of Plaintext</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Steps to Writing A Grant: Part II</title><link href="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html" rel="alternate" type="text/html" title="Steps to Writing A Grant: Part II" /><published>2019-03-10T00:00:00-05:00</published><updated>2019-03-10T00:00:00-05:00</updated><id>https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/03/10/Steps-to-Writing-a-Grant-Part-II.html">&lt;p&gt;In the &lt;a href=&quot;https://tallcoleman.me/writing/2019/03/04/Steps-to-Writing-a-Grant-Part-I.html&quot;&gt;last post&lt;/a&gt; we went through all the steps a grant writer goes through before they even type their first word. In this post, we’ll go through the rest of the steps, including typing your first word. Let’s assume that you’ve found a funding program, have done your research, and have made the decision to go for it and submit an application. What comes next?&lt;/p&gt;
-
-&lt;h2 id=&quot;4-set-up-your-drafting-document&quot;&gt;4. Set up your drafting document&lt;/h2&gt;
-
-&lt;p&gt;If you like to live life dangerously, you could write your application right in the portal. For people who buy a cute puppy without researching food and vet costs first, or who apply makeup and/or shave while driving, this might be appealing. The rest of us usually open up our word processor of choice and get to work.&lt;/p&gt;
-
-&lt;p&gt;The frustrating part of this process is that most funders don’t provide a word doc version of their portal questions, so most grant writing starts with the dull drudgery of copy-pasting questions into a new document. I suppose some might be afraid of people who would try to apply by submitting the document in spite of any instructions saying “APPLY THROUGH THE PORTAL” in big bold text.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Canada-Council-Application-Doc-Red-Text.png&quot; alt=&quot;Screenshot of a word document with application questions downloaded from the Canada Council for the Arts website.&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Canada Council for the Arts is one of the few funders that will give you a word doc of the application questions. Note that they’ve made the “You must use the portal to apply” warning very big and very red.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The copy-paste process is not always straightforward either. Some portals like to trick you by implementing logic in their application forms. For example, in the Canada Summer Jobs application, there is a part where you pick skills from a list to indicate what your hired student is going to learn. For each skill that you pick in the list, a new text box pops up asking you to provide more details.&lt;/p&gt;
-
-&lt;p&gt;If you made your word doc based on the questions listed on the &lt;a href=&quot;https://web.archive.org/web/20190310031443/https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/apply.html&quot;&gt;Canada Summer Jobs webpage&lt;/a&gt;, there isn’t really any indication that this is how the form works. If you are unlucky, you might write up your whole draft and only realize you have more writing to do at the very last minute when you’re pasting your answers into the form. I’ve seen this in Ontario Arts Council applications as well.&lt;/p&gt;
-
-&lt;p&gt;As a precautionary measure, I now try and go through every question in an application form to make sure there aren’t any hidden surprises, clicking every potentially relevant drop-down in case a new text box pops up. Some forms will also check to make sure you’ve answered mandatory questions, so this sometimes requires the extra step of putting in fake answers so you can get through to the next page. While I’m doing these things, I also check how the portal formats text so that I know if it will add in automatic paragraph spacing or if I should double-press the enter key after each paragraph instead.&lt;/p&gt;
-
-&lt;p&gt;Because of all these foibles, grant writers have to start their work by doing a  bunch of pointless copy-pasting and playing around with the application form to make sure they’ve caught everything. It’s an incredibly frustrating waste of time, and it’s unavoidable because you need to use a proper word processor to do good grant writing.&lt;/p&gt;
-
-&lt;p&gt;For example, if you use Word or Google Docs, here is a list of life-saving features that most grant portals don’t have:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Robust spelling and grammar checking&lt;/li&gt;
-  &lt;li&gt;Track changes and comments&lt;/li&gt;
-  &lt;li&gt;File back-ups and autosave&lt;/li&gt;
-  &lt;li&gt;Some kind of version control (ranging in sophistication from saving word files with “Version X” in the file name up to Google Docs’ detailed document history)&lt;/li&gt;
-  &lt;li&gt;Find and replace&lt;/li&gt;
-  &lt;li&gt;Space to write drafting and research notes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And most importantly:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The ability to highlight sections that you know are badly written so that you can put off fixing them until much later&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;5-research-the-evaluation-criteria&quot;&gt;5. Research the evaluation criteria&lt;/h2&gt;
-
-&lt;p&gt;Now you have a nice word doc with all the application questions in it. Time to start writing, right? Wrong! Before typing anything, you should take a look at how your application will be scored. I often like to find the evaluation criteria that are relevant to each question and write out some notes about them under every question. It’s a great way to make sure your writing stays focused and to ensure that your efforts are going to result in a high-scoring application.&lt;/p&gt;
-
-&lt;p&gt;I also paste the full criteria at the top of the document in case I need to refer to it quickly. This also helps people who will later edit your work—if the first thing they read is the scoring criteria, they’ll hopefully make their edits while keeping in mind what the funder is looking for.&lt;/p&gt;
-
-&lt;h2 id=&quot;6-start-drafting&quot;&gt;6. Start drafting&lt;/h2&gt;
-
-&lt;p&gt;It’s finally time to write! I often start with a bullet point outline and type it all out into prose later, but if you just want to let your keyboard fingers fly, that’s cool too. You’re all set up, so go ahead and start writing out your answers.&lt;/p&gt;
-
-&lt;p&gt;A small tip for grant writers who want to make the world a better place: cite your sources, both internal and external. Most grant applications don’t require citations (in the arts anyway—we’ll talk more about this in a later post). However, if you add footnotes/endnotes that detail where you got a specific fact, especially when you are writing annual operating funding applications, you will be doing a big solid for the person who has your job after you leave.&lt;/p&gt;
-
-&lt;h2 id=&quot;7-editing&quot;&gt;7. Editing&lt;/h2&gt;
-
-&lt;p&gt;Once at least part of your application is written up, you can start sharing it with your boss, friends, coworkers, etc. to start getting feedback. It might take a while to get to this stage, and I’ve usually found that it takes around 60-70% of the total project time to get to the first full draft. If possible,  try to get there with some time to spare, because the less you rush your editors, the better feedback they’ll give you.&lt;/p&gt;
-
-&lt;p&gt;I strongly recommend having multiple people edit your draft, if possible. That being said, don’t go too overboard, because going through multiple sets of edits can be quite time-consuming. Ideally you want a small group who collectively tick off all the following boxes:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Good writers&lt;/li&gt;
-  &lt;li&gt;Good copy-editors (some people can’t write a good narrative, but they can spot a grammatical error from a mile away)&lt;/li&gt;
-  &lt;li&gt;At least one person who has the authority to sign off on anything you’re promising in your application&lt;/li&gt;
-  &lt;li&gt;At least one person who knows your organization/field very well&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most importantly, you should also have at least one person who isn’t an expert on your organization/field and has the same level of background knowledge as the people who will end up reviewing your application. This person will help make sure you haven’t included any jargon or skipped explaining something because you’ve incorrectly assumed it’s “obvious”.&lt;/p&gt;
-
-&lt;p&gt;When you’ve finished incorporating the edits from all your reviewers, make sure to save time to go through the whole application one more time in case there are any errors that were missed.&lt;/p&gt;
-
-&lt;h2 id=&quot;8-submit&quot;&gt;8. Submit&lt;/h2&gt;
-
-&lt;p&gt;Once you’ve finished the editing process and you’ve done a last check of the whole thing, it’s time to log in to the portal and upload. &lt;em&gt;Ideally&lt;/em&gt; you should submit your application with some time to spare in case you run into any issues along the way. Some portals have also been known to crash under the load of everyone submitting their applications at the last minute.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve pasted all your answers into the portal, uploaded your supporting material, and double-checked that all the questions in the portal are answered, take a deep breath and click “submit”.&lt;/p&gt;
-
-&lt;p&gt;You’re done!&lt;/p&gt;
-
-&lt;p&gt;Now that we’ve gone through the grant writing steps, we can take a deeper look at where most portals fall short. In the next post, I’m going to write boldly about formatting and underline what some of the common limitations are. It’s going to be colourful!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">In the last post we went through all the steps a grant writer goes through before they even type their first word. In this post, we’ll go through the rest of the steps, including typing your first word. Let’s assume that you’ve found a funding program, have done your research, and have made the decision to go for it and submit an application. What comes next?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I think my next post will diverge from the minutiae of formatting and talk about how the structure of some grant programs contributes to precarious employment in the arts. Until next time…&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">The Pains of Plaintext</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
