@@ -610,6 +610,13 @@ span.programming {
   font-size: 16.875px;
   background: #eef; }
 
+span[class*='drafts'] {
+  background: #DA1512;
+  color: #FFF; }
+  span[class*='drafts'] + h2 {
+    font-style: italic;
+    font-family: monospace; }
+
 .panel {
   padding: 15px;
   margin-bottom: 20px;
