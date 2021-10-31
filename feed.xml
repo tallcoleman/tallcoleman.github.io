@@ -1,5 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-09-19T15:39:49-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)</title><link href="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)" /><published>2021-09-19T00:00:00-04:00</published><updated>2021-09-19T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two</id><content type="html" xml:base="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html">&lt;h2 id=&quot;diving-deeper-into-spotify&quot;&gt;Diving Deeper into Spotify&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-10-31T13:48:55-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)</title><link href="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)" /><published>2021-10-31T00:00:00-04:00</published><updated>2021-10-31T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three</id><content type="html" xml:base="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html">&lt;h2 id=&quot;music-for-every-mood&quot;&gt;Music For Every Mood&lt;/h2&gt;
+
+&lt;p&gt;Continuing from the &lt;a href=&quot;https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html&quot;&gt;previous post on Spotify’s all-orchestra playlist&lt;/a&gt;, we’re now turning back to the calm and digression-worthy world of mood playlists with a look at Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;classical-sleep&quot;&gt;Classical Sleep&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Classical Sleep&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;72&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3 (4.2%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Black&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (2.8%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;36 (50%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Compared to &lt;a href=&quot;https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html#relaxing-classical&quot;&gt;Apple Music’s &lt;em&gt;Relaxing Classical&lt;/em&gt;&lt;/a&gt;, this mood-themed playlist has representation of at least &lt;em&gt;one&lt;/em&gt; composer of colour with the two pieces by Alexis Ffrench, and one more piece by a female composer.&lt;/p&gt;
+
+&lt;p&gt;However, the two mood-themed playlists are wildly different when it comes to living composers, because they seem to have very different programming approaches. Apple Music’s &lt;em&gt;Relaxing Classical&lt;/em&gt; takes the existing “canon” and selects mood-appropriate pieces from within it. Pieces by Beethoven, Mozart, Brahms, Debussy, and Rachmaninoff make up nearly half of the playlist. As a result, only two of the tracks featured are by living composers.&lt;/p&gt;
+
+&lt;p&gt;Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt;, on the other hand, has 36 tracks by living composers, half of the overall total. This is because “Classical” in Spotify’s parlance means a mix of mood-appropriate pieces from the “canon” alongside modern artists who make mood music using classical instruments.&lt;/p&gt;
+
+&lt;p&gt;The living composers responsible for those 36 tracks range from often-anonymous artists, &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;If you look at the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#source-data&quot;&gt;data for this project&lt;/a&gt;, you’ll see “No Sources Found” for the demographic attributes of artists that could not be linked to a known person. The methodology page also has notes on &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;how unknown artists were handled in the analysis&lt;/a&gt;.&lt;/span&gt; whose entire career is designed around providing the kind of algorithmically-friendly music favoured by mood playlists, to artists like Elena Kats-Chernin, who frequently work with orchestras.&lt;/p&gt;
+
+&lt;h4 id=&quot;alexis-ffrench-together-at-last-bluebird&quot;&gt;Alexis Ffrench: Together At Last; Bluebird&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alexis_Ffrench&quot;&gt;Alexis Ffrench&lt;/a&gt; (born 1970) is a British classical soul pioneer, composer, producer and pianist. Not only is Ffrench the UK’s biggest selling pianist of 2020, he has headlined London’s Royal Albert Hall, collaborated with fashion houses Miyake and Hugo Boss, played Latitude Festival, worked with Paloma Faith, composed several film scores and shares the same management team as Little Mix and Niall Horan.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Appearance #2 for Ffrench, whose &lt;em&gt;A Time for Giving&lt;/em&gt; was featured on &lt;a href=&quot;https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html#alexis-ffrench-a-time-for-giving&quot;&gt;Apple Music’s &lt;em&gt;The A-List: Classical&lt;/em&gt;&lt;/a&gt;. The first of these two songs, &lt;em&gt;Together At Last&lt;/em&gt;, is the titular song from Ffrench’s 2018 holiday EP. Like &lt;em&gt;A Time for Giving&lt;/em&gt;, which is from Ffrench’s 2020 holiday EP, &lt;em&gt;Home&lt;/em&gt;, it reminds me of the church music influences that Ffrench has spoken about in his music.&lt;/p&gt;
+
+&lt;p&gt;The second, &lt;em&gt;Bluebird&lt;/em&gt;, is far and away Ffrench’s most popular song, and in my comments about the Apple Music playlist, I linked to a great performance of it from the BRIT awards. It reminds me in so many good ways of &lt;em&gt;Married Life&lt;/em&gt; from Michael Giacchino’s soundtrack to &lt;em&gt;UP&lt;/em&gt; — the sighing phrases, the gentle piano, the sense of time looping and passing at the same time. It’s really excellent. &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;To make sure, I went to listen to &lt;em&gt;Married Life&lt;/em&gt; again, and this has tangentially inspired me with a business idea for orchestras:&lt;/p&gt;
+
+  &lt;p&gt;Nearly everyone who has seen &lt;em&gt;UP&lt;/em&gt; will be unable to listen to &lt;em&gt;Married Life&lt;/em&gt; without being brought to tears, or at least this is my personal experience. It’s a masterpiece of modern cinema, packing an incredible amount of emotional affect into a very short number of minutes.&lt;/p&gt;
+
+  &lt;p&gt;Now, the last time I went to see a Pops program about film scores, &lt;em&gt;Married Life&lt;/em&gt; was not on it, which is surely a crime, but also an incredible missed opportunity. Much like you can shore up a financially deficient theme park in &lt;em&gt;Rollercoaster Tycoon&lt;/em&gt; by jacking up the price of umbrellas when it rains, every orchestra should put &lt;em&gt;Married Life&lt;/em&gt; just before intermission and then have the ushers sell packets of tissues for $5 each on the way out to the lobby.&lt;/p&gt;
+
+  &lt;p&gt;OK, OK, so in the current context of there still very much being a global pandemic, maybe encouraging everyone to nose trumpet for revenue is a bad idea health-wise. But when COVID-19 is finally over and dead in the ground (dear lord, one day soon I hope), this is the path back to financial stability that all orchestras should surely take.&lt;/p&gt;
+
+  &lt;p&gt;Anyway, my point is that &lt;em&gt;Bluebird&lt;/em&gt; is a really good song.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;amy-beach-berceuse-lullaby-no-2-from-three-compositions-op-40&quot;&gt;Amy Beach: Berceuse (Lullaby), No. 2 from Three Compositions, Op. 40&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amy_Beach&quot;&gt;Amy Marcy Cheney Beach&lt;/a&gt; (September 5, 1867 – December 27, 1944) was an American composer and pianist. She was the first successful American female composer of large-scale art music. Her “Gaelic” Symphony, premiered by the Boston Symphony Orchestra in 1896, was the first symphony composed and published by an American woman. She was one of the first American composers to succeed without the benefit of European training, and one of the most respected and acclaimed American composers of her era. As a pianist, she was acclaimed for concerts she gave featuring her own music in the United States and in Germany.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another second appearance: Beach’s &lt;em&gt;Young Birches, Op. 128&lt;/em&gt; were featured on &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html#amy-beach-young-birches-op-128-no-2&quot;&gt;Spotify’s &lt;em&gt;Classical Essentials&lt;/em&gt;&lt;/a&gt;. The song title doesn’t really make it clear (the track in the playlist is from a lullaby compilation album), but this is the second movement from a trio, which you can listen to on this &lt;a href=&quot;https://open.spotify.com/album/24nOyX4MeANGSsKhYclqDa?si=Ekwz695wRRGbpme2rf2j6w&amp;amp;dl_branch=1&quot;&gt;album from the Klugherz-Timmons Duo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;nadje-noordhuis-bluebird&quot;&gt;Nadje Noordhuis: Bluebird&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Described as “one of the most compelling voices to emerge on her instrument in recent years” (Dan Bilawksy, All about Jazz), Australian-born New York based trumpeter/composer Nadje Noordhuis possesses one of the most unforgettably lyrical voices in modern music. Her deeply-felt, clarion tone and evocative compositional gift meld classical rigor, jazz expression, and world music accents into a sound that is distinctively her own. (&lt;a href=&quot;https://www.nadjenoordhuis.com/about-1&quot;&gt;Personal Website Biography&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our second song called &lt;em&gt;Bluebird&lt;/em&gt; on this playlist. One interesting thing they both have in common is that the piano is mic’d in such a way that you can hear the sounds of the sustain pedal and other moving parts click and thud in the background. It’s an interesting feature of the &lt;a href=&quot;https://switchedonpop.com/episodes/why-lo-fi-is-the-perfect-background-music&quot;&gt;lo-fi production&lt;/a&gt; you can find on many mood-themed playlists.&lt;/p&gt;
+
+&lt;p&gt;Of course, the real jewel of this track is the trumpet performance. Noordhuis plays with a lovely warm tone and is able to effortlessly glide into and out of silence in certain phrases. If you like this track, I’d recommend you check out the whole album, which is titled &lt;a href=&quot;https://open.spotify.com/album/7k6LMeVKzWrL9XHzNTPkXu?si=9RwJMxm6Sa-pDQ6A-w4nGQ&quot;&gt;&lt;em&gt;Ten Sails&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-digression-about-metadata&quot;&gt;A Digression About Metadata&lt;/h4&gt;
+
+&lt;p&gt;The other interesting thing about this song is that it illustrates an issue that has been frequently discussed about Spotify and other streaming platforms. At a high level, a song has two sets of rights, which result in two types of revenue streams. First, there is the “master” right to the recording itself, and second, there are the “publishing” rights for the music composition. When you stream a track on Apple Music or Spotify, both sets of rightsholders need to be paid. However, especially for publishing rightsholders (e.g. a composer or songwriter), the data that tells the streaming service who to pay is often missing.&lt;/p&gt;
+
+&lt;p&gt;This is a &lt;em&gt;huge&lt;/em&gt; problem. In a recent review, the UK Digital, Culture, Media and Sport Committee heard that there are billions of dollars unallocated due to bad data:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At best, mismatched, incomplete or missing metadata can result in delays to creator royalties for months or even years. At worst, this can result in payments being misallocated or otherwise consigned as unclaimed or non-attributable royalties to ‘black boxes’. Black boxes consisted of $2.5 billion in unallocated income in 2019 alone. &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
+
+  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;The original source for the $2.5 billion figure was a &lt;a href=&quot;https://www.digitalmusicnews.com/2017/08/03/music-industry-royalty-black-box/&quot;&gt;2017 article by Digital Music News&lt;/a&gt; which cited figures provided by Paperchain, a tech company.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sometimes, artists are able to get the data fixed and collect the income they are entitled to. However, the committee heard that most of the money goes elsewhere:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After a period of time, black boxes are then assigned pro-rata to streams that have been correctly identified, which is established in standard publishing agreements. This means that those creators and companies, particularly who are most listened to, are effectively are [sic] paid twice: first for their own streams, and then for streams that cannot be allocated. &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
+
+  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There are many reasons this problem persists, including the need to digitize paper records for back catalogues, and limitations on who can submit corrections or challenges to bad data. However, a big part of the problem is lack of effort from record labels:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Because the recording and song rights are licensed separately and often held by different music creators and companies, many labels do not supply the relevant ISWC &lt;a class=&quot;annotation-link&quot;&gt;5&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;International Standard Musical Works Code, a unique identifier used to help identify the correct rightsholders.&lt;/span&gt;
+ when licensing music to streaming services, meaning that songwriters often lose out altogether when music is streamed. Often, this is by choice because of the difficulty of doing so: in oral evidence, Maria Forte asserted that in conversation with one record label, a representative said “‘I don’t care about composer information because it’s nothing to do with me. I’m not changing my system to do that’”. &lt;a class=&quot;annotation-link&quot;&gt;6&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;annotation&quot;&gt;
+  &lt;p&gt;Paragraph 90, page 50. Sources in original.&lt;/p&gt;
+
+  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In essence, there is a mismatch of responsibility and incentive. The record label earns its income from owning the master rights to a song. However, it is responsible for supplying the data that identifies the master rights holder(s) &lt;em&gt;and&lt;/em&gt; the publishing rights holder(s) when the song is uploaded. As a result, the master rights data is usually correct, but the publishing rights data is often incorrect or omitted, unless the record label has a financial stake in ensuring the publishing rights data is correct.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bluebird&lt;/em&gt; is an excellent example of this — when the song was originally uploaded to Spotify, the songwriter credit for Nadje Noordhuis was missing:&lt;/p&gt;
+
+&lt;p style=&quot;max-width: 400px;&quot;&gt;&lt;img src=&quot;/assets/Images/Screen Shot 2021-09-18 at 4.30.30 PM.png&quot; alt=&quot;Screenshot of Spotify &amp;quot;Show Credits&amp;quot; dialog box. &amp;quot;Written by&amp;quot; is blank.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, at the time, songwriter credits for Nadje’s collaborator, Luke Howard, &lt;em&gt;were&lt;/em&gt; included on the same album. The label, Lukktone, appears to be owned or controlled by Luke Howard (since &lt;a href=&quot;https://www.discogs.com/label/792716-Lukktone&quot;&gt;all of its releases feature him as an artist&lt;/a&gt;). I’m not accusing anyone here of malice — it just illustrates the broader issue: Lukktone had a strong financial incentive to ensure that the songwriter credits for Luke Howard were correctly submitted; it had less of an incentive to ensure that the credits for Nadje Noordhuis were also correct.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, this particular story has a positive ending. At some point between September and October 2021, the credits were corrected:&lt;/p&gt;
+
+&lt;p style=&quot;max-width: 400px;&quot;&gt;&lt;img src=&quot;/assets/Images/Screen Shot 2021-10-31 at 12.17.23 PM.png&quot; alt=&quot;Screenshot of Spotify &amp;quot;Show Credits&amp;quot; dialog box. &amp;quot;Written by&amp;quot; lists &amp;quot;Nadje Noordhuis-Fairfax&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Even still, this album was released in 2015, which means that at best, Nadja Noordhuis will be receiving a couple thousand dollars in publishing revenue &lt;a class=&quot;annotation-link&quot;&gt;7&lt;/a&gt;
+&lt;span class=&quot;annotation&quot;&gt;It’s hard to estimate exactly, but you could extrapolate from the average master right payout and take a guess at what the publishing revenue might be:&lt;br /&gt;&lt;br /&gt;USD $0.004 per-stream master right payment × (15% publishing / 55% master) × 4,200,000 streams × 50% revenue share with publisher ≈ $2,300
+&lt;/span&gt; for a song that’s been streamed over 4 million times on Spotify — six years late.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in reading more about this issue, you can check out a good &lt;a href=&quot;https://www.theverge.com/2019/5/29/18531476/music-industry-song-royalties-metadata-credit-problems&quot;&gt;article from &lt;em&gt;The Verge&lt;/em&gt;&lt;/a&gt; from a couple years ago as well as the full discussion of the issue in the &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;UK Parliament Report&lt;/a&gt; (starting on the page numbered 49/page 53 in the PDF). (&lt;a href=&quot;https://committees.parliament.uk/work/646/economics-of-music-streaming/&quot;&gt;Full materials from the UK committee review&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h4 id=&quot;elena-kats-chernin-lullaby-for-nick&quot;&gt;Elena Kats-Chernin: Lullaby For Nick&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Elena_Kats-Chernin&quot;&gt;Elena Kats-Chernin&lt;/a&gt; AO (born 4 November 1957) is a Soviet-born Australian pianist and composer, best known for her ballet &lt;em&gt;Wild Swans&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think I would describe the vibe of this song as “Pull up a chair and get comfortable. I’m about to tell you a long story, starting from the beginning.” Perhaps I should have suggested you listen to this before the metadata digression above. If I had a piano in my house, I would definitely learn how to play this; if you want to learn how to play it, you can &lt;a href=&quot;https://www.boosey.com/shop/prod/Kats-Chernin-Elena-Lullaby-for-Nick-Violin-Piano-Digital-Sheet-Music/2498011&quot;&gt;buy the sheet music from Boosey &amp;amp; Hawkes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next&quot;&gt;Up Next&lt;/h2&gt;
+
+&lt;p&gt;In the next post in this series, I’ll finish off the Spotify deep dive with a look at their &lt;em&gt;Classical New Releases&lt;/em&gt; playlist.&lt;/p&gt;
+
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Music For Every Mood</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)</title><link href="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)" /><published>2021-09-19T00:00:00-04:00</published><updated>2021-09-19T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two</id><content type="html" xml:base="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html">&lt;h2 id=&quot;diving-deeper-into-spotify&quot;&gt;Diving Deeper into Spotify&lt;/h2&gt;
 
 &lt;p&gt;Continuing from the &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html&quot;&gt;previous post on Spotify classical music playlists&lt;/a&gt;, we’re now turning to Spotify’s all-orchestra playlist.&lt;/p&gt;
 
@@ -1230,137 +1398,4 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;As a musical experience, &lt;em&gt;Carmina Burana&lt;/em&gt; is enjoyable and varied, but the fun is heightened by the fact that it is based on a historical collection of poems that are crude, satirical, and highly sexual. As a result, the source text is quite a fun read, and I enjoyed finding excerpts to feature in my blog post.&lt;/p&gt;
 
-&lt;p&gt;I hope you enjoy reading them too, in &lt;a href=&quot;https://www.tso.ca/coming-soon-carl-orff-carmina-burana&quot;&gt;my post about &lt;em&gt;Carmina Burana&lt;/em&gt; on the TSO website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TSO" /><summary type="html">As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s Carmina Burana.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Formatting Restrictions in Grant Portals</title><link href="https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I.html" rel="alternate" type="text/html" title="Formatting Restrictions in Grant Portals" /><published>2019-04-07T00:00:00-04:00</published><updated>2019-04-07T00:00:00-04:00</updated><id>https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I</id><content type="html" xml:base="https://tallcoleman.me/writing/2019/04/07/Formatting-Restrictions-in-Grant-Portals-Part-I.html">&lt;h2 id=&quot;the-pains-of-plaintext&quot;&gt;The Pains of Plaintext&lt;/h2&gt;
-
-&lt;p&gt;One of my biggest frustrations with grant portals is that they make writing feel primitive. Most portals only allow you to submit answers in unformatted plaintext, taking away a lot of important formatting tools that good writers use to make their text easy to read and to understand.&lt;/p&gt;
-
-&lt;p&gt;Don’t just take my word for it: some of the things in the standard formatting toolbox come recommended by the U.S. government! At &lt;a href=&quot;https://www.plainlanguage.gov&quot;&gt;plainlanguage.gov&lt;/a&gt; you can find a whole set of guidelines about how to be a clear and effective writer. These guidelines are designed for people in government who might write a regulation, a form, or a letter that is sent out to citizens, but the advice applies to a lot of technical writing. Grant writing is no exception.&lt;/p&gt;
-
-&lt;p&gt;Here is a selection of some of their tips:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/organize/add-useful-headings/&quot;&gt;Add useful headings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/highlight-important-concepts/&quot;&gt;Highlight important concepts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/organize/use-lists/&quot;&gt;Use lists&lt;/a&gt; (with bullets or numbers)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/use-tables-to-make-complex-material-easier-to-understand/&quot;&gt;Use tables to make complex material easier to understand&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.plainlanguage.gov/guidelines/design/consider-using-visuals/&quot;&gt;Consider using visuals&lt;/a&gt; (such as diagrams, maps, and images)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The descriptive text for “Highlight important concepts” is particularly fun to read:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You can … add &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italics&lt;/em&gt; to emphasize important concepts within a particular section …. Only emphasize important information, otherwise you’ll dilute its impact.&lt;/p&gt;
-
-  &lt;p&gt;PUTTING EVERYTHING IN CAPITAL LETTERS IS NOT A GOOD EMPHASIS TECHNIQUE. ALTHOUGH IT MAY DRAW THE USER’S ATTENTION TO THE SECTION, IT MAKES IT HARDER TO READ. AND ONLINE, IT’S CONSIDERED SHOUTING.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On to the problems…&lt;/p&gt;
-
-&lt;h2 id=&quot;organizing-complex-information-is-hard-without-headings&quot;&gt;Organizing Complex Information is Hard Without Headings&lt;/h2&gt;
-
-&lt;p&gt;In most grant applications, it’s not a huge deal that you can’t make your own headings because the application is structured for you, with headings and questions set out by the funder. However, I still find myself using headings all the time—usually in one of two cases:&lt;/p&gt;
-
-&lt;h3 id=&quot;case-1---the-question-is-incredibly-long&quot;&gt;Case 1 - The Question Is Incredibly Long&lt;/h3&gt;
-
-&lt;p&gt;Most grant application questions have word limits in the range of 100–500 words. Since a full page of single-spaced writing is usually about 500 words, this makes things very manageable, and ensures that there’s usually at least one heading on each page.&lt;/p&gt;
-
-&lt;p&gt;However, there are some cases where questions can be much, much longer. In the Year 1 Canada Council for the Arts operating funding application, half of the questions are over 500 words, and the longest is a full 3,000 words, which is about &lt;em&gt;six full pages&lt;/em&gt; of text. For one question!&lt;/p&gt;
-
-&lt;h3 id=&quot;case-2---the-question-has-multiple-parts&quot;&gt;Case 2 - The Question Has Multiple Parts&lt;/h3&gt;
-
-&lt;p&gt;Quite often, a question will ask you to talk about multiple things in the same answer. Take this question from the &lt;a href=&quot;http://www.arts.on.ca/grants/general-granting-information/guide-to-operating-programs/operating-program-application-questions&quot;&gt;Ontario Arts Council operating funding application&lt;/a&gt;, for example:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Brief History&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;p&gt;Tell us about your organization, for example: the year you were founded, what you’re doing now, the communities you serve, important milestones in your development and how they have had an impact on your current programming.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This question has a 250-word limit, so instead of moving from topic to topic with transition sentences, you can just use simple headings instead like “Current Activities”, “Milestones”, and “Communities Served” to jump between topics without wasting words.&lt;/p&gt;
-
-&lt;p&gt;To make sure the reviewers don’t get lost in the sea of your 3,000 word answer or can follow along as you jump between different topics or time periods, you have to use headings, even though it’s not supported in plaintext. The best workaround I’ve found so far is to shout THIS IS A HEADING in all caps and put some extra space before it through judicious use of the enter key. It’s not ideal—it doesn’t help people who might use headings to navigate with a screen reader—and you can’t use bigger or smaller headings to organize your work in a sophisticated way.&lt;/p&gt;
-
-&lt;h2 id=&quot;you-cant-highlight-key-points-or-italicize-titles-in-plaintext&quot;&gt;You Can’t Highlight Key Points or Italicize Titles in Plaintext&lt;/h2&gt;
-
-&lt;p&gt;Let’s try an experiment. Imagine you are skimming the following paragraph in an application. Where do your eyes land? How long does it take you to understand the main point of the paragraph?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Schools scoring in the top 25% of the &lt;strong&gt;Learning Opportunity Index (LOI)&lt;/strong&gt; &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;
-&lt;span class=&quot;annotation&quot;&gt;This is a real metric used by the Toronto District School Board: &lt;a href=&quot;https://web.archive.org/web/20190407190902/https://www.tdsb.on.ca/Portals/research/docs/reports/LOI2017.pdf&quot;&gt;tdsb.on.ca/Portals/research/docs/reports/LOI2017.pdf&lt;/a&gt;&lt;/span&gt;
- make up 40% of paid attendees, and schools in the bottom 25% only represent 10% of participants, showing that schools from lower-income neighbourhoods face barriers to attending our theatre programs. However, ABC Neighbourhood Theatre  has long run a targeted program offering complimentary tickets, with over 80% of free tickets going to schools with LOI scores in the bottom 25%. As a result, &lt;strong&gt;30% of our total attendees are from schools with LOI scores in the bottom 25%, demonstrating our commitment to serving schools that do not usually have good access to arts programs&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Now skim it again without the formatting. What changes? Are you still able to figure out the main point in only a couple seconds?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Schools scoring in the top 25% of the Learning Opportunity Index (LOI) make up 40% of paid attendees, and schools in the bottom 25% only represent 10% of participants, showing that schools from lower-income neighbourhoods face barriers to attending our theatre programs. However, ABC Neighbourhood Theatre  has long run a targeted program offering complimentary tickets, with over 80% of free tickets going to schools with LOI scores in the bottom 25%. As a result, 30% of our total attendees are from schools with LOI scores in the bottom 25%, demonstrating our commitment to serving schools that do not usually have good access to arts programs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;When you are able to put your key points in bold, you have much more flexibility to decide how to structure your writing. When you can’t use formatting for emphasis, you have to write everything like a newspaper article—main point at the top, and less important information below. The only thing you can do to help out a skim reader is to put your paragraph breaks in the right places. IT’S NOT LIKE YOU CAN PUT YOUR KEY POINTS IN ALL CAPS INSTEAD. THEN YOU JUST COME ACROSS LIKE YOU’RE SHOUTING.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-workaround-for-italics&quot;&gt;A Workaround for Italics&lt;/h3&gt;
-
-&lt;p&gt;As someone who has mostly written grants for arts organizations, one of the most frustrating limitations of grant portals is that you can’t use italics, since they are an essential part of writing titles of artistic works like movies and pieces of music. There’s an easy workaround for this, but let me illustrate the problem first:&lt;/p&gt;
-
-&lt;p&gt;Imagine that there is a composer who writes a piece for orchestra called “my deepest, most horrible fantasy”. When I write my grant, I might write a sentence like:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The orchestra performed &lt;em&gt;my deepest, most horrible fantasy&lt;/em&gt; in Salzburg last spring.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You can see that the italics really help make it clear that the orchestra did not commit any crimes or heinous acts on stage in Salzburg.&lt;/p&gt;
-
-&lt;p&gt;The solution is pretty simple—use single quotes instead. So in most portals, I would write:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The orchestra performed ‘my deepest, most horrible fantasy’ in Salzburg last spring.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The only challenges I sometimes come across are communicating this convention to my editors (I usually leave a note at the top saying something like “single quotes = italics”) and catching myself when I habitually italicize things in my answers. Fortunately, searching for italicized text is &lt;a href=&quot;https://support.office.com/en-us/article/find-and-replace-text-or-formatting-in-word-for-mac-ac12f262-e3cd-439a-88a0-f5a59875dcea&quot;&gt;actually quite easy in Microsoft Word&lt;/a&gt;, so you can just look for any italics that should be single quotes before the text is uploaded into a portal.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, there isn’t really a good replacement for using italics as a method of emphasis. You could use some plaintext alternatives, but they *very* often look _incredibly_ odd, and -unprofessional- to many readers.&lt;/p&gt;
-
-&lt;h2 id=&quot;lists-look-ugly-and-dont-stand-out&quot;&gt;Lists Look Ugly and Don’t Stand Out&lt;/h2&gt;
-
-&lt;p&gt;You can still have lists in plaintext. They just look messy (and maybe a bit unprofessional), because they’re not properly indented. In the case where you want to make entire paragraphs into list items, numbering or bullets don’t stand out as strongly as they should. Lists are a great way to make sure skim readers catch key information, but if you can’t make them look different than the rest of your text, then they’ll get missed.&lt;/p&gt;
-
-&lt;p&gt;You could re-write your lists into prose, but that will make them harder to read (there’s a reason listicles are so popular), it will probably increase your word count, and it won’t give you the benefit of providing some variety in the way you write your answers. The Canada Council application I mentioned earlier is about 22 pages long—can you imagine how much harder it would be to read 22 pages without the occasional list to spice things up a bit?&lt;/p&gt;
-
-&lt;h2 id=&quot;tables-and-spreadsheets-arent-tools-at-your-disposal&quot;&gt;Tables and Spreadsheets Aren’t Tools At Your Disposal&lt;/h2&gt;
-
-&lt;p&gt;Grant applications are mostly about summarizing, and nothing summarizes like a table. Want to give an overview of your programs, when they were established, who they are targeted to, and how many people they reach a year? Want to write out a schedule for the project you’re applying to have funded? A table summarizes multi-faceted information much more effectively and succinctly than text.&lt;/p&gt;
-
-&lt;p&gt;This is not to say that tables don’t exist in grant portals—they do—but only at the funder’s discretion, not as a tool the writer can choose for themselves. Usually funder-created tables take the form of an array of text boxes, one for each table cell. In a similar vein, most applications require a budget, but when it comes to spreadsheets, most portals  either give up and ask you to upload an attachment, or force you to enter your spreadsheet data into a text box table.&lt;/p&gt;
-
-&lt;p&gt;Often these text box tables are implemented in pop-up windows (so 90’s!) and suffer from a number of user experience sins, such as:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;not telling you a text box has word limits until you press ‘save’,&lt;/li&gt;
-  &lt;li&gt;automatically rounding budget numbers, and&lt;/li&gt;
-  &lt;li&gt;(my personal favourite) selecting all the text in a cell on the first click, making it easy to accidentally over-write everything while making edits.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;when-graphs-and-images-are-allowed-theyre-out-of-context&quot;&gt;When Graphs and Images &lt;em&gt;Are&lt;/em&gt; Allowed, They’re Out of Context&lt;/h2&gt;
-
-&lt;p&gt;I’ve seen a couple operating funding applications that ask something along the lines of “What are your main sources of revenue? Are they well-diversified?” The painful way to answer this question is to start with “Our greatest source of revenue is ticket sales, at 40% of the overall total…” The easy way is to just provide a pie chart and add commentary as needed. Alas, usually the pie chart is not an option.&lt;/p&gt;
-
-&lt;p&gt;Images are also an essential communication tool for many applications. A good picture gives a more visceral idea of what a program does and who it serves. It’s one thing to read about a program that works with kids in school—it’s another to read about it and also see a picture of those kids looking excited, engaged, and deep in thought. For artists, pictures, videos, and sound recordings are a standard part of a funding application to demonstrate past works or show off a prototype of the work to be funded. In applications for capital funds, or for equipment purchases, images are essential for the funder to understand what their money is going towards.&lt;/p&gt;
-
-&lt;p&gt;Often, funders will provide an option to upload attachments to allow for images and graphs to be included. Unfortunately, this usually puts them in a separate context to the application text, like a book where all the colour photos are in a couple pages in the middle. When &lt;em&gt;Pitchfork&lt;/em&gt; writes about a pop song, they can put the music video after the paragraph where they talk about how catchy the melody is. When I write about my orchestra’s JUNO-award winning album, I have to hope the reader will remember what I wrote when they listen to the sound clip in the support material section at the end.&lt;/p&gt;
-
-&lt;h2 id=&quot;links-references-and-footnotes-arent-supported&quot;&gt;Links, References, and Footnotes Aren’t Supported&lt;/h2&gt;
-
-&lt;p&gt;A grant application is usually a very fact-heavy piece of writing, but unlike a research report or academic paper, detailed citations and footnotes are the exception, not the rule. Portals encourage this status quo by making it difficult to include these things.&lt;/p&gt;
-
-&lt;p&gt;It’s a particular shame that footnotes aren’t an option in plain-text writing. You often don’t know who is going to read your application, and jury panels usually have people with a mix of different professional experiences. Unobtrusive footnotes that are excluded from word limits could allow you to write as if your audience was someone closely familiar with your particular field, while providing the additional context they would need if they weren’t.&lt;/p&gt;
-
-&lt;p&gt;The ultimate tool for increasing the optional context at your reader’s fingertips is the hyperlink. For plain text-based portals, link shorteners provide a workaround for providing links that can be copy-pasted without cluttering up a paragraph. However, they’re not as fluid as real hyperlinks, like this one linking to a &lt;a href=&quot;https://web.archive.org/web/20190824154934/https://pdos.csail.mit.edu/~neha/hyperlinks/main-no.html&quot;&gt;post by MIT Researcher Neha Narula about whether news articles should have more or fewer hyperlinks&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion-make-clear-communication-easier&quot;&gt;Conclusion: Make Clear Communication Easier!&lt;/h2&gt;
-
-&lt;p&gt;As a concluding thought to tie all these things together, when I tell people that I’m a grant writer, people often tell me that they think grant writing is uniquely difficult, with lots of traps you need to avoid and tricks and techniques you have to know to be successful.&lt;/p&gt;
-
-&lt;p&gt;In an ideal world, it wouldn’t be like this. If you assume that funders want to give funding to the best organizations and the best ideas, then that should be possible without talented grant writers. Putting barriers in the way of clear communication only benefits established organizations who have grant writers on staff. List formatting and ALL CAPS HEADINGS may be small gripes, but they matter because they contribute to a system of giving out public money that is exclusionary.&lt;/p&gt;
-
-&lt;p&gt;If you wanted to make the doling out of funds even more inclusive, you might even challenge the idea that written applications are the ideal way to assess worthiness. It’s certainly the option that’s most convenient for funders, but not necessarily the most equitable option for everyone. Perhaps a good topic for a later post.&lt;/p&gt;
-
-&lt;p&gt;I think my next post will diverge from the minutiae of formatting and talk about how the structure of some grant programs contributes to precarious employment in the arts. Until next time…&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Writing" /><summary type="html">The Pains of Plaintext</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I hope you enjoy reading them too, in &lt;a href=&quot;https://www.tso.ca/coming-soon-carl-orff-carmina-burana&quot;&gt;my post about &lt;em&gt;Carmina Burana&lt;/em&gt; on the TSO website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TSO" /><summary type="html">As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s Carmina Burana.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
