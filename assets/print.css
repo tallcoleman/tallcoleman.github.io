@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /**
- * Reset some basic elements
+ * Reset some basic elements - change
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -716,12 +716,17 @@ h2.noformat, h3.noformat, h4.noformat {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  color: #555; }
+  color: #151515; }
+
+li[role='doc-endnote'] {
+  font-size: 11.25pt;
+  font-family: Georgia, serif;
+  color: #151515; }
 
 span.annotation {
   padding: 12pt 0 12pt 2em; }
 
-a.annotation-link {
+a.annotation-link, a.footnote {
   font-size: 11.25pt;
   border: 2px solid #DAE5CD;
   border-radius: 3px;
@@ -730,7 +735,7 @@ a.annotation-link {
   text-decoration: none;
   color: #002A5C;
   white-space: nowrap; }
-  a.annotation-link:hover {
+  a.annotation-link:hover, a.footnote:hover {
     cursor: pointer; }
 
 .annotation-link-selected {
@@ -756,11 +761,23 @@ a.annotation-link {
   opacity: 1;
   transition: max-height .5s ease-in .01s, width .01s ease-in 0s, opacity .2s ease-in-out .21s; }
 
-div > .annotation-expanded {
+div > .annotation-expanded, li > .annotation-expanded {
   margin-top: 15px; }
 
 .annotation-displayed {
   display: block; }
+
+div.footnotes::before {
+  content: "Notes";
+  display: block;
+  font-size: 32px;
+  font-family: "Franklin Gothic", Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  margin-top: 1.2em;
+  margin-bottom: 15px; }
+  @media screen and (max-width: 700px) {
+    div.footnotes::before {
+      font-size: 28px; } }
 
 article.post table {
   border-collapse: separate;
@@ -790,11 +807,25 @@ article.post table {
   article.post table tr:last-of-type td:last-of-type {
     border-bottom-right-radius: 4px; }
 
+/**
+ * Definitions
+ */
+abbr {
+  font-style: normal;
+  text-decoration: underline dotted;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #555; }
+  abbr:hover {
+    cursor: help; }
+
 @page {
   margin: 2.54cm; }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, div.footnotes::before {
   break-after: avoid;
   break-inside: avoid; }
+
+a:visited {
+  color: #00637d; }
 
 .site-header {
   background: transparent; }
@@ -810,4 +841,4 @@ h1, h2, h3, h4, h5, h6 {
 .site-footer {
   background-image: none;
   background-color: transparent;
-  padding: 30px 0 30px 0; }
+  padding: 0; }

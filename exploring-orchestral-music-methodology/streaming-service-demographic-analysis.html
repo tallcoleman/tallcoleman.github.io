@@ -41,7 +41,7 @@
 <!-- End Jekyll SEO tag -->
 
 
-  <script defer src="/scripts/footnotes2.js"></script>
+  <script defer src="/scripts/footnotes3.js"></script>
 </head>
 
 
@@ -209,7 +209,7 @@
 <h3 id="additional-notes">Additional Notes:</h3>
 
 <ul>
-  <li>Some of these playlists are updated fairly frequently, so the songs on them now may be different than when this analysis was done <a class="annotation-link">1</a><span class="annotation">This sort of begs the question, “why not do an analysis over time?” I mean maybe… the problem is, that especially for playlists that completely change every week, this would be even more time consuming than this project. However, I’ve kept the door open to the later possibility by continuing to download the data for these playlists every Sunday. So who knows… maybe over holiday break 2021 I’ll get bored again.</span>.</li>
+  <li>Some of these playlists are updated fairly frequently, so the songs on them now may be different than when this analysis was done <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</li>
   <li>Apple Music did not have an official “Orchestra” type playlist</li>
   <li>Spotify did not have an official “Classical Kids” type playlist</li>
   <li>In both cases, I used a brand-new account, which should have helped to minimize the influence of personalization on the search results</li>
@@ -225,7 +225,7 @@
 
 <p>For Spotify, I exported the playlist information using <a href="https://watsonbox.github.io/exportify">Exportify</a>, a tool created by <a href="https://watsonbox.github.io/">Howard Wilson</a>. (<a href="https://github.com/watsonbox/exportify">Github Repository for Exportify</a>) The options “Include artists data”, “Include audio features data”, and “Include album data” were all selected.</p>
 
-<p>For Apple Music, I exported the playlist information from iTunes, as described in this help page: <a href="https://support.apple.com/en-za/guide/music/mus27cd5060f/mac">Save a copy of a playlist in Music on Mac</a> <a class="annotation-link">2</a><span class="annotation">I’m running Mojave, so Apple Music still runs via iTunes on my computer.</span>.</p>
+<p>For Apple Music, I exported the playlist information from iTunes, as described in this help page: <a href="https://support.apple.com/en-za/guide/music/mus27cd5060f/mac">Save a copy of a playlist in Music on Mac</a> <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
 
 <p>Generally speaking, I determined gender and race information for composers by regular web searching, in particular paying attention to:</p>
 <ul>
@@ -243,29 +243,37 @@
 
 <p>Information about the “Average US Orchestra” comparison based on Institute for Composer Diversity data can be found on this page: <a href="/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html">Methodology: Using Data from the Institute for Composer Diversity 2019/20 Season Analysis</a>.</p>
 
-<p>I mostly followed the Canadian “Visible Minority” framework for noting race of composers in the data, although I used a broader interpretation that is <a href="/exploring-orchestral-music-methodology/the-canadian-visible-minority-designation.html">more inclusive of mixed-race composers than under the official Stats Canada methodology, as explained on this page</a>.</p>
+<p>I mostly followed the Canadian “Visible Minority” framework for noting race of composers in the data, although I used a broader interpretation that is <a href="/exploring-orchestral-music-methodology/the-canadian-visible-minority-designation.html">more inclusive of mixed-race composers than under the official Stats Canada methodology</a>.</p>
 
 <h2 id="additional-special-cases">Additional Special Cases</h2>
 
 <h3 id="ensembles-and-multiple-composers">Ensembles and Multiple Composers</h3>
 
-<p>Most of the tracks I analyzed had a singular composer listed. However, some had an ensemble or multiple people listed under the composer field. This raises an interesting question of “what question are you looking to answer?” in the data analysis, somewhat similar to how <a href="/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html#what-each-measures">asking different questions about orchestra seasons would lead you to measure different things</a>.</p>
+<p>Most of the tracks I analyzed had a singular composer listed. However, some had an ensemble or multiple people listed under the composer field. Figuring out what to count in these cases in turn raises an interesting question of “what question are you looking to answer?” It’s somewhat similar to how <a href="/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html#what-each-measures">asking different questions about orchestra seasons would lead you to measure different things</a>.</p>
 
-<p>For the purpose of this series, I chose to handle multiple composers on a fractional basis - a track composed by a male artist and a female artist, for example, would count as 0.5 female artists. Since the vast majority of tracks have a singular composer, this is probably good enough?</p>
+<p>I really struggled with how to count ensembles and multiple composers, and actually changed approach mid-way through writing the deep dive posts. I had originally chosen to handle multiple composers on a fractional basis — a track composed by a male artist and a female artist, for example, would count as 0.5 female artists.</p>
 
-<p>However, if you were going to analyze playlists where it’s common to have multiple composers (or songwriters), you would probably want to use a couple different metrics to demonstrate both the frequency and prominence of artists from certain demographic groups. I think <a href="https://thebaffler.com/latest/discover-weakly-pelly">Liz Pelly’s <em>Discover Weakly</em> article gives a good example</a> of how to do this:</p>
+<p>However, the number of cases where this happened was very small, and based on the idea that representation depends on recognition, you could argue that fractionalization is a bad approach. If you have a track co-written by a female composer and a male composer, the listener <em>recognizes</em> one female composer, not half a female composer.</p>
+
+<p>So it sort of makes sense to count it as one track by a female composer if the intention is to capture something about representation. Plus the intention of this project is to highlight and celebrate composers, which seems contrary to the dehumanizing implications of having someone count for less than a whole number.</p>
+
+<p>Where this approach doesn’t work well is when the listener would be unlikely to recognize the composers (or songwriters) as individuals. Two obvious scenarios that come to mind:</p>
+
+<p>First, when the listener primarily recognizes artists as an ensemble instead of as individuals. In this case, the representation questions start to get a bit complicated. You would probably want to use a couple different metrics to demonstrate both the frequency and <em>prominence</em> of artists from certain demographic groups within the ensemble. I think <a href="https://thebaffler.com/latest/discover-weakly-pelly">Liz Pelly’s <em>Discover Weakly</em> article gives a good example</a> of how to do this (although her specific example focused on performers instead of composers or songwriters):</p>
 
 <blockquote>
   <p>On Today’s Top Hits, I found that over the course of one month, 64.5 percent of the tracks were by men as the lead artist, with 20 percent by women and 15.5 percent relying on collaborations between men and women artists. When all features were taken into consideration, I found that 85.5 percent of tracks included men artists, while only 45.5 percent included women. This was one of the highest percentages of women artists out of all the playlists I examined.</p>
 </blockquote>
 
-<p>This begs an interesting question about classical music - why is so much classical music written by singular people when other forms of music are often written collaboratively? Maybe I’ll write a post about this at some point.</p>
+<p>The second scenario comes up when certain artists involved in creating a song are much more prominent than others, especially when there are a large number of artists are involved. For example, <a href="https://en.wikipedia.org/wiki/Jenna_Andrews">Jenna Andrews</a> <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> has the first songwriting credit on BTS’s <em>Butter</em>, but most listeners would probably think of <em>Butter</em> as “a BTS song”, unless they’re the kind of listener that likes to know “insider” details. Representation depends on recognition!</p>
+
+<p>A modern pop song — even for a solo act — usually has a sizable team of songwriters and producers behind it, which begs an interesting question about classical music - why is so much classical music written by singular people when other forms of music are often written collaboratively? Maybe I’ll write a post about this at some point.</p>
 
 <h3 id="unknown-composers">Unknown Composers</h3>
 
 <p>Some pieces of music don’t have known composers, e.g. folk songs and nursery rhymes. In these cases, the composer usually gets written in as “Traditional”. I chose to include these for the purposes of the percentage calculations for each demographic category. All of the folk songs and nursery rhymes that I came across were from European countries, but in theory if there were a Japanese folk song, for example, I would have counted that as track written by a composer of colour.</p>
 
-<p>When it comes to gender, this gets a bit tricky. Because I only counted demographic categories I could reasonably verify, this means that folk songs default to male in the analysis. Which doesn’t quite seem right? Perhaps you could include folk songs in the percentage calculation for race, but not for gender, but this complicates the figures in a way that could end up being confusing. I suppose you could argue that this <em>does</em> make sense because representation depends on recognition.</p>
+<p>When it comes to gender, this gets a bit tricky. Because I only counted demographic categories I could reasonably verify, this means that folk songs default to male in the analysis. Which doesn’t quite seem right? Perhaps you could include folk songs in the percentage calculation for race, but not for gender, but this complicates the figures in a way that could end up being confusing. I suppose you could argue that this <em>does</em> make sense because — as discussed above — representation depends on recognition.</p>
 
 <p>I don’t really know what the right answer is here. But this is how I calculated it, and you can decide (or let me know!) if there’s a better way it should have been done.</p>
 
@@ -279,7 +287,7 @@
 
 <p>For this analysis, I didn’t count any arrangers for the summary statistics produced.</p>
 
-<p>The fun question to ponder here is this: when is an arranger’s influence on the music so strong that they should be considered one of the “authors” of the piece? You could ask the same question about producers, or even people who write lyrics or libretto. Because my girlfriend studies these kinds of things, I can tell you there’s a whole part of translation theory that looks at questions like this.</p>
+<p>The fun question to ponder here is this: when is an arranger’s influence on the music so strong that they should be considered one of the “authors” of the piece? You could ask the same question about producers, or even people who write lyrics or libretto. My girlfriend studies translations in literature, and she’s told me about several examples in textual media where you start to ask these kinds of questions as well.</p>
 
 <h2 id="beyond-composers">Beyond Composers</h2>
 
@@ -287,7 +295,7 @@
 
 <p>However, I think composers are a good role to focus in on for a couple reasons:</p>
 <ul>
-  <li>In classical or orchestral music, composers often have the highest stature, compared to any other role <a class="annotation-link">3</a><span class="annotation">To prove my point, I quickly counted the number of times that composers, soloists, and conductors were mentioned in concert titles for the TSO 2019/20 Masterworks season. Composers were mentioned 28 times, conductors 5 times, and soloists 4 times.</span>.</li>
+  <li>In classical or orchestral music, composers often have the highest stature, compared to any other role <sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>.</li>
   <li>Relevant benchmarks for composer diversity are easiest to find.</li>
   <li>If there is clear underrepresentation of composers from certain demographic groups, then it is highly likely that there is underrepresentation in other artist roles as well.</li>
 </ul>
@@ -418,9 +426,33 @@
       
     
   
+    
+      
+        <li>
+          <a href="/music/2021/11/14/deep-dive-spotify-part-four.html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Four)</a>
+        </li>
+      
+    
+  
   </ul>
 </div>
 
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>This sort of begs the question, “why not do an analysis over time?” I mean maybe… the problem is, that especially for playlists that completely change every week, this would be even more time consuming than this project. However, I’ve kept the door open to the later possibility by continuing to download the data for these playlists every Sunday. So who knows… maybe over holiday break 2021 I’ll get bored again. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>I’m running Mojave, so Apple Music still runs via iTunes on my computer. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Jenna Andrews is Canadian. Sorry, gotta note Canadians literally every time they appear. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>To prove my point, I quickly counted the number of times that composers, soloists, and conductors were mentioned in concert titles for the TSO 2019/20 Masterworks season. Composers were mentioned 28 times, conductors 5 times, and soloists 4 times. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </div>
 

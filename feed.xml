@@ -1,5 +1,245 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-10-31T16:33:13-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)</title><link href="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)" /><published>2021-10-31T00:00:00-04:00</published><updated>2021-10-31T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three</id><content type="html" xml:base="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html">&lt;h2 id=&quot;music-for-every-mood&quot;&gt;Music For Every Mood&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2021-11-21T13:59:42-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Four)</title><link href="https://tallcoleman.me/music/2021/11/14/deep-dive-spotify-part-four.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Four)" /><published>2021-11-14T00:00:00-05:00</published><updated>2021-11-14T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/11/14/deep-dive-spotify-part-four</id><content type="html" xml:base="https://tallcoleman.me/music/2021/11/14/deep-dive-spotify-part-four.html">&lt;h2 id=&quot;finishing-up-with-spotify&quot;&gt;Finishing Up With Spotify&lt;/h2&gt;
+
+&lt;p&gt;In the &lt;a href=&quot;https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html&quot;&gt;previous post on Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt; playlist&lt;/a&gt;, I noted that Spotify and Apple Music had very different ideas about what a “classical” playlist is (emphasis added):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[T]he two mood-themed playlists are wildly different when it comes to living composers, because they seem to have very different programming approaches. Apple Music’s &lt;em&gt;Relaxing Classical&lt;/em&gt; takes the existing “canon” and selects mood-appropriate pieces from within it. Pieces by Beethoven, Mozart, Brahms, Debussy, and Rachmaninoff make up nearly half of the playlist. As a result, only two of the tracks featured are by living composers.&lt;/p&gt;
+
+  &lt;p&gt;Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt;, on the other hand, has 36 tracks by living composers, half of the overall total. This is because &lt;strong&gt;“Classical” in Spotify’s parlance means a mix of mood-appropriate pieces from the “canon” alongside modern artists who make mood music using classical instruments.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is not just true of mood-themed classical playlists! It’s also true of Spotify’s &lt;em&gt;Classical New Releases&lt;/em&gt; playlist, in part because of how “new releases” playlists play into Spotify’s curatorial approach. Like with Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt; playlist, one of the clearest signifiers of this distinction between the two platforms is the very large number of living composers.&lt;/p&gt;
+
+&lt;h3 id=&quot;classical-new-releases&quot;&gt;Classical New Releases&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Classical New Releases&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;70&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;5 (7.1%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;BIPOC&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;6 (8.6%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Indigenous / Black Women&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2 (2.9%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;39 (55.7%)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The first notable thing about this playlist is that it is the only one to have more people of colour than the “Average US Orchestra” comparison. It also has a very high number of living composers, as noted above.&lt;/p&gt;
+
+&lt;p&gt;Compared to the equivalent playlist from Apple Music, &lt;a href=&quot;https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html#the-a-list-classical&quot;&gt;&lt;em&gt;The A List: Classical&lt;/em&gt;&lt;/a&gt;, this playlist has more women (five compared to two), a greater number of people of colour (six compared to two), and two tracks by women of colour (there are none in Apple music’s playlist). Like with the mood-themed playlists, the biggest gap is in living composers: 39 in Spotify’s new releases playlist compared to five in Apple’s.&lt;/p&gt;
+
+&lt;p&gt;However, going back to what I said at the top, it’s not an Apple to apples &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; comparison. In contrast to Apple’s &lt;em&gt;A List&lt;/em&gt;, Spotify’s playlist isn’t meant to be a showcase for new recordings of classical music — it’s primarily a feeder playlist for classical-themed mood playlists.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-ecosystem-supporting----------------------------algorithmic-curation&quot;&gt;The Ecosystem Supporting                            Algorithmic Curation&lt;/h4&gt;
+
+&lt;p&gt;If you read about how Spotify approaches curation, it becomes clear that they view their playlists as an ecosystem that works hand in hand with the algorithm to surface the most popular and engaging music to listeners. This &lt;a href=&quot;https://playlistradar.com/spotify-101-understanding-the-spotify-playlist-landscape/&quot;&gt;article by Playlist Radar&lt;/a&gt; explains it well:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Spotify editors often test out new tracks on smaller “feeder” playlists. Tracks that perform well on a playlist like “New Noise” (289K followers) might be promoted to “Rock This” (4.3M followers); songs that gain traction on a playlist such as “Most Necessary” (1.8M followers) might eventually end up on “Rap Caviar” (10.3M followers).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;New release playlists are a good entry point to this system: every week a new batch of songs are tested to see how they perform, and the winners (as determined by the algorithm), make their way onto other official playlists.&lt;/p&gt;
+
+&lt;p&gt;Winning the algorithmic hunger games and getting a song placed on a prominent official playlist is how you make a living on Spotify, and the stakes are high. Just take a look at &lt;a href=&quot;https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9?si=ltfVroSuQJqyAuCtxb-EWw&quot;&gt;&lt;em&gt;Butterflying&lt;/em&gt;&lt;/a&gt;, the album by Elena Kats-Chernin that includes &lt;em&gt;Lullaby for Nick&lt;/em&gt;, which we examined in the previous post. &lt;em&gt;Lullaby for Nick&lt;/em&gt; has over 6 million listens &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The next most-played song, &lt;em&gt;Butterflying&lt;/em&gt;, has only 86,000 listens &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. &lt;em&gt;Butterflying&lt;/em&gt; is aided slightly by its position as the first song in the album, but nothing compares to the power of official playlists to drive listens.&lt;/p&gt;
+
+&lt;p&gt;Placement on a prominent official playlist like &lt;em&gt;Classical Sleep&lt;/em&gt; probably therefore makes the difference between a song that pays for a very nice dinner out and a song that pays rent for an entire year. With that said, let’s meet some of the contenders for an algorithmic golden ticket.&lt;/p&gt;
+
+&lt;h4 id=&quot;deborah-cheetham-christmas-with-you&quot;&gt;Deborah Cheetham: Christmas With You&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Deborah_Cheetham&quot;&gt;Deborah Joy Cheetham&lt;/a&gt; AO (born 24 November 1964), is an Aboriginal Australian soprano, actor, composer and playwright.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All of the data for this project was collected around the winter holiday period in 2020, hence the occurrence of this modern Christmas carol and &lt;em&gt;Silent Night&lt;/em&gt; below.&lt;/p&gt;
+
+&lt;p&gt;The carol was commissioned by the classical arm of the Australian Broadcasting Company (ABC Classic) and performed by over 1,500 singers whose performances were digitally edited together with music from the Queensland Symphony Orchestra.&lt;/p&gt;
+
+&lt;p&gt;For a song composed in 2020, you could believe it had been part of Christmas traditions for decades. &lt;a href=&quot;https://www.abc.net.au/classic/read-and-watch/music-reads/deborah-cheetham-christmas-with-you/12821958&quot;&gt;Cheetham writes&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not apologise for the nostalgic style of this carol. There is longing, yes, but there is also hope. For me, hope is ultimately the message and meaning of Christmas. Hope is born into this world every day. We have only to grasp it, commit to it, cherish it and renew it. Sounds like a lot to do? Well… that is what music is for. That is why we sing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://www.abc.net.au/classic/read-and-watch/music-reads/deborah-cheetham-christmas-with-you/12821958&quot;&gt;learn more about the project and get the sheet music&lt;/a&gt; on the ABC Classic website. (&lt;a href=&quot;https://web.archive.org/web/20211027225850/https://www.abc.net.au/classic/events/classic-choir/welcome/&quot;&gt;Archive Link&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;ABC Classic also commissioned artwork from Wadawarrung artist &lt;a href=&quot;https://www.deannegilson.com/&quot;&gt;Deanne Gilson&lt;/a&gt; to illustrate the themes explored in the Christmas carol, which has a number of cool birds on it &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, so I’ve included it below. You can read &lt;a href=&quot;https://www.abc.net.au/classic/read-and-watch/music-reads/deanne-gilson-morning-star/12821968&quot;&gt;more about the painting and Deanne&lt;/a&gt; on the ABC website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Images/christmas-with-you-artwork.jpg&quot; alt=&quot;Image of painting titled Nyirram turt-barram&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;&lt;em&gt;Nyirram turt-barram&lt;/em&gt; (The Morning Star Story) by Deanne Gilson&lt;/p&gt;
+
+&lt;h4 id=&quot;celeste-wrabel--jamie-hartman-arr-kris-bowers-strange-feat-hillary-smith&quot;&gt;Celeste, Wrabel &amp;amp; Jamie Hartman arr. Kris Bowers: Strange (feat. Hillary Smith)&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Celeste_(singer)&quot;&gt;Celeste Epiphany Waite&lt;/a&gt; (born 5 May 1994) is an American-British singer and songwriter. In 2019, she became the fifth artist to top the BBC’s annual Sound of… poll and win the Rising Star Award at the Brit Awards in the same year. Her debut album Not Your Muse was released in 2021 and debuted at No. 1 on the UK Albums Chart…. In the same year, Celeste was also nominated for the Academy Award for Best Original Song for co-writing “Hear My Voice” from the film The Trial of the Chicago 7 (2020).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So here’s the origin story of this track: The &lt;a href=&quot;https://open.spotify.com/track/5Ck2pBM8zZNIjIxeiEiVvy?si=4fda76f94be74fdf&quot;&gt;original song&lt;/a&gt; was written by Celeste with &lt;a href=&quot;https://en.wikipedia.org/wiki/Wrabel&quot;&gt;(Stephen) Wrabel&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Jamie_Hartman&quot;&gt;Jamie Hartman&lt;/a&gt; &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, and it was released in September 2019 as the lead single for her album &lt;em&gt;Not Your Muse&lt;/em&gt;. This version, however, is an instrumental cover arranged by &lt;a href=&quot;https://en.wikipedia.org/wiki/Kris_Bowers&quot;&gt;Kris Bowers&lt;/a&gt; for the first season of the Netflix series &lt;em&gt;Bridgerton&lt;/em&gt;, and performed by cellist &lt;a href=&quot;http://www.hillarysmithcello.com/menu&quot;&gt;Hillary Smith&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The entire &lt;em&gt;Bridgerton&lt;/em&gt; soundtrack has classical pop covers like this, with many performed by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vitamin_String_Quartet&quot;&gt;Vitamin String Quartet&lt;/a&gt;. For example, a string cover of Ariana Grande’s &lt;em&gt;thank u, next&lt;/em&gt; is the music for a ballroom dance in episode one. An &lt;a href=&quot;&quot;&gt;article in &lt;em&gt;Vulture&lt;/em&gt;&lt;/a&gt; comments:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alongside these classical-pop mashups, &lt;em&gt;Bridgerton&lt;/em&gt; serves up classical warhorses like Mozart and Shostakovich…. By bringing modern melodies into the proper world of Regency England, &lt;em&gt;Bridgerton&lt;/em&gt; reminds us that classical music wasn’t always so stuffy and solemn. In its time, it trafficked in the same scandal as modern pop. Just with powdered wigs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If this sounds interesting to you, I would highly recommend checking out this &lt;a href=&quot;https://switchedonpop.com/episodes/bridgerton-kris-bowers&quot;&gt;interview with the composer, Kris Bowers&lt;/a&gt;, on the &lt;em&gt;Switched on Pop&lt;/em&gt; podcast. Bowers also wrote a &lt;a href=&quot;https://www.laphil.com/musicdb/pieces/5585/for-a-younger-self-world-premiere&quot;&gt;violin concerto that was premiered by the American Youth Symphony&lt;/a&gt;. I don’t think there’s a full recording of it, but you can &lt;a href=&quot;https://soundcloud.com/american-youth-symphony/for-a-younger-self-excerpt-by-kris-bowers&quot;&gt;listen to an excerpt on the AYS SoundCloud page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ramin-djawadi-game-of-thrones-theme&quot;&gt;Ramin Djawadi: Game of Thrones Theme&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ramin_Djawadi&quot;&gt;Ramin Djawadi&lt;/a&gt; (born 19 July 1974) is a German score composer. He is known for his scores for the 2008 Marvel film Iron Man and the HBO series Game of Thrones, for which he was nominated for Grammy Awards in 2009, 2018 and 2020…. He won two consecutive Emmy Awards for Game of Thrones, in 2018 for the episode “The Dragon and the Wolf” and in 2019 for “The Long Night”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The track featured on the playlist is a cover of the &lt;em&gt;Game of Thrones&lt;/em&gt; theme by the Metamorphose String Orchestra in Belarus. I actually prefer &lt;a href=&quot;https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz?si=4fd1b46a87b3409f&quot;&gt;the original&lt;/a&gt; because it has the big percussion backing, but this version is pretty good too.&lt;/p&gt;
+
+&lt;p&gt;Apparently Ramin Djawadi did a big &lt;em&gt;Game of Thrones&lt;/em&gt; with orchestra tour before the pandemic and it &lt;a href=&quot;https://www.toronto.com/events/game-of-thrones/&quot;&gt;came to Toronto&lt;/a&gt;. I’m very sad I missed it; looks like it was a pretty sick show.&lt;/p&gt;
+
+&lt;h4 id=&quot;masayoshi-fujita-sadness---carlos-cipa-rework&quot;&gt;Masayoshi Fujita: Sadness - Carlos Cipa Rework&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://masayoshifujita.com/about/&quot;&gt;Masayoshi Fujita&lt;/a&gt; is a Japanese vibraphonist, multi-percussionist and composer. Masayoshi first learned how to play the drums, followed by extensive vibraphone training to craft and play his own compositions.&lt;/p&gt;
+
+  &lt;p&gt;Determined not to stick to traditional vibraphone styles or techniques and theory of composition, he seeks his own sound of vibraphone and new possibility of it. [He] also prepares his instrument with strings of bead, strips of foil and similar objects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I suppose in the lo-fi world, “rework” conveys something more chill than “remix”, which implies adding another feature artist, dialing some element of the production up to 11, or both. But this is somewhere in-between a remix and a re-orchestration, so “rework” makes a certain kind of sense.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://open.spotify.com/track/5vCtL7CKdORJTfJ23OnJTr?si=f5b4f0d02dd74c9d&quot;&gt;original &lt;em&gt;Sadness&lt;/em&gt;&lt;/a&gt; was performed by Fujita on vibraphone. In this version, pianist Carlos Cipa is playing the textural parts, and Fujita comes in with the more melodic components on vibraphone. There are some distortion effects thrown in for good measure, especially at the end, and some truly impressive recording techniques used on Cipa’s piano. The resulting tone is incredibly soft and mellow; in fact, after my original half-listen, I had incorrectly jotted down “marimba” instead of “piano”.&lt;/p&gt;
+
+&lt;p&gt;I’m incredibly intrigued by what’s happening at 1:20. There’s some kind of echoing knocking sound and what sounds like &lt;a href=&quot;https://www.youtube.com/watch?v=8uAkaUShxxc&quot;&gt;bowed vibraphone&lt;/a&gt;. But maybe it’s some other technique, and the echoing knocking sound is the attack? &lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Not really sure.&lt;/p&gt;
+
+&lt;h4 id=&quot;astor-piazzolla-invierno-porteño&quot;&gt;Astor Piazzolla: Invierno Porteño&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Astor_Piazzolla&quot;&gt;Astor Pantaleón Piazzolla&lt;/a&gt; (March 11, 1921 – July 4, 1992) was an Argentine tango composer, bandoneon player, and arranger. His works revolutionized the traditional tango into a new style termed Nuevo tango, incorporating elements from jazz and classical music. A virtuoso bandoneonist, he regularly performed his own compositions with a variety of ensembles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is appearance number two for Piazzolla; his &lt;em&gt;Libertango&lt;/em&gt; was featured in &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html#astor-piazzolla-libertango&quot;&gt;Spotify’s &lt;em&gt;Classical Essentials&lt;/em&gt;&lt;/a&gt;. It’s part of a &lt;a href=&quot;https://en.wikipedia.org/wiki/Estaciones_Porte%C3%B1as&quot;&gt;“Four Seasons of Buenos Aires” suite&lt;/a&gt; inspired by Antonio Vivaldi’s famous &lt;em&gt;The Four Seasons&lt;/em&gt;, and Invierno is the “Winter” part of Piazzolla’s suite.&lt;/p&gt;
+
+&lt;p&gt;The track featured on the playlist is a cover of &lt;em&gt;Invierno Porteño&lt;/em&gt; by the Japanese duo of cellist &lt;a href=&quot;https://daimiyata.com/eng/biography&quot;&gt;Dai Miyata&lt;/a&gt; (宮田大) and classical guitarist &lt;a href=&quot;https://en.wikipedia.org/wiki/Yasuji_Ohagi&quot;&gt;Yasuji Ohagi&lt;/a&gt; (大萩康司). It’s the final track from their album &lt;a href=&quot;https://open.spotify.com/album/3gtXPnwpKsrQ0pltXB6l68?si=Q71ZLRHrSRSDgWkwL6HWog&quot;&gt;&lt;em&gt;Travelogue&lt;/em&gt;&lt;/a&gt;, which features guitar and cello covers of classical music from European and South American composers.&lt;/p&gt;
+
+&lt;p&gt;Like with the &lt;em&gt;Game of Thrones&lt;/em&gt; theme, I would encourage you to check out the original so you can hear Piazzolla play the bandoneon (which is in the same family of instruments as the accordion). But Miyata and Ohagi’s version is well-done too, with lyrical cello lines and warm guitar accompaniment.&lt;/p&gt;
+
+&lt;h4 id=&quot;kouhei-morita-low-roar&quot;&gt;Kouhei Morita: Low Roar&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[Kohei Morita (森田晃平) is] a scene musician from Kagoshima prefecture. He started playing contrabass and electric bass at the age of 16. In 2010, he moved his base of activities to Tokyo and participated in live performances and recordings of many artists such as VAMPS, Ikimonogakari, little green monster, Anri Kumaki as a bassist. His PRIMITIVE ART ORCHESTRA, which has been active since 2012, has released his three original albums. He is also active as a composer and arranger…. He is active with an emphasis on warm and unsophisticated bass tones, nostalgic tunes with scenes, and emotional and romantic arrangements. (&lt;a href=&quot;https://open.spotify.com/artist/7LdO9fKTNWQ6C52N1gcwo8?si=CNMrG6MRSVuZ-ldneTXJ7Q&quot;&gt;森田晃平 Spotify Artist Bio&lt;/a&gt;, via Google Translate)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I like the use of glissando &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; here; it really evokes a feeling that the double bass is singing. One neat effect of streaming is that it does remove a lot of the barriers to reaching a global audience. I don’t think there’s any English media about Morita, so how else would someone from Canada discover a double bass player in Japan? Very cool.&lt;/p&gt;
+
+&lt;h4 id=&quot;hania-rani-silent-night&quot;&gt;Hania Rani: Silent Night&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hania_Rani&quot;&gt;Hania Rani&lt;/a&gt; (born Hanna Raniszewska; 1990, Gdańsk) is a Polish pianist, composer and singer. She studied music at the Music School Feliks Nowowiejski in Gdańsk and the Fryderyk Chopin University of Music. (Also: &lt;a href=&quot;http://haniarani.com/about/&quot;&gt;Bio on Hania Rani Website&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, this is essentially &lt;em&gt;Silent Night&lt;/em&gt;, deconstructed. Part of a rich tradition in classical music of taking a tune, pulling it apart, making variations, and putting it back together again as a bigger or different whole. Another good example from earlier would be Coleridge-Taylor’s &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html#samuel-coleridge-taylor-symphonic-variations-on-an-african-air-op63&quot;&gt;&lt;em&gt;Symphonic Variations on an African Air&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If stores are going to insist on playing holiday songs as soon as November rolls around (even the local falafel shop was playing christmas music already the other night), this kind of track is probably the way to go. It evokes the holidays without being so strong a flavour that your average retail worker would be losing their mind the tenth time it’s played &lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;martina-stock-see-the-face&quot;&gt;Martina Stock: See The Face&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[Martina Stock] plays her black concert harp not in the “classical way“ - contemporary, combining acoustic melodies with electronic surfaces and a loop station…. In addition to this, she has developed a lighting system, which makes her possible, an unique play in the dark [sic].&lt;/p&gt;
+
+  &lt;p&gt;…Martina Stock grew up in Bischofshofen, in the mountains of Salzburg countryside, Austria. She studied at the University Mozarteum Salzburg which she completed in 2009. She lives and works in Berlin and Salzburg. (from &lt;a href=&quot;https://open.spotify.com/artist/6kv6jaS62CE2oWnH7msKzT&quot;&gt;Martina Stock Spotify Artist Bio&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I like the circular structure of this one: it begins and ends with a fanfare-like theme, with a long series of variations in the middle that are constantly moving and evolving.&lt;/p&gt;
+
+&lt;p&gt;Martina Stock is also a visual artist, and does a lot of silkscreen pieces (i.e. serigraphy). In some of her shows she combines her visual and musical talents, surrounding herself in her silkscreen works and adding lighting effects to the space and to her harp. Here’s &lt;a href=&quot;https://www.youtube.com/watch?v=pNK9ZJ6XGDY&quot;&gt;one example, titled &lt;em&gt;The Blue Eros&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;james-morgan--juliette-pochin-veni-creator-spiritus---chill-mix&quot;&gt;James Morgan &amp;amp; Juliette Pochin: Veni Creator Spiritus - Chill Mix&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.morganpochin.com/63/Morgan-Pochin&quot;&gt;James Morgan and Juliette Pochin&lt;/a&gt; formed their partnership Morgan Pochin whilst undergraduates at Cambridge, and have gone on to work in a huge variety of fields, from EMMY award winning TV series to UK album chart successes, feature films and compositions for the concert platform and stage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OK, so “&lt;a href=&quot;https://en.wikipedia.org/wiki/Veni_Creator_Spiritus&quot;&gt;a hymn&lt;/a&gt;, but for spa days” is actually not a bad idea! Choral music can be very relaxing and beautiful, and the addition of soft synths is well done here.&lt;/p&gt;
+
+&lt;p&gt;But the claps… I can’t get over the claps. This song would have been fine if they hadn’t scrolled over to the percussion section of their keyboard, picked the fakest-sounding clap, and then applied reverb to it. Why???&lt;/p&gt;
+
+&lt;p&gt;Kind of a weird way to end, but there it is. Good idea, hate the claps.&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next&quot;&gt;Up Next&lt;/h2&gt;
+
+&lt;p&gt;This is the end of the deep dives, but probably not the last post on the topic of classical streaming playlists. There are a number of interesting things I came across relating to the streaming platforms themselves, ranging from the UK parliament study mentioned in the previous post to the oddly-anonymous streaming artists that featured on several of the Spotify playlists.&lt;/p&gt;
+
+&lt;p&gt;I also have two other data sets that could be analyzed. The first one is longitudinal: I’ve been saving a weekly copy of the track listings for the Spotify playlists examined in this series to see how they evolve over time. I have a similar dataset for Apple Music, but it only covers a couple months &lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second dataset includes playlists and track listings from Primephonic, the classical streaming service &lt;a href=&quot;https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/&quot;&gt;acquired by Apple in late August&lt;/a&gt;. From a glance, I don’t think the representation of composers on Primephonic is going to be notably different than on Apple Music’s existing playlists, but it’ll be interesting to look through regardless.&lt;/p&gt;
+
+&lt;p&gt;Before digging into all that, I might take a break and write about other things. I’ve been wanting to write about &lt;a href=&quot;https://donne-uk.org/wp-content/uploads/2021/03/Equality-Diversity-in-Concert-Halls_2020_2021.pdf&quot;&gt;DONNE’s 2021 study of repertoire by 100 orchestras&lt;/a&gt; worldwide for a while. There are also some interesting visualizations I can make from the 2019/20 Institute for Composer Diversity analysis using the &lt;a href=&quot;https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html&quot;&gt;tool I created earlier this year&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Or maybe I’ll write about something else entirely! I have an interesting idea for a post about geographic data analysis for nonprofit impact measurement. We’ll see…&lt;/p&gt;
+
+&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
+
+&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I was going to do a sort of “ba-dum tsssh” here with emoji, but it turns out there’s no cymbal emoji, so this is not possible. Poor 🥁, all alone in the emoji percussion section. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;6,082,741 listens as of November 6, 2021 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;85,689 listens as of November 6, 2021 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Just look at that Kookaburra on the top right! &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Interesting to note that Wrabel and Jamie Hartman were also involved with writing &lt;em&gt;Don’t Go Breaking My Heart&lt;/em&gt;, the 2018 Backstreet Boys comeback single. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;“Attack” is the starting part of a sound - e.g. if you hit a vibraphone with a mallet, there’s a initial burst of sound from the mallet hitting the metal, and then a long “decay” as the metal bar resonates. Pulling a bow across a violin string, for example, would actually have three components: the attack of the bow starting to move (if you’re up close, it sounds a bit crunchy), the “sustain” of the string resonating as the bow continues to move, and then a soft “decay” as the string keeps ringing after the bow has been lifted. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A fancy Italian music term for a note that slides from one pitch to another. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;My personal tolerance level is that I think I could listen to Mariah Carey’s &lt;em&gt;All I Want for Christmas Is You&lt;/em&gt; maybe about three times before starting to feel irate; on the other hand, I’m not actually sure I have a limit for Wham!’s &lt;em&gt;Last Christmas&lt;/em&gt;. Famous last words, probably… &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Apple Music doesn’t have an ad-supported account option, so the only way to export the playlist info each week would have been to pay for the service after my 3-month free trial. Apparently my dedication to this topic does have &lt;em&gt;some&lt;/em&gt; limits. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Finishing Up With Spotify</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/christmas-with-you-artwork.jpg" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/christmas-with-you-artwork.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)</title><link href="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Three)" /><published>2021-10-31T00:00:00-04:00</published><updated>2021-10-31T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three</id><content type="html" xml:base="https://tallcoleman.me/music/2021/10/31/deep-dive-spotify-part-three.html">&lt;h2 id=&quot;music-for-every-mood&quot;&gt;Music For Every Mood&lt;/h2&gt;
 
 &lt;p&gt;Continuing from the &lt;a href=&quot;https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html&quot;&gt;previous post on Spotify’s all-orchestra playlist&lt;/a&gt;, we’re now turning back to the calm and digression-worthy world of mood playlists with a look at Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt;.&lt;/p&gt;
 
@@ -48,7 +288,7 @@
 
 &lt;p&gt;Spotify’s &lt;em&gt;Classical Sleep&lt;/em&gt;, on the other hand, has 36 tracks by living composers, half of the overall total. This is because “Classical” in Spotify’s parlance means a mix of mood-appropriate pieces from the “canon” alongside modern artists who make mood music using classical instruments.&lt;/p&gt;
 
-&lt;p&gt;The living composers responsible for those 36 tracks range from often-anonymous artists, &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;If you look at the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#source-data&quot;&gt;data for this project&lt;/a&gt;, you’ll see “No Sources Found” for the demographic attributes of artists that could not be linked to a known person. The methodology page also has notes on &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;how unknown artists were handled in the analysis&lt;/a&gt;.&lt;/span&gt; whose entire career is designed around providing the kind of algorithmically-friendly music favoured by mood playlists, to artists like Elena Kats-Chernin, who frequently work with orchestras.&lt;/p&gt;
+&lt;p&gt;The living composers responsible for those 36 tracks range from often-anonymous artists, &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; whose entire career is designed around providing the kind of algorithmically-friendly music favoured by mood playlists, to artists like Elena Kats-Chernin, who frequently work with orchestras.&lt;/p&gt;
 
 &lt;h4 id=&quot;alexis-ffrench-together-at-last-bluebird&quot;&gt;Alexis Ffrench: Together At Last; Bluebird&lt;/h4&gt;
 
@@ -58,18 +298,7 @@
 
 &lt;p&gt;Appearance #2 for Ffrench, whose &lt;em&gt;A Time for Giving&lt;/em&gt; was featured on &lt;a href=&quot;https://tallcoleman.me/music/2021/03/01/deep-dive-apple-music.html#alexis-ffrench-a-time-for-giving&quot;&gt;Apple Music’s &lt;em&gt;The A-List: Classical&lt;/em&gt;&lt;/a&gt;. The first of these two songs, &lt;em&gt;Together At Last&lt;/em&gt;, is the titular song from Ffrench’s 2018 holiday EP. Like &lt;em&gt;A Time for Giving&lt;/em&gt;, which is from Ffrench’s 2020 holiday EP, &lt;em&gt;Home&lt;/em&gt;, it reminds me of the church music influences that Ffrench has spoken about in his music.&lt;/p&gt;
 
-&lt;p&gt;The second, &lt;em&gt;Bluebird&lt;/em&gt;, is far and away Ffrench’s most popular song, and in my comments about the Apple Music playlist, I linked to a great performance of it from the BRIT awards. It reminds me in so many good ways of &lt;em&gt;Married Life&lt;/em&gt; from Michael Giacchino’s soundtrack to &lt;em&gt;UP&lt;/em&gt; — the sighing phrases, the gentle piano, the sense of time looping and passing at the same time. It’s really excellent. &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;To make sure, I went to listen to &lt;em&gt;Married Life&lt;/em&gt; again, and this has tangentially inspired me with a business idea for orchestras:&lt;/p&gt;
-
-  &lt;p&gt;Nearly everyone who has seen &lt;em&gt;UP&lt;/em&gt; will be unable to listen to &lt;em&gt;Married Life&lt;/em&gt; without being brought to tears, or at least this is my personal experience. It’s a masterpiece of modern cinema, packing an incredible amount of emotional affect into a very short number of minutes.&lt;/p&gt;
-
-  &lt;p&gt;Now, the last time I went to see a Pops program about film scores, &lt;em&gt;Married Life&lt;/em&gt; was not on it, which is surely a crime, but also an incredible missed opportunity. Much like you can shore up a financially deficient theme park in &lt;em&gt;Rollercoaster Tycoon&lt;/em&gt; by jacking up the price of umbrellas when it rains, every orchestra should put &lt;em&gt;Married Life&lt;/em&gt; just before intermission and then have the ushers sell packets of tissues for $5 each on the way out to the lobby.&lt;/p&gt;
-
-  &lt;p&gt;OK, OK, so in the current context of there still very much being a global pandemic, maybe encouraging everyone to nose trumpet for revenue is a bad idea health-wise. But when COVID-19 is finally over and dead in the ground (dear lord, one day soon I hope), this is the path back to financial stability that all orchestras should surely take.&lt;/p&gt;
-
-  &lt;p&gt;Anyway, my point is that &lt;em&gt;Bluebird&lt;/em&gt; is a really good song.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;The second, &lt;em&gt;Bluebird&lt;/em&gt;, is far and away Ffrench’s most popular song, and in my comments about the Apple Music playlist, I linked to a great performance of it from the BRIT awards. It reminds me in so many good ways of &lt;em&gt;Married Life&lt;/em&gt; from Michael Giacchino’s soundtrack to &lt;em&gt;UP&lt;/em&gt; — the sighing phrases, the gentle piano, the sense of time looping and passing at the same time. It’s really excellent. &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;amy-beach-berceuse-lullaby-no-2-from-three-compositions-op-40&quot;&gt;Amy Beach: Berceuse (Lullaby), No. 2 from Three Compositions, Op. 40&lt;/h4&gt;
 
@@ -96,38 +325,20 @@
 &lt;p&gt;This is a &lt;em&gt;huge&lt;/em&gt; problem. In a recent review, the UK Digital, Culture, Media and Sport Committee heard that there are billions of dollars unallocated due to bad data:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;At best, mismatched, incomplete or missing metadata can result in delays to creator royalties for months or even years. At worst, this can result in payments being misallocated or otherwise consigned as unclaimed or non-attributable royalties to ‘black boxes’. Black boxes consisted of $2.5 billion in unallocated income in 2019 alone. &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;At best, mismatched, incomplete or missing metadata can result in delays to creator royalties for months or even years. At worst, this can result in payments being misallocated or otherwise consigned as unclaimed or non-attributable royalties to ‘black boxes’. Black boxes consisted of $2.5 billion in unallocated income in 2019 alone. &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
-
-  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;p&gt;The original source for the $2.5 billion figure was a &lt;a href=&quot;https://www.digitalmusicnews.com/2017/08/03/music-industry-royalty-black-box/&quot;&gt;2017 article by Digital Music News&lt;/a&gt; which cited figures provided by Paperchain, a tech company.&lt;/p&gt;
-&lt;/div&gt;
 
 &lt;p&gt;Sometimes, artists are able to get the data fixed and collect the income they are entitled to. However, the committee heard that most of the money goes elsewhere:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;After a period of time, black boxes are then assigned pro-rata to streams that have been correctly identified, which is established in standard publishing agreements. This means that those creators and companies, particularly who are most listened to, are effectively are [sic] paid twice: first for their own streams, and then for streams that cannot be allocated. &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;After a period of time, black boxes are then assigned pro-rata to streams that have been correctly identified, which is established in standard publishing agreements. This means that those creators and companies, particularly who are most listened to, are effectively are [sic] paid twice: first for their own streams, and then for streams that cannot be allocated. &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
-
-  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
 
 &lt;p&gt;There are many reasons this problem persists, including the need to digitize paper records for back catalogues, and limitations on who can submit corrections or challenges to bad data. However, a big part of the problem is lack of effort from record labels:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Because the recording and song rights are licensed separately and often held by different music creators and companies, many labels do not supply the relevant ISWC &lt;a class=&quot;annotation-link&quot;&gt;5&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;International Standard Musical Works Code, a unique identifier used to help identify the correct rightsholders.&lt;/span&gt;
- when licensing music to streaming services, meaning that songwriters often lose out altogether when music is streamed. Often, this is by choice because of the difficulty of doing so: in oral evidence, Maria Forte asserted that in conversation with one record label, a representative said “‘I don’t care about composer information because it’s nothing to do with me. I’m not changing my system to do that’”. &lt;a class=&quot;annotation-link&quot;&gt;6&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Because the recording and song rights are licensed separately and often held by different music creators and companies, many labels do not supply the relevant ISWC &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; when licensing music to streaming services, meaning that songwriters often lose out altogether when music is streamed. Often, this is by choice because of the difficulty of doing so: in oral evidence, Maria Forte asserted that in conversation with one record label, a representative said “‘I don’t care about composer information because it’s nothing to do with me. I’m not changing my system to do that’”. &lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;Paragraph 90, page 50. Sources in original.&lt;/p&gt;
-
-  &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
 
 &lt;p&gt;In essence, there is a mismatch of responsibility and incentive. The record label earns its income from owning the master rights to a song. However, it is responsible for supplying the data that identifies the master rights holder(s) &lt;em&gt;and&lt;/em&gt; the publishing rights holder(s) when the song is uploaded. As a result, the master rights data is usually correct, but the publishing rights data is often incorrect or omitted, unless the record label has a financial stake in ensuring the publishing rights data is correct.&lt;/p&gt;
 
@@ -141,9 +352,7 @@
 
 &lt;p style=&quot;max-width: 400px;&quot;&gt;&lt;img src=&quot;/assets/Images/Screen Shot 2021-10-31 at 12.17.23 PM.png&quot; alt=&quot;Screenshot of Spotify &amp;quot;Show Credits&amp;quot; dialog box. &amp;quot;Written by&amp;quot; lists &amp;quot;Nadje Noordhuis-Fairfax&amp;quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Even still, this album was released in 2015, which means that at best, Nadja Noordhuis will be receiving a couple thousand dollars in publishing revenue &lt;a class=&quot;annotation-link&quot;&gt;7&lt;/a&gt;
-&lt;span class=&quot;annotation&quot;&gt;It’s hard to estimate exactly, but you could extrapolate from the average master right payout and take a guess at what the publishing revenue might be:&lt;br /&gt;&lt;br /&gt;USD $0.004 per-stream master right payment × (15% publishing / 55% master) × 4,200,000 streams × 50% revenue share with publisher ≈ $2,300
-&lt;/span&gt; for a song that’s been streamed over 4 million times on Spotify — six years late.&lt;/p&gt;
+&lt;p&gt;Even still, this album was released in 2015, which means that at best, Nadja Noordhuis will be receiving a couple thousand dollars in publishing revenue &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; for a song that’s been streamed over 4 million times on Spotify — six years late.&lt;/p&gt;
 
 &lt;p&gt;If you’re interested in reading more about this issue, you can check out a good &lt;a href=&quot;https://www.theverge.com/2019/5/29/18531476/music-industry-song-royalties-metadata-credit-problems&quot;&gt;article from &lt;em&gt;The Verge&lt;/em&gt;&lt;/a&gt; from a couple years ago as well as the full discussion of the issue in the &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;UK Parliament Report&lt;/a&gt; (starting on the page numbered 49/page 53 in the PDF). (&lt;a href=&quot;https://committees.parliament.uk/work/646/economics-of-music-streaming/&quot;&gt;Full materials from the UK committee review&lt;/a&gt;).&lt;/p&gt;
 
@@ -167,7 +376,55 @@
 
 &lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Music For Every Mood</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)</title><link href="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)" /><published>2021-09-19T00:00:00-04:00</published><updated>2021-09-19T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two</id><content type="html" xml:base="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html">&lt;h2 id=&quot;diving-deeper-into-spotify&quot;&gt;Diving Deeper into Spotify&lt;/h2&gt;
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If you look at the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#source-data&quot;&gt;data for this project&lt;/a&gt;, you’ll see “No Sources Found” for the demographic attributes of artists that could not be linked to a known person. The methodology page also has notes on &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;how unknown artists were handled in the analysis&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;To make sure, I went to listen to &lt;em&gt;Married Life&lt;/em&gt; again, and this has tangentially inspired me with a business idea for orchestras:&lt;/p&gt;
+
+      &lt;p&gt;Nearly everyone who has seen &lt;em&gt;UP&lt;/em&gt; will be unable to listen to &lt;em&gt;Married Life&lt;/em&gt; without being brought to tears, or at least this is my personal experience. It’s a masterpiece of modern cinema, packing an incredible amount of emotional affect into a very short number of minutes.&lt;/p&gt;
+
+      &lt;p&gt;Now, the last time I went to see a Pops program about film scores, &lt;em&gt;Married Life&lt;/em&gt; was not on it, which is surely a crime, but also an incredible missed opportunity. Much like you can shore up a financially deficient theme park in &lt;em&gt;Rollercoaster Tycoon&lt;/em&gt; by jacking up the price of umbrellas when it rains, every orchestra should put &lt;em&gt;Married Life&lt;/em&gt; just before intermission and then have the ushers sell packets of tissues for $5 each on the way out to the lobby.&lt;/p&gt;
+
+      &lt;p&gt;OK, OK, so in the current context of there still very much being a global pandemic, maybe encouraging everyone to nose trumpet for revenue is a bad idea health-wise. But when COVID-19 is finally over and dead in the ground (dear lord, one day soon I hope), this is the path back to financial stability that all orchestras should surely take.&lt;/p&gt;
+
+      &lt;p&gt;Anyway, my point is that &lt;em&gt;Bluebird&lt;/em&gt; is a really good song. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
+
+      &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;.&lt;/p&gt;
+
+      &lt;p&gt;The original source for the $2.5 billion figure was a &lt;a href=&quot;https://www.digitalmusicnews.com/2017/08/03/music-industry-royalty-black-box/&quot;&gt;2017 article by Digital Music News&lt;/a&gt; which cited figures provided by Paperchain, a tech company. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;Paragraph 93, page 51. Sources in original.&lt;/p&gt;
+
+      &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;International Standard Musical Works Code, a unique identifier used to help identify the correct rightsholders. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;Paragraph 90, page 50. Sources in original.&lt;/p&gt;
+
+      &lt;p&gt;Digital, Culture, Media and Sport Committee. “Economics of Music Streaming: Second Report of Session 2021–22.” London, United Kingdom: House of Commons, July 9, 2021. &lt;a href=&quot;https://committees.parliament.uk/publications/6739/documents/72525/default/&quot;&gt;https://committees.parliament.uk/publications/6739/documents/72525/default/&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;It’s hard to estimate exactly, but you could extrapolate from the average master right payout and take a guess at what the publishing revenue might be:&lt;/p&gt;
+
+      &lt;p&gt;USD $0.004 per-stream master right payment × (15% publishing / 55% master) × 4,200,000 streams × 50% revenue share with publisher ≈ $2,300 &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Music For Every Mood</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)</title><link href="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part Two)" /><published>2021-09-19T00:00:00-04:00</published><updated>2021-09-19T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two</id><content type="html" xml:base="https://tallcoleman.me/music/2021/09/19/deep-dive-spotify-part-two.html">&lt;h2 id=&quot;diving-deeper-into-spotify&quot;&gt;Diving Deeper into Spotify&lt;/h2&gt;
 
 &lt;p&gt;Continuing from the &lt;a href=&quot;https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html&quot;&gt;previous post on Spotify classical music playlists&lt;/a&gt;, we’re now turning to Spotify’s all-orchestra playlist.&lt;/p&gt;
 
@@ -220,10 +477,9 @@
   &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Heitor_Villa-Lobos&quot;&gt;Heitor Villa-Lobos&lt;/a&gt; (March 5, 1887 – November 17, 1959) was a Brazilian composer, conductor, cellist, and classical guitarist described as “the single most significant creative figure in 20th-century Brazilian art music”. Villa-Lobos has become the best-known South American composer of all time. A prolific composer, he wrote numerous orchestral, chamber, instrumental and vocal works, totaling over 2000 works by his death in 1959.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is part of a larger series of pieces named after chôro, “music played by an ensemble of Brazilian street musicians (called chorões) using both African and European instruments, who improvise in a free and often dissonant kind of counterpoint called contracanto.” &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ch%C3%B4ros&quot;&gt;&lt;em&gt;Chôros&lt;/em&gt; on Wikipedia&lt;/a&gt;&lt;/span&gt;
- I’m quite fond of the fact that the beginning sounds a bit like the warm-up that happens onstage before most concerts start.&lt;/p&gt;
+&lt;p&gt;This is part of a larger series of pieces named after chôro, “music played by an ensemble of Brazilian street musicians (called chorões) using both African and European instruments, who improvise in a free and often dissonant kind of counterpoint called contracanto.” &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’m quite fond of the fact that the beginning sounds a bit like the warm-up that happens onstage before most concerts start.&lt;/p&gt;
 
-&lt;p&gt;It seems that Villa-Lobos is played much less often by US orchestras now than during his late lifetime. In his 1951 book “The American Symphony Orchestra: A Social History of Musical Taste”, John H. Mueller wrote “Among the composers [of Latin America], Villa-Lobos of Brazil is the most noted and enjoys a statistically perceptible rank in the repertoire.” &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Page 265.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It seems that Villa-Lobos is played much less often by US orchestras now than during his late lifetime. In his 1951 book “The American Symphony Orchestra: A Social History of Musical Taste”, John H. Mueller wrote “Among the composers [of Latin America], Villa-Lobos of Brazil is the most noted and enjoys a statistically perceptible rank in the repertoire.” &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;However, the &lt;a href=&quot;https://americanorchestras.org/learn/artistic-planning/orchestra-repertoire-report/&quot;&gt;League of American Orchestras Repertoire Reports&lt;/a&gt; note only two programs featuring pieces by Villa-Lobos in 2012/13 and no programs in 2011/12. The Institute for Composer Diversity analysis from 2019/20 (which included slightly more than twice as many orchestras compared to the League reports) notes eight performances of pieces by Villa-Lobos. The only major symphony featured in either source was Oregon, who included Villa-Lobos’ &lt;em&gt;Uirapurú&lt;/em&gt; in their 2019/20 season.&lt;/p&gt;
 
@@ -231,7 +487,7 @@
 
 &lt;p&gt;One other fun comment on Villa-Lobos from Mueller’s book: in a section about audience reactions, he writes about how the tastes of conductor Leopold Stokowski were sometimes at odds with those of his audience. A Schoenberg performance apparently elicited a “shower of forthright hisses” from the audience, after which Stokowski “turned to his audience and defensively pleaded freedom of expression for the artist.” Mueller then tactfully notes that “Those who agreed with him applauded; those who preferred freedom of expression for the audience made known their opinions by a contrary sign.”&lt;/p&gt;
 
-&lt;p&gt;Stokowski later performed this piece—Chorôs No. 8—resulting in a similar audience reaction. Presumably having learned that arguing with the audience did no good, “on this occasion [Stokowski] invited the disaffected members of the audience to leave “and smoke the classic cigarette.”” &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Page 359 of &lt;em&gt;The American Symphony Orchestra: A Social History of Musical Taste&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Stokowski later performed this piece—Chorôs No. 8—resulting in a similar audience reaction. Presumably having learned that arguing with the audience did no good, “on this occasion [Stokowski] invited the disaffected members of the audience to leave “and smoke the classic cigarette.”” &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Final note: I recently discovered an &lt;a href=&quot;https://open.spotify.com/album/3jvrf0brPEohaxmFHffZGM?si=YbyASROJTk6RiGjFaDCvyQ&amp;amp;dl_branch=1&quot;&gt;album of Villa-Lobos Choral Transcriptions&lt;/a&gt; performed by the São Paulo Symphony Choir and Valentina Peleggi and really enjoyed it. I would highly recommend you give it a listen!&lt;/p&gt;
 
@@ -257,8 +513,7 @@
 
 &lt;h4 id=&quot;the-role-of-commercial-recordings&quot;&gt;The Role of Commercial Recordings&lt;/h4&gt;
 
-&lt;p&gt;In his article, Service noted that there were only two commercial recordings of Farrenc’s Symphony No. 3: one from the North German Radio Philharmonic (the one featured on this playlist) and another from the Orchestre de Bretagne. Two more recordings have since been made by the Solistes Européens, Luxembourg in 2018 &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;From their bio, it seems like the Solistes Européens, Luxembourg claim to be the NBA all star team of European orchestras, but maybe that’s just marketing.&lt;/span&gt;
- and very recently by the Insula Orchestra in July 2021.&lt;/p&gt;
+&lt;p&gt;In his article, Service noted that there were only two commercial recordings of Farrenc’s Symphony No. 3: one from the North German Radio Philharmonic (the one featured on this playlist) and another from the Orchestre de Bretagne. Two more recordings have since been made by the Solistes Européens, Luxembourg in 2018 &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and very recently by the Insula Orchestra in July 2021.&lt;/p&gt;
 
 &lt;p&gt;It’s interesting to watch how the availability of commercial recordings has started to catch up with changes in orchestra programming to feature more diverse composers. For example, Florence Price became a household name for many orchestras in 2020/21, while at the same time only her first symphony had more than one recording. Now, as of September 24, Deutche Grammophon is releasing a recording of &lt;a href=&quot;https://www.umusic.ca/press-releases/yannick-nezet-seguin-the-philadelphia-orchestra-announce-new-album-florence-price-symphonies-nos-1-3/&quot;&gt;Philadelphia Orchestra playing symphonies 1 &amp;amp; 3&lt;/a&gt; conducted by Yannick Nézet-Séguin. There’s still only the one &lt;a href=&quot;https://open.spotify.com/album/2EKqIZNOAbDdk4F1gL56Wh?si=65OzboWRSyiCotqOY3pANQ&amp;amp;dl_branch=1&quot;&gt;recording of Symphony No. 4 by the Fort Smith Symphony&lt;/a&gt;, but hopefully more are on their way.&lt;/p&gt;
 
@@ -272,8 +527,7 @@
   &lt;p&gt;Saariaho studied composition in Helsinki, Freiburg, and Paris, where she has lived since 1982. Her research at the Institute for Research and Coordination in Acoustics/Music (IRCAM) marked a turning point in her music away from strict serialism towards spectralism. Her characteristically rich, polyphonic textures are often created by combining live music and electronics.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Like “A Flock Descends…” this one is also a bit abstract for my tastes, though I find myself liking it more, and I would definitely be interested in hearing it live. In particular, the &lt;a href=&quot;https://saariaho.org/works/du-cristal/&quot;&gt;description on Saariaho’s website&lt;/a&gt; mentions that the piece has “an important part for synthesizer” which isn’t immediately obvious to me; &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;If I were to guess, I think you can hear it around 11:00?&lt;/span&gt;
- maybe being able to see the synth player press the keys would be a good clue as to which sounds are analogue and which are digital.&lt;/p&gt;
+&lt;p&gt;Like “A Flock Descends…” this one is also a bit abstract for my tastes, though I find myself liking it more, and I would definitely be interested in hearing it live. In particular, the &lt;a href=&quot;https://saariaho.org/works/du-cristal/&quot;&gt;description on Saariaho’s website&lt;/a&gt; mentions that the piece has “an important part for synthesizer” which isn’t immediately obvious to me; &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; maybe being able to see the synth player press the keys would be a good clue as to which sounds are analogue and which are digital.&lt;/p&gt;
 
 &lt;p&gt;The piece is actually a two-parter of sorts: &lt;a href=&quot;https://saariaho.org/works/a-la-fumee/&quot;&gt;&lt;em&gt;…à la Fumée&lt;/em&gt;&lt;/a&gt; is meant to follow, though it’s clear that Saariaho thinks that each can stand alone, and in fact they were each commissioned for two different orchestras. Like with &lt;em&gt;Du Cristal&lt;/em&gt;, there’s an electronic element to &lt;em&gt;à la Fumée&lt;/em&gt;, with electronically modified alto flute and cello soloists. There were a couple moments where the solo instruments sounded like they were using an effect or filter, but like with &lt;em&gt;Du Cristal&lt;/em&gt;, it’s very subtle.&lt;/p&gt;
 
@@ -291,7 +545,26 @@
 
 &lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Diving Deeper into Spotify</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Building an Orchestra Season Visualization Tool</title><link href="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html" rel="alternate" type="text/html" title="Building an Orchestra Season Visualization Tool" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html">&lt;p&gt;In a &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt;, I had made a diagram to show the common structure of orchestra concerts:&lt;/p&gt;
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ch%C3%B4ros&quot;&gt;&lt;em&gt;Chôros&lt;/em&gt; on Wikipedia&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Page 265. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Page 359 of &lt;em&gt;The American Symphony Orchestra: A Social History of Musical Taste&lt;/em&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;From their bio, it seems like the Solistes Européens, Luxembourg claim to be the NBA all star team of European orchestras, but maybe that’s just marketing. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If I were to guess, I think you can hear it around 11:00? &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Diving Deeper into Spotify</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Building an Orchestra Season Visualization Tool</title><link href="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html" rel="alternate" type="text/html" title="Building an Orchestra Season Visualization Tool" /><published>2021-07-03T00:00:00-04:00</published><updated>2021-07-03T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/07/03/building-orchestra-season-visualization-tool.html">&lt;p&gt;In a &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;previous post&lt;/a&gt;, I had made a diagram to show the common structure of orchestra concerts:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/Images/MW Concerts Format 19-20 with legend.png&quot; alt=&quot;Visualization showing the length of pieces in Toronto Symphony MasterWorks Concerts&quot; /&gt;&lt;/p&gt;
 
@@ -511,7 +784,13 @@
 
 &lt;p&gt;It must have been bittersweet to win a BAFTA after &lt;a href=&quot;https://web.archive.org/web/20160402170520/http://www.thechineseroom.co.uk/blog/blog/why-im-sort-of-leaving-the-chinese-room&quot;&gt;announcing she would be distancing herself from The Chinese Room&lt;/a&gt; because of her health and because her experiences as a woman in the video game industry were so awful. However, judging by &lt;a href=&quot;https://www.jessicacurry.co.uk/&quot;&gt;the projects listed on her website&lt;/a&gt;, it looks like she was successful in broadening her music-making beyond video games, with a number of interesting standalone pieces and commissions.&lt;/p&gt;
 
-&lt;p&gt;After The Chinese Room went through a rebirth and new ownership, Curry composed music for their 2020 game, &lt;em&gt;Little Orpheus&lt;/em&gt;, which was released on Apple Arcade. Unfortunately, like with &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;, I don’t have the right device to play it: my iPhone is too old &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;My iPhone 6 has had a longer useful life than the Nokia brick I had as a teenager, which is pretty impressive. I’m going to hold on to that headphone jack for as long as I can.&lt;/span&gt;, and I haven’t upgraded my mac to Catalina yet.&lt;/p&gt;
+&lt;p&gt;After The Chinese Room went through a rebirth and new ownership, Curry composed music for their 2020 game, &lt;em&gt;Little Orpheus&lt;/em&gt;, which was released on Apple Arcade. Unfortunately, like with &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;, I don’t have the right device to play it: my iPhone is too old &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and I haven’t upgraded my mac to Catalina yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; After more than five years of dutiful service, my iPhone 6 died, so I was able to play a couple levels of &lt;em&gt;Little Orpheus&lt;/em&gt; on my new phone. The soundtrack is pretty good, and you can &lt;a href=&quot;https://open.spotify.com/album/4IA6Bfoh3204cQrL58aqtK?si=kJPIfwZhRGWAa6PPCQr38A&quot;&gt;listen to it on Spotify&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Although you can find a soundtrack album for most video games, sometimes part of the experience is missing if you just listen to the music and haven’t played the game before. If you’ve played the game, your memories of the entire experience, including the gameplay and the visuals, become part of the listening experience. In addition, sometimes there’s clever integration of the gameplay with the music.&lt;/p&gt;
+
+&lt;p&gt;For example, (if I remember correctly), there’s a part where you’re hiding in a giant eggshell and trying to cross a bridge without being seen by a guard. When the guard is looking away, and you need to move, the music gets louder and more energetic. When the guard looks over at the bridge — and you need to drop down and hide yourself under the egg — it becomes very quiet, adding to the tension of trying not to be discovered. I think the track from the soundtrack album is &lt;a href=&quot;https://open.spotify.com/track/5eOK2lcWoMBSjCDo3zaQJs?si=5e22f618498748b6&quot;&gt;&lt;em&gt;Stealing Eggs&lt;/em&gt;&lt;/a&gt;. Either the shift in dynamics is programmatically triggered, as is &lt;a href=&quot;https://www.musicnotes.com/now/omg/adaptive-video-game-scores/&quot;&gt;common in video game music&lt;/a&gt;, or the music is perfectly timed to the gameplay cycle. Either way, it’s a neat effect.&lt;/p&gt;
 
 &lt;h4 id=&quot;amy-beach-young-birches-op-128-no-2&quot;&gt;Amy Beach: Young Birches, Op. 128, No. 2&lt;/h4&gt;
 
@@ -551,7 +830,14 @@
 
 &lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive Continues</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Google Docs Word Counter for Grant Writers</title><link href="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html" rel="alternate" type="text/html" title="A Google Docs Word Counter for Grant Writers" /><published>2021-04-25T00:00:00-04:00</published><updated>2021-04-25T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html">&lt;p&gt;My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)&lt;/p&gt;
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;My iPhone 6 has had a longer useful life than the Nokia brick I had as a teenager, which is pretty impressive. I’m going to hold on to that headphone jack for as long as I can. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive Continues</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Google Docs Word Counter for Grant Writers</title><link href="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html" rel="alternate" type="text/html" title="A Google Docs Word Counter for Grant Writers" /><published>2021-04-25T00:00:00-04:00</published><updated>2021-04-25T00:00:00-04:00</updated><id>https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers</id><content type="html" xml:base="https://tallcoleman.me/programming/2021/04/25/a-google-docs-word-counter-for-grant-writers.html">&lt;p&gt;My girlfriend uses Scrivener for fiction writing, and I was recently checking out the features again because miraculously, Scrivener 3 was finally released for Windows and she bought it. (This is a big deal - Scrivener 3 for Mac came out in 2017 and there were times when it seemed like a Windows version might never ship.)&lt;/p&gt;
 
 &lt;p&gt;Scrivener is designed really well for solo writing, but when it comes to collaborative writing and commenting, Google Docs is much, much better. This makes it ideal for grant writing, and I’ve had very few complaints using Google Docs as my main writing tool. However, there is one feature from Scrivener that would be really nice to have for grant writing: a way of setting a word count and word limit for each question.&lt;/p&gt;
 
@@ -586,7 +872,7 @@
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
       &lt;th style=&quot;text-align: right&quot;&gt;Full ICD List&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;“Top 21” from ICD List &lt;a class=&quot;annotation-link&quot;&gt;*&lt;/a&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;“Top 21” from ICD List &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -606,7 +892,7 @@
       &lt;td style=&quot;text-align: right&quot;&gt;104 (7.0%)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;BIPOC &lt;a class=&quot;annotation-link&quot;&gt;**&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;BIPOC &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;236 (5.8%)&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;67 (4.5%)&lt;/td&gt;
     &lt;/tr&gt;
@@ -623,9 +909,9 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;span class=&quot;annotation&quot;&gt;This subgroup of 21 of the largest US orchestras will come up later when I talk about the ICD analysis in more detail. It is the original group analyzed by the Baltimore Symphony for the 2014/15 season and the group that has continued to be analyzed by Women’s Philharmonic Advocacy from 2016/17 to the present.&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;annotation-wrapper&quot; anchorid=&quot;fn:1&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&quot;annotation&quot;&gt;The designation used by the Institute for Composer Diversity is “Composers from Underrepresented Racial, Ethnic, or Cultural Heritages”. My understanding is that this comprises composers who are Black, Indigenous, or people of colour.&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;annotation-wrapper&quot; anchorid=&quot;fn:2&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;#methodology&quot;&gt;More information about the methodology behind these numbers.&lt;/a&gt;&lt;/p&gt;
 
@@ -714,13 +1000,7 @@ the various opinions people have about it.&lt;/p&gt;
   &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lili_Boulanger&quot;&gt;Marie-Juliette Olga “Lili” Boulanger&lt;/a&gt; (21 August 1893 – 15 March 1918) was a French composer, and the first female winner of the Prix de Rome composition prize. Her older sister was the noted composer and composition teacher Nadia Boulanger.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The history of this piece is quite interesting — in an article titled &lt;em&gt;Nadia and Lili Boulanger: Sister Composers&lt;/em&gt;, Dr. Caroline Potter notes that &lt;em&gt;Lux Aeterna&lt;/em&gt; is the second version of the song; the first was &lt;em&gt;Cantique&lt;/em&gt;, a setting of a poem from a play named &lt;em&gt;Soeur Béatrice&lt;/em&gt; by Belgian playwright Maurice Maeterlinck &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.
-&lt;span class=&quot;annotation&quot;&gt;
-Potter, Caroline. “Nadia and Lili Boulanger: Sister Composers.” The Musical Quarterly, vol. 83, no. 4, 1999, pp. 536–556. JSTOR, www.jstor.org/stable/742616. Accessed 24 Jan. 2021.
-&lt;/span&gt; Dr. Potter observes that &lt;em&gt;Cantique&lt;/em&gt; is heavily influenced by Gabriel Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and has very similar opening chords &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;.
-&lt;span class=&quot;annotation&quot;&gt;
-The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and Boulanger’s &lt;em&gt;Cantique&lt;/em&gt;, according to Dr. Potter, is that Fauré used the Lydian mode as a musical pun.
-&lt;/span&gt; Nadia Boulanger later re-orchestrated &lt;em&gt;Cantique&lt;/em&gt; and set it to the text of the &lt;em&gt;Lux Aeterna&lt;/em&gt; for a mass commemorating Lili’s (early) death.&lt;/p&gt;
+&lt;p&gt;The history of this piece is quite interesting — in an article titled &lt;em&gt;Nadia and Lili Boulanger: Sister Composers&lt;/em&gt;, Dr. Caroline Potter notes that &lt;em&gt;Lux Aeterna&lt;/em&gt; is the second version of the song; the first was &lt;em&gt;Cantique&lt;/em&gt;, a setting of a poem from a play named &lt;em&gt;Soeur Béatrice&lt;/em&gt; by Belgian playwright Maurice Maeterlinck &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Dr. Potter observes that &lt;em&gt;Cantique&lt;/em&gt; is heavily influenced by Gabriel Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and has very similar opening chords &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Nadia Boulanger later re-orchestrated &lt;em&gt;Cantique&lt;/em&gt; and set it to the text of the &lt;em&gt;Lux Aeterna&lt;/em&gt; for a mass commemorating Lili’s (early) death.&lt;/p&gt;
 
 &lt;p&gt;Although Apple Music credits the song to both sisters, this seems to be incorrect. The &lt;a href=&quot;https://id.loc.gov/authorities/names/no2011126201.html&quot;&gt;Library of Congress credits Nadia as the sole composer&lt;/a&gt;, though it notes that she intended to have her orchestration match Lili’s &lt;em&gt;Pie Jesu&lt;/em&gt; in the reworking of the song. The &lt;a href=&quot;https://www.naxos.com/mainsite/blurbs_reviews.asp?item_code=8.223636&amp;amp;catNum=223636&amp;amp;filetype=About%20this%20Recording&amp;amp;language=English&quot;&gt;liner notes for the album&lt;/a&gt; note that “Since 1918, Nadia’s &lt;em&gt;Lux Aeterna&lt;/em&gt; and Lili’s &lt;em&gt;Pie Jesu&lt;/em&gt; have been sung every 15th March at a memorial Mass in Paris”.&lt;/p&gt;
 
@@ -912,7 +1192,7 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tracks &lt;a class=&quot;annotation-link&quot;&gt;*&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tracks &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;50&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
     &lt;/tr&gt;
@@ -939,9 +1219,7 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;Of these 50, three of the tracks are nursery rhymes with no known composer, one did not have an identifiable composer listed (&lt;em&gt;Classical Piano Music for Baby Sleep&lt;/em&gt; by Baby Lullaby Academy), and one was not a piece of music, but rather an audiobook chapter read by Michael Morpurgo. These unknown composers are not omitted for the percentage calculations — &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;see the methodology section for more details&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
+&lt;div class=&quot;annotation-wrapper&quot; anchorid=&quot;fn:5&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;The theoretical underpinning of this whole exercise is “what classical music do new listeners find on streaming platforms”, and no listeners are newer than children. Pretty disappointing that this whole playlist has no women or people of colour at all.&lt;/p&gt;
 
@@ -959,13 +1237,28 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This subgroup of 21 of the largest US orchestras will come up later when I talk about the ICD analysis in more detail. It is the original group analyzed by the Baltimore Symphony for the 2014/15 season and the group that has continued to be analyzed by Women’s Philharmonic Advocacy from 2016/17 to the present. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The designation used by the Institute for Composer Diversity is “Composers from Underrepresented Racial, Ethnic, or Cultural Heritages”. My understanding is that this comprises composers who are Black, Indigenous, or people of colour. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Potter, Caroline. “Nadia and Lili Boulanger: Sister Composers.” The Musical Quarterly, vol. 83, no. 4, 1999, pp. 536–556. JSTOR, www.jstor.org/stable/742616. Accessed 24 Jan. 2021. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt; and Boulanger’s &lt;em&gt;Cantique&lt;/em&gt;, according to Dr. Potter, is that Fauré used the Lydian mode as a musical pun. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Of these 50, three of the tracks are nursery rhymes with no known composer, one did not have an identifiable composer listed (&lt;em&gt;Classical Piano Music for Baby Sleep&lt;/em&gt; by Baby Lullaby Academy), and one was not a piece of music, but rather an audiobook chapter read by Michael Morpurgo. These unknown composers are not omitted for the percentage calculations — &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;see the methodology section for more details&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
 
-&lt;p&gt;Streaming is now the primary way that most people listen to music. &lt;a href=&quot;https://medium.com/@RIAA/charting-a-path-to-musics-sustainable-success-12a5625bbc7d#8e10&quot;&gt;According to the Recording Industry Association of America&lt;/a&gt;, streaming now accounts for 79% of U.S. music industry revenues &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;If you’ve read any feature piece about the past and future of the music industry, you’ve probably seen the &lt;a href=&quot;https://www.riaa.com/u-s-sales-database/&quot;&gt;RIAA’s graph of how revenue sources have changed over time&lt;/a&gt;. As someone who went to high school in the late 2000s, my favourite thing about this graph is looking at the “Era of Paying for Ringtones” between about 2005 and 2010.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;Streaming is now the primary way that most people listen to music. &lt;a href=&quot;https://medium.com/@RIAA/charting-a-path-to-musics-sustainable-success-12a5625bbc7d#8e10&quot;&gt;According to the Recording Industry Association of America&lt;/a&gt;, streaming now accounts for 79% of U.S. music industry revenues &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Classical music has lagged behind in the overall trend towards streaming: &lt;a href=&quot;https://www.bbc.com/news/entertainment-arts-46861984&quot;&gt;a report covered by the BBC in 2019&lt;/a&gt; showed that in the UK, CD sales were still dominant (and growing) in the classical genre. Classical streaming was much smaller as a proportion of the UK market (about a quarter of sales compared to two thirds overall) but catching up quickly. In fact, year over year growth in classical streaming was reported to be 42% compared to 33% for streaming overall. A recent article from &lt;a href=&quot;https://www.ludwig-van.com/toronto/2020/03/10/report-streaming-music-the-song-economy-classical-music/&quot;&gt;Ludwig van Toronto exploring the same figures in-depth&lt;/a&gt; speculated that “those figures are generally recognized to represent existing classical music lovers. Streaming is the way to get that new blood the classical music world is always looking for.”&lt;/p&gt;
 
@@ -1066,7 +1359,7 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Classical New Releases&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;6.4%&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;7.1%&lt;/td&gt;
       &lt;td style=&quot;text-align: right&quot;&gt;8.6%&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -1105,24 +1398,7 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;Perhaps the platforms could argue that classical music is such a small niche that it’s just been overlooked by their efforts to feature diverse artists. Or that the lack of representation in their playlists reflects a lack of representation in a historically-white genre. But neither of these reactions would hold up to much scrutiny. Wouldn’t a genuine commitment to diversity be reflected in all curatorial decisions; in official playlists of all sizes? If the genre is to blame, why do most of the playlists have at best half the number of women composers or composers of colour compared to an average US orchestra season?&lt;/p&gt;
 
-&lt;div class=&quot;annotation-wrapper&quot;&gt;Playlist diversity compared to orchestra mainstage programming is not a hard benchmark to exceed. Most orchestras are literally-eurocentric, small-c conservative institutions. And yet, the meager steps taken by US orchestras — at least a full year before the pandemic &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;
-&lt;div class=&quot;annotation&quot;&gt;
-    &lt;p&gt;Orchestras are known for having long planning timelines. For the 2019/20 season, conductors and soloists might have been booked two or three years ahead of their performances.&lt;/p&gt;
-
-    &lt;p&gt;The latest a piece could have been confirmed would have been December 2018 (maybe January 2019 at a stretch), since marketing teams then need to prepare materials for a mid-winter subscription on-sale that usually launches at least half a year in advance of the first performance.&lt;/p&gt;
-  &lt;/div&gt; — to program more composers from the likes of Florence Price, Gabriela Lena Frank, Jennifer Higdon, and Anna Clyne have put them much further ahead than the current efforts of these two tech companies &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;.&lt;/div&gt;
-
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;The dates that tracks were added to a Spotify playlist are visible in the metadata, so we know when curatorial decisions were published:&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;All of the tracks in &lt;em&gt;Classical Essentials&lt;/em&gt; were added on October 2, 2020&lt;/li&gt;
-    &lt;li&gt;The tracks in &lt;em&gt;Classical New Releases&lt;/em&gt; were added between December 18, 2020 and January 1, 2021&lt;/li&gt;
-    &lt;li&gt;All of the tracks in &lt;em&gt;Classical Sleep&lt;/em&gt; were added on January 1, 2021&lt;/li&gt;
-    &lt;li&gt;&lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; by contrast, hasn’t been actively curated since 2017; most of the tracks were added in May of 2016&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;Apple Music’s metadata has “Date Modified” and “Date Added” fields, but both appear to be blank when exporting data from official playlists.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;Playlist diversity compared to orchestra mainstage programming is not a hard benchmark to exceed. Most orchestras are literally-eurocentric, small-c conservative institutions. And yet, the meager steps taken by US orchestras — at least a full year before the pandemic &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; — to program more composers from the likes of Florence Price, Gabriela Lena Frank, Jennifer Higdon, and Anna Clyne have put them much further ahead than the current efforts of these two tech companies &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;I would like to see progress in orchestra programming continue and pick up speed. If streaming platforms lived up to their diversity commitments, perhaps a new generation of audience members who discover classical composers online would act as a catalyst, demanding orchestra programs that better represent the communities that ensembles work in. As it is, these platforms are cementing the status quo; investing in unseen curators and algorithms who spend their time tending to a musical monoculture.&lt;/p&gt;
 
@@ -1136,7 +1412,7 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;On the major streaming services themselves, there are some playlists designed to specifically showcase women composers, e.g. &lt;a href=&quot;https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb&quot;&gt;Spotify’s &lt;em&gt;Women of Classical&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;https://music.apple.com/ca/playlist/women-in-classical-music/pl.03392dae73604942b02ab8e53c482ae0&quot;&gt;Apple Music’s &lt;em&gt;Women in Classical Music&lt;/em&gt;&lt;/a&gt;. I couldn’t find official playlists on either service specifically for classical composers of colour, but you can certainly find third party playlists, such as &lt;a href=&quot;https://open.spotify.com/playlist/67avQ7fZ1zvEk1RDI9C3sd?si=ydgJJhfnQ1OCiRCjv3A7Pg&quot;&gt;this playlist on Spotify made by NAXOS for Black History Month&lt;/a&gt;. I’ll also give an honourable mention to the &lt;a href=&quot;https://www.uoftfomara.org/&quot;&gt;University of Toronto Faculty of Music Anti-Racism Alliance&lt;/a&gt; who made this &lt;a href=&quot;https://open.spotify.com/playlist/7KsIccKNvDyftVlxWWPEdQ?si=7d886f70c97b420b&quot;&gt;Centring BIPOC Musicians Playlist&lt;/a&gt; (It has a much broader selection of genres than orchestral/classical, but I think it’s very good).&lt;/p&gt;
 
-&lt;p&gt;Finally, although the numbers of women composers and composers who are Indigenous, Black, or people of colour on streaming services are low, I researched over 650 tracks for this project &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665…&lt;/span&gt;, so the list of people who &lt;em&gt;are&lt;/em&gt; represented is still fairly long and interesting.&lt;/p&gt;
+&lt;p&gt;Finally, although the numbers of women composers and composers who are Indigenous, Black, or people of colour on streaming services are low, I researched over 650 tracks for this project &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, so the list of people who &lt;em&gt;are&lt;/em&gt; represented is still fairly long and interesting.&lt;/p&gt;
 
 &lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;
 
@@ -1148,32 +1424,48 @@ The key difference between the openings of Fauré’s &lt;em&gt;Lydia&lt;/em&gt;
 
 &lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If you’ve read any feature piece about the past and future of the music industry, you’ve probably seen the &lt;a href=&quot;https://www.riaa.com/u-s-sales-database/&quot;&gt;RIAA’s graph of how revenue sources have changed over time&lt;/a&gt;. As someone who went to high school in the late 2000s, my favourite thing about this graph is looking at the “Era of Paying for Ringtones” between about 2005 and 2010. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;Orchestras are known for having long planning timelines. For the 2019/20 season, conductors and soloists might have been booked two or three years ahead of their performances.&lt;/p&gt;
+
+      &lt;p&gt;The latest a piece could have been confirmed would have been December 2018 (maybe January 2019 at a stretch), since marketing teams then need to prepare materials for a mid-winter subscription on-sale that usually launches at least half a year in advance of the first performance. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;The dates that tracks were added to a Spotify playlist are visible in the metadata, so we know when curatorial decisions were published:&lt;/p&gt;
+
+      &lt;ul&gt;
+        &lt;li&gt;All of the tracks in &lt;em&gt;Classical Essentials&lt;/em&gt; were added on October 2, 2020&lt;/li&gt;
+        &lt;li&gt;The tracks in &lt;em&gt;Classical New Releases&lt;/em&gt; were added between December 18, 2020 and January 1, 2021&lt;/li&gt;
+        &lt;li&gt;All of the tracks in &lt;em&gt;Classical Sleep&lt;/em&gt; were added on January 1, 2021&lt;/li&gt;
+        &lt;li&gt;&lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; by contrast, hasn’t been actively curated since 2017; most of the tracks were added in May of 2016&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;p&gt;Apple Music’s metadata has “Date Modified” and “Date Added” fields, but both appear to be blank when exporting data from official playlists. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665… &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;In thinking about creative ways that people can explore orchestral music and find new pieces that they like, I’ve been thinking a lot about representation. There are many good pieces written by composers who don’t fit the stereotype of dead white men, and I want to make sure they are prominently featured in my posts.&lt;/p&gt;
 
-&lt;p&gt;In some cases, this means exploring the work of living composers, since opportunities for women composers and composers of colour are marginally better now than in previous centuries. In other cases, it means exploring composers from history who are recently being “rediscovered”. Sometimes the rediscovery is literal, as in the case of Florence Price’s fourth symphony, written in 1945, where the manuscript was found in 2009 during a renovation of what used to be her summer home
-&lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;See: &lt;a href=&quot;https://www.newyorker.com/magazine/2018/02/05/the-rediscovery-of-florence-price&quot;&gt;New Yorker Magazine: “The Rediscovery of Florence Price”&lt;/a&gt;&lt;/span&gt;.
-Other times, the rediscovery is more of a re-examination, such as appreciating Clara Schumann as a talented composer and performer in her own right, and not just a footnote to her husband’s legacy
-&lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;See: &lt;a href=&quot;https://www.nytimes.com/2019/08/28/arts/music/clara-schumann.html&quot;&gt;New York Times: “Clara Schumann, Music’s Unsung Renaissance Woman”&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;In some cases, this means exploring the work of living composers, since opportunities for women composers and composers of colour are marginally better now than in previous centuries. In other cases, it means exploring composers from history who are recently being “rediscovered”. Sometimes the rediscovery is literal, as in the case of Florence Price’s fourth symphony, written in 1945, where the manuscript was found in 2009 during a renovation of what used to be her summer home &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Other times, the rediscovery is more of a re-examination, such as appreciating Clara Schumann as a talented composer and performer in her own right, and not just a footnote to her husband’s legacy &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Thinking about race and gender representation is an interesting way to look at music, but it also leads us into other interesting trains of thought. Exploring new music naturally leads us to thinking about the curators—visible and invisible—that select music, promote it, and make it easy to find. It’s also an interesting way to think about the tension between honouring the past and pushing for the future; to what extent orchestras should spend their time acting as a living museum versus playing the work of artists on the vanguard.&lt;/p&gt;
 
 &lt;p&gt;Ultimately, I hope that highlighting diverse composers for people who want to get into orchestral music helps to cement change. Familiarity is essential to enjoyment and mass appeal, as noted in the 2019 book &lt;em&gt;Rockonomics&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“[T]here is a tendency for music that is popular in our networks to become more appealing to us. And bandwagon effects are further reinforced by the well-established psychological tendency for people to grow to like a particular song the more they hear it.” &lt;a class=&quot;annotation-link&quot;&gt;3&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;“[T]here is a tendency for music that is popular in our networks to become more appealing to us. And bandwagon effects are further reinforced by the well-established psychological tendency for people to grow to like a particular song the more they hear it.” &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;div class=&quot;annotation&quot;&gt;
-  &lt;p&gt;Krueger, Alan B. &lt;em&gt;Rockonomics: A Backstage Tour of What the Music Industry Can Teach Us about Economics and Life&lt;/em&gt;. Broadway Business, 2019.&lt;/p&gt;
-
-  &lt;p&gt;The author cites two research papers for the last quoted sentence, which I have listed below:&lt;/p&gt;
-
-  &lt;p&gt;David J. Hargreaves, “The Effects of Repetition on Liking for Music,” &lt;em&gt;Journal of Research in Music Education&lt;/em&gt; 32, no. 1 (1984): 35–47 (No public PDF link, but you should be able to get a copy if your local library has access to JSTOR.)&lt;/p&gt;
-
-  &lt;p&gt;Robert B. Zajonc, “Attitudinal Effects of Mere Exposure,” &lt;em&gt;Journal of Personality and Social Psychology&lt;/em&gt; 9, no. 2, pt. 2 (1968): 1–27. (&lt;a href=&quot;http://web.mit.edu/curhan/www/docs/Articles/biases/9_J_Personality_Social_Psychology_1_%28Zajonc%29.pdf&quot;&gt;Link to PDF&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
 
 &lt;p&gt;Hopefully, the more that people discover, listen to, and enjoy the work of composers who are people of colour, women, or both, the more that these composers will be given their rightful stature in the “canon” of orchestral music.&lt;/p&gt;
 
@@ -1193,19 +1485,15 @@ Other times, the rediscovery is more of a re-examination, such as appreciating C
 
 &lt;ul&gt;
   &lt;li&gt;A short feature piece, maybe about 10-15 minutes long&lt;/li&gt;
-  &lt;li&gt;A medium-length piece, usually a concerto &lt;a class=&quot;annotation-link&quot;&gt;4&lt;/a&gt;
-&lt;span class=&quot;annotation&quot;&gt;A concerto is a piece of music that showcases a soloist, e.g. a pianist or violinist.&lt;/span&gt; or a short symphony&lt;/li&gt;
+  &lt;li&gt;A medium-length piece, usually a concerto &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; or a short symphony&lt;/li&gt;
   &lt;li&gt;A long piece, usually a symphony or some other multi-movement work&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;You can see this pretty clearly in the format of MasterWorks &lt;a class=&quot;annotation-link&quot;&gt;5&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;The TSO’s MasterWorks series is what you might call the orchestra’s “core classical” program. The TSO also has pops concerts, school and youth concerts, film concerts, and other special events. Most of the season analyses I’ve linked to in the appendix only focus on core classical concerts for artistic and logistical reasons.&lt;/span&gt; concerts from the TSO’s last season:&lt;/p&gt;
+&lt;p&gt;You can see this pretty clearly in the format of MasterWorks &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; concerts from the TSO’s last season:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/Images/MW Concerts Format 19-20 with legend.png&quot; alt=&quot;Visualization showing the length of pieces in Toronto Symphony MasterWorks Concerts&quot; /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;image-caption&quot;&gt;A visual summary of the duration
-&lt;a class=&quot;annotation-link&quot;&gt;6&lt;/a&gt;
-&lt;span class=&quot;annotation&quot;&gt;It’s interesting to note that the median total length of pieces + intermission for these programs is about 100 minutes, which is very close to the average movie runtime in recent decades (For more on movies, see this interesting &lt;a href=&quot;https://towardsdatascience.com/are-new-movies-longer-than-they-were-10hh20-50-year-ago-a35356b2ca5b&quot;&gt;analysis of movie runtimes done by Przemysław Jarząbek on the Toward Data Science blog&lt;/a&gt;.) In reality, I would guess the median concert runtime is probably about 110 minutes due to stage resets between pieces, introductions, etc.&lt;/span&gt;
-and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 season. Rows represent individual concert programs, with each piece colour-coded by type. The large uncoloured gaps represent intermissions. Concerts have been ordered by onset of intermission for visual clarity. &lt;a class=&quot;annotation-link&quot;&gt;7&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Source: Concert programs for 2019/20 Toronto Symphony Orchestra MasterWorks concerts. Due to COVID-19, not all of these concerts actually happened—about a third of them were cancelled.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;image-caption&quot;&gt;A visual summary of the duration &lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 season. Rows represent individual concert programs, with each piece colour-coded by type. The large uncoloured gaps represent intermissions. Concerts have been ordered by onset of intermission for visual clarity &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Most of the time, pieces by living composers get put into the “short feature piece” slot. I’m don’t know for sure why this is, so I can only speculate. Maybe this is because writing or commissioning new music for orchestra involves a lot of expense and effort, so long pieces written by living composers are rarer. Another potential reason is the fact that orchestra concerts themselves are expensive to produce, so it’s risky to bet your biggest piece on something audiences don’t already know and love.&lt;/p&gt;
 
@@ -1232,8 +1520,6 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 &lt;p&gt;At some point I want to explore to the various season analyses that are linked below. Before that (in the next post), I’m going to use some of my own research to take a look at representation in some of the biggest classical and orchestral playlists from Spotify and Apple Music.&lt;/p&gt;
 
 &lt;p&gt;Spoiler alert: it’s not great.&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h2 id=&quot;appendix-analyses-of-orchestra-seasons&quot;&gt;Appendix: analyses of orchestra seasons&lt;/h2&gt;
 
@@ -1271,7 +1557,39 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;DONNE also has a research page with links to other studies on representation in music, including &lt;a href=&quot;https://www.presencecompositrices.com/wp-content/uploads/2020/06/Bilan-Novembre-2019-_OBSERVER.pdf&quot;&gt;one on (mostly-classical) French music festivals&lt;/a&gt;, which I have put on my reading list.&lt;/p&gt;
 
-&lt;p&gt;Most recently, the &lt;a href=&quot;https://www.composerdiversity.com/&quot;&gt;Institute for Composer Diversity&lt;/a&gt; was founded within the School of Music at the State University of New York at Fredonia. They published an &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;analysis of Orchestra Seasons for 2019/20&lt;/a&gt; that includes data from 120 orchestras. Their analysis looks at representation of composers from underrepresented racial, ethnic, or cultural heritages in addition to gender.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music via a Favourite Instrument</title><link href="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html" rel="alternate" type="text/html" title="Exploring Orchestral Music via a Favourite Instrument" /><published>2020-12-20T00:00:00-05:00</published><updated>2020-12-20T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html">&lt;p&gt;I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.&lt;/p&gt;
+&lt;p&gt;Most recently, the &lt;a href=&quot;https://www.composerdiversity.com/&quot;&gt;Institute for Composer Diversity&lt;/a&gt; was founded within the School of Music at the State University of New York at Fredonia. They published an &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;analysis of Orchestra Seasons for 2019/20&lt;/a&gt; that includes data from 120 orchestras. Their analysis looks at representation of composers from underrepresented racial, ethnic, or cultural heritages in addition to gender.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;See: &lt;a href=&quot;https://www.newyorker.com/magazine/2018/02/05/the-rediscovery-of-florence-price&quot;&gt;New Yorker Magazine: “The Rediscovery of Florence Price”&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;See: &lt;a href=&quot;https://www.nytimes.com/2019/08/28/arts/music/clara-schumann.html&quot;&gt;New York Times: “Clara Schumann, Music’s Unsung Renaissance Woman”&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;Krueger, Alan B. &lt;em&gt;Rockonomics: A Backstage Tour of What the Music Industry Can Teach Us about Economics and Life&lt;/em&gt;. Broadway Business, 2019.&lt;/p&gt;
+
+      &lt;p&gt;The author cites two research papers for the last quoted sentence, which I have listed below:&lt;/p&gt;
+
+      &lt;p&gt;David J. Hargreaves, “The Effects of Repetition on Liking for Music,” &lt;em&gt;Journal of Research in Music Education&lt;/em&gt; 32, no. 1 (1984): 35–47 (No public PDF link, but you should be able to get a copy if your local library has access to JSTOR.)&lt;/p&gt;
+
+      &lt;p&gt;Robert B. Zajonc, “Attitudinal Effects of Mere Exposure,” &lt;em&gt;Journal of Personality and Social Psychology&lt;/em&gt; 9, no. 2, pt. 2 (1968): 1–27. (&lt;a href=&quot;http://web.mit.edu/curhan/www/docs/Articles/biases/9_J_Personality_Social_Psychology_1_%28Zajonc%29.pdf&quot;&gt;Link to PDF&lt;/a&gt;) &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A concerto is a piece of music that showcases a soloist, e.g. a pianist or violinist. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The TSO’s MasterWorks series is what you might call the orchestra’s “core classical” program. The TSO also has pops concerts, school and youth concerts, film concerts, and other special events. Most of the season analyses I’ve linked to in the appendix only focus on core classical concerts for artistic and logistical reasons. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;It’s interesting to note that the median total length of pieces + intermission for these programs is about 100 minutes, which is very close to the average movie runtime in recent decades (For more on movies, see this interesting &lt;a href=&quot;https://towardsdatascience.com/are-new-movies-longer-than-they-were-10hh20-50-year-ago-a35356b2ca5b&quot;&gt;analysis of movie runtimes done by Przemysław Jarząbek on the Toward Data Science blog&lt;/a&gt;.) In reality, I would guess the median concert runtime is probably about 110 minutes due to stage resets between pieces, introductions, etc. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Source: Concert programs for 2019/20 Toronto Symphony Orchestra MasterWorks concerts. Due to COVID-19, not all of these concerts actually happened—about a third of them were cancelled. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music via a Favourite Instrument</title><link href="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html" rel="alternate" type="text/html" title="Exploring Orchestral Music via a Favourite Instrument" /><published>2020-12-20T00:00:00-05:00</published><updated>2020-12-20T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/20/exploring-orchestral-music-favourite-instrument-horn.html">&lt;p&gt;I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.&lt;/p&gt;
 
 &lt;p&gt;However, lots of people find getting into orchestral music intimidating. Even I do, from time to time. So I thought I would write about some creative ways that people can explore orchestral music and find new pieces that they like. My hope is that this will be informative for people who are new to orchestral music, and interesting to people who already feel they know orchestral music pretty well.&lt;/p&gt;
 
@@ -1293,12 +1611,7 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;div class=&quot;panel panel-info&quot;&gt;
   &lt;h2 class=&quot;panel-heading panel-info&quot; id=&quot;embedded-spotify-players&quot;&gt;Embedded Spotify Players&lt;/h2&gt;
-  &lt;p&gt;If you click the button below, it will load embedded Spotify players for each of the pieces described. However, you should be aware that they also load several ad-trackers and third party cookies,
-    &lt;a class=&quot;annotation-link&quot;&gt;1&lt;/a&gt;
-    &lt;span class=&quot;annotation&quot;&gt;A more detailed description of the trackers and cookies loaded by the embedded Spotify player can be found on the
-      &lt;a href=&quot;https://themarkup.org/blacklight?url=open.spotify.com&quot;&gt;Blacklight privacy inspector&lt;/a&gt;.
-    &lt;/span&gt;
- so make sure to disable third-party cookies and use a tool like
+  &lt;p&gt;If you click the button below, it will load embedded Spotify players for each of the pieces described. However, you should be aware that they also load several ad-trackers and third party cookies,  so make sure to disable third-party cookies and use a tool like
  &lt;a href=&quot;https://privacybadger.org/&quot; target=&quot;_blank&quot;&gt;Privacy Badger&lt;/a&gt; if you choose to use this option.&lt;/p&gt;
  &lt;p&gt;The &lt;a href=&quot;https://www.naxosmusiclibrary.com&quot; target=&quot;_blank&quot;&gt;Naxos Music Library&lt;/a&gt; is also a great way to listen to orchestral music, and you can get free access to it through most local library systems.&lt;/p&gt;
   &lt;p class=&quot;panel-footer panel-info&quot;&gt;
@@ -1343,7 +1656,7 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-1&quot;&gt;The opening fanfare&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-2&quot;&gt;A scale, but dramatic&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-3&quot;&gt;The happy part in-between all the turmoil&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-4&quot;&gt;The part where four horn players have to play the same loud note in tune (just after 1:00 in the linked clips)&lt;/a&gt; &lt;a class=&quot;annotation-link&quot;&gt;2&lt;/a&gt;&lt;span class=&quot;annotation&quot;&gt;Most people consider French Horn to be a hard instrument to consistently play in tune because of how much the pitch can be affected by what you do with your lips and the hand that sits in the bell. These four notes are particularly difficult because they have to be played with the bell end of the horn held up in the air, which makes playing in tune even harder (no hand control and harder to keep the mouthpiece stable on your lips). The video with Sarah Willis linked below gives a good demonstration of how the hand can sometimes be used to help manage pitch.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hornsociety.org/mahler/mahler5#excerpt-4&quot;&gt;The part where four horn players have to play the same loud note in tune (just after 1:00 in the linked clips)&lt;/a&gt; &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Philadelphia’s principal horn is Jennifer Montone - she’s played on a wide range of recordings that includes her work as a soloist, in orchestras, and in chamber groups.
@@ -1380,22 +1693,11 @@ and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 seas
 
 &lt;p&gt;If you like the French, you should check out this other Cleveland Orchestra recording, which is of Berlioz’s &lt;em&gt;Symphonie fantastique&lt;/em&gt;. The principal horn on the recording is Shelly Showers, who now is part of the Philadelphia Orchestra (they’ve got some incredible horn section bench strength over there…)&lt;/p&gt;
 
-&lt;p&gt;That’s it for today - the next post will be looking at ways to explore living and diverse composers.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">TSO Blog Post: Carmina Burana</title><link href="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html" rel="alternate" type="text/html" title="TSO Blog Post: Carmina Burana" /><published>2019-05-30T00:00:00-04:00</published><updated>2019-05-30T00:00:00-04:00</updated><id>https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana</id><content type="html" xml:base="https://tallcoleman.me/tso/2019/05/30/tso-carmina-burana.html">&lt;p&gt;As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s &lt;em&gt;Carmina Burana&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;On the surface, orchestral music seems very “proper” most of the time—art that is produced for aesthetic enjoyment and nothing else. However, orchestral music is like any other art form, and contains many examples of the political, the extreme, and the provocative. Some well-known examples would include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Leck_mich_im_Arsch&quot;&gt;Mozart’s &lt;em&gt;Leck mich im Arsch&lt;/em&gt;&lt;/a&gt; (I am also quite fond of &lt;a href=&quot;https://www.youtube.com/watch?v=7vuq9Ls2OVs&quot;&gt;Mozart’s “motivational” notes in the original score for his first Horn Concerto&lt;/a&gt;).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;John Adams’ various compositions, including &lt;a href=&quot;https://en.wikipedia.org/wiki/Doctor_Atomic&quot;&gt;an opera about the Manhattan Project&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Death_of_Klinghoffer&quot;&gt;another opera based on the 1985 Palestinian Liberation Front hijacking of a passenger liner&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen&quot;&gt;Wagner’s entire Ring Cycle, which heavily features an incestuous romance&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As a musical experience, &lt;em&gt;Carmina Burana&lt;/em&gt; is enjoyable and varied, but the fun is heightened by the fact that it is based on a historical collection of poems that are crude, satirical, and highly sexual. As a result, the source text is quite a fun read, and I enjoyed finding excerpts to feature in my blog post.&lt;/p&gt;
-
-&lt;p&gt;I hope you enjoy reading them too, in &lt;a href=&quot;https://www.tso.ca/coming-soon-carl-orff-carmina-burana&quot;&gt;my post about &lt;em&gt;Carmina Burana&lt;/em&gt; on the TSO website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="TSO" /><summary type="html">As a grant writer, I don’t get to write for the public very often. However, the TSO needed some extra help writing web content recently, and I was incredibly lucky to have the opportunity to write about Carl Orff’s Carmina Burana.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;That’s it for today - the next post will be looking at ways to explore living and diverse composers.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Most people consider French Horn to be a hard instrument to consistently play in tune because of how much the pitch can be affected by what you do with your lips and the hand that sits in the bell. These four notes are particularly difficult because they have to be played with the bell end of the horn held up in the air, which makes playing in tune even harder (no hand control and harder to keep the mouthpiece stable on your lips). The video with Sarah Willis linked below gives a good demonstration of how the hand can sometimes be used to help manage pitch. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">I like Orchestral music quite a lot. I used to be in a youth orchestra, I work for an orchestra now—orchestral music plays a big role in my life.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
