@@ -612,6 +612,9 @@ span.programming {
   font-size: 16.875px;
   background: #eef; }
 
+span.crafts {
+  background-image: url("/assets/Images/cotton-texture-secondary-color-yellow.jpg"); }
+
 span[class*='drafts'] {
   background: #DA1512;
   color: #FFF; }
