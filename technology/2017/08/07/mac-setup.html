@@ -9,7 +9,7 @@
   <!-- <title>Mac Setup</title>
 
   
-  <meta name="description" content="Updated: August 7, 2021">
+  <meta name="description" content="Updated: February 25, 2022">
    -->
 
   <link rel="shortcut icon" type="image/x-icon" href="https://tallcoleman.me/assets/favico.png">
@@ -25,8 +25,8 @@
 <meta property="og:title" content="Mac Setup" />
 <meta name="author" content="Ben Coleman" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Updated: August 7, 2021" />
-<meta property="og:description" content="Updated: August 7, 2021" />
+<meta name="description" content="Updated: February 25, 2022" />
+<meta property="og:description" content="Updated: February 25, 2022" />
 <link rel="canonical" href="https://tallcoleman.me/technology/2017/08/07/mac-setup.html" />
 <meta property="og:url" content="https://tallcoleman.me/technology/2017/08/07/mac-setup.html" />
 <meta property="og:site_name" content="tallcoleman" />
@@ -37,7 +37,7 @@
 <meta property="twitter:image" content="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" />
 <meta property="twitter:title" content="Mac Setup" />
 <script type="application/ld+json">
-{"headline":"Mac Setup","url":"https://tallcoleman.me/technology/2017/08/07/mac-setup.html","datePublished":"2017-08-07T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://tallcoleman.me/technology/2017/08/07/mac-setup.html"},"author":{"@type":"Person","name":"Ben Coleman"},"description":"Updated: August 7, 2021","image":"https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG","dateModified":"2017-08-07T00:00:00-04:00","@type":"BlogPosting","@context":"https://schema.org"}</script>
+{"headline":"Mac Setup","url":"https://tallcoleman.me/technology/2017/08/07/mac-setup.html","datePublished":"2017-08-07T00:00:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://tallcoleman.me/technology/2017/08/07/mac-setup.html"},"author":{"@type":"Person","name":"Ben Coleman"},"description":"Updated: February 25, 2022","image":"https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG","dateModified":"2017-08-07T00:00:00-04:00","@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -180,7 +180,7 @@
   </header>
   
   <div class="post-content" itemprop="articleBody">
-    <p><strong>Updated: August 7, 2021</strong></p>
+    <p><strong>Updated: February 25, 2022</strong></p>
 
 <p>I bought a new computer (Mac) recently and wanted to make a list of all the tools I find useful in case other people find them useful too. I used to use a Windows computer, so a lot of these are things I used on Windows too, or equivalents.</p>
 
@@ -189,6 +189,12 @@
 <h2 id="new-airdrop-location-selection">New: AirDrop Location Selection</h2>
 
 <p>I find that AirDrop is often the fastest way to transfer individual files over to my computer. However, if you want to choose where the files end up, you’ll have to use an Automator Script. <a href="http://www.idownloadblog.com/2017/03/03/change-airdrop-destination-folder-mac/">This site</a> has a good description of how to set that up (ignore the phony notification request). I would suggest one twist: for the “Move Finder Items” action, click “Options” and check “Show this action when the workflow runs”. That way, you can select a specific folder every time you receive an AirDrop file.</p>
+
+<h2 id="new-better-bluetooth-sound">New: Better Bluetooth Sound</h2>
+
+<p>This is a weird one, but macOS seems to do a poor job of picking the best Bluetooth codec for non-Apple headphones. However, with some tweaks to preferences via the command line, you can cajole your headphones into using the right codec (and not sounding like an old car radio).</p>
+
+<p>I was able to find instructions and info about this issue on <a href="https://www.macrumors.com/how-to/enable-aptx-aac-bluetooth-audio-codecs-macos/">MacRumours</a> and <a href="https://gist.github.com/dvf/3771e58085568559c429d05ccc339219">this Github gist by Daniel van Flymen</a>. I had a lot of difficulty trying to download Bluetooth Explorer, so I would try the command line option first.</p>
 
 <h2 id="window-management">Window Management</h2>
 
