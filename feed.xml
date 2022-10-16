@@ -1,5 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2022-07-22T08:24:48-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Experimenting with RGB Colours for Cosmo Embroidery Floss</title><link href="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html" rel="alternate" type="text/html" title="Experimenting with RGB Colours for Cosmo Embroidery Floss" /><published>2022-01-01T00:00:00-05:00</published><updated>2022-01-01T00:00:00-05:00</updated><id>https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html">&lt;!-- Needs some fiddling with the CSS to make it work (e.g. H2 adds its own padding under the heading div) --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2022-10-15T21:51:16-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">How to mail merge double-sided tent cards in Word</title><link href="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html" rel="alternate" type="text/html" title="How to mail merge double-sided tent cards in Word" /><published>2022-10-15T00:00:00-04:00</published><updated>2022-10-15T00:00:00-04:00</updated><id>https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html">&lt;p&gt;I ran into this problem at work recently and didn’t find many good explanations for how to solve it — so here you go!&lt;/p&gt;
+
+&lt;p&gt;Imagine you’re organizing a banquet dinner, or some kind of formal meeting, and you need to mail merge tent cards with your attendee’s names on them. Ideally you want to be able to print their name on both sides of the card so that it’s easily visible. This is how you do it:&lt;/p&gt;
+
+&lt;p&gt;The main trick is to ignore the default template that Word or the Avery website gives you, and to make your own template, &lt;em&gt;sideways&lt;/em&gt; &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;instructions-two-to-a-page-tent-cards&quot;&gt;Instructions: Two-to-a-Page Tent Cards&lt;/h2&gt;
+
+&lt;p&gt;I’ll use the example of two-to-a-page cards like Avery 5305 or most of the St. James Overtures cards, but there are some additional tips at the end for cards where you have one, four, or six cards on a page.&lt;/p&gt;
+
+&lt;h3 id=&quot;set-up&quot;&gt;Set Up&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Tent Card Table Set Up.png&quot; alt=&quot;Microsoft Word application window with a four-column table set up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(If you’re using a different card than Avery 5305, you might want to adjust the margin measurements.)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open a new word document and set the layout to Landscape.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set the page margins to &lt;abbr title=&quot;inches&quot;&gt;0.5&quot;&lt;/abbr&gt; on the top and sides, and 0&quot; on the bottom. If Word complains about printable area, just select “ignore”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Insert a four-column table and set the cell dimensions to &lt;abbr title=&quot;inches&quot;&gt;2.5&quot;&lt;/abbr&gt; wide x 7.5&quot; tall. (You can leave the table borders as-is, we’ll remove them later.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the “Mailings” tab, select “Start Mail Merge”, and select “Labels”. Then select “Cancel”. It may seem like you’ve done nothing, but this strange ritual will put Word into the right merge mode and enable the “Update Labels” button.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Connect to your external data using “Select Recipients”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- Needs some fiddling with the CSS to make it work (e.g. H2 adds its own padding under the heading div) --&gt;
+&lt;!-- also needs inclusion of footer; add to post template --&gt;
+&lt;div class=&quot;panel panel-info&quot;&gt;
+  &lt;div class=&quot;panel-info panel-heading&quot;&gt;
+    &lt;p&gt;💡 &lt;strong&gt;Tip&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;p&gt;Make sure you select “Start Mail Merge” &amp;gt; “Labels” and not just the “Labels” button right next to Envelopes. Even though they both bring you to the same dialog screen, only “Start Mail Merge” &amp;gt; “Labels” puts you into labels mode.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Tent Card Finished Merge Tags.png&quot; alt=&quot;Microsoft Word application window showing merge field tags&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steps 1–4 can be done in whatever order you find easiest:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the “Layout” tab, set the alignment for all your table cells to be centred vertically and horizontally.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Insert your merge fields in the first column.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the “Layout” tab, change the text direction so that the text is rotated 90 degrees clockwise in columns one and three, and counter-clockwise in columns two and four. (You might need to type a little bit of text in each column to check.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Style your text so that it looks the way you want it (I often will use the “Preview” button on the “Mailings” tab to skip through to the longest name and set the font size based on that.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the “Mailings” tab, select “Update Labels”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At this point, it will show a new name in each column - to fix this, delete the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;&amp;lt;Next Record&amp;gt;&amp;gt;&lt;/code&gt; merge fields in columns two and four. (You will have to turn off “Preview” if you have that on.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove the borders on your table and check that everything looks the way you want it. Make sure to save your file if you haven’t done so already.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;printing&quot;&gt;Printing&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Tent Card Finished Preview.png&quot; alt=&quot;Microsoft Word application window showing off a preview of the finished set up&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using the “Mailings” tab, select “Finish and Merge” and then “Edit Individual Documents”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Save the newly-generated file and check to make sure that everything merged correctly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At this point, it’s usually a good idea to try printing just one page to make sure you know how to correctly orient your cards in the feed tray. I usually run it through with a piece of paper that has “Top” written on the top of one side so you can figure out the correct rotation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once you’re confident that everything is set up correctly, print out your cards and have fun separating them and folding them up!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;other-sizes&quot;&gt;Other Sizes&lt;/h2&gt;
+
+&lt;p&gt;If you have one-to-a-page cards like Avery 5309, the correct set up would be a portrait page like this, with margins of &lt;abbr title=&quot;inches&quot;&gt;0.5&quot;&lt;/abbr&gt; at the top, 0.75&quot; on the sides, and 0&quot; on the bottom; as well as table cells that are 3.5&quot; wide and 10&quot; tall:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Avery 5309 Layout Example.png&quot; alt=&quot;Microsoft Word application window showing the layout for Avery 5309&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have four-to-a-page cards like Avery 5302, it gets a bit trickier. Start by setting up a landscape page with margins of &lt;abbr title=&quot;inches&quot;&gt;0.5&quot;&lt;/abbr&gt; at the top, 1.25&quot; on the sides, and 0&quot; at the bottom. You’ll then want to a 5x3 table where the gutters, i.e. the centre column and centre row, are 0.5&quot; and the cells for each side of the card are 2&quot; wide by 3.5&quot; tall:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Avery 5302 Layout Example with Table Dimensions.png&quot; alt=&quot;Microsoft Word application window showing the table dimensions for Avery 5302&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The only other step is to make sure that you delete the merge tags from the gutter cells, and delete the appropriate &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;&amp;lt;Next Record&amp;gt;&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Avery 5302 Layout Example with Merge Tags.png&quot; alt=&quot;Microsoft Word application window showing the merge tag layout for Avery 5302&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can use a similar approach for cards that are six-to-a-page.&lt;/p&gt;
+
+&lt;h2 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h2&gt;
+
+&lt;h3 id=&quot;my-merged-document-doesnt-print&quot;&gt;My merged document doesn’t print&lt;/h3&gt;
+
+&lt;p&gt;I’m not sure how common this issue is, but I’ve run into it occasionally. Try exporting the Word file to PDF and printing from Acrobat.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-updated-my-spreadsheet-but-the-data-doesnt-show-up-when-i-preview-the-merge&quot;&gt;I updated my spreadsheet but the data doesn’t show up when I preview the merge&lt;/h3&gt;
+
+&lt;p&gt;Close and re-open Word if you have updated your spreadsheet but the new data is not showing yet in your preview. This will force Word to re-pull the data from the spreadsheet file.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-put-in-the-right-dimensions-for-the-table-but-after-styling-my-text-the-dimensions-have-changed&quot;&gt;I put in the right dimensions for the table, but after styling my text, the dimensions have changed&lt;/h3&gt;
+
+&lt;p&gt;Setting Layout &amp;gt; Autofit to “Fixed Column Width” might help, but in most cases, you’ll just have to re-set the table layout to the correct dimensions.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The main problem is that while Word can have text oriented 90 degrees sideways in either direction, but it can’t orient text upside down. You can make upside down text using a text box, but that doesn’t seem to play well with the mail merge feature. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Crafts" /><summary type="html">I ran into this problem at work recently and didn’t find many good explanations for how to solve it — so here you go!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Experimenting with RGB Colours for Cosmo Embroidery Floss</title><link href="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html" rel="alternate" type="text/html" title="Experimenting with RGB Colours for Cosmo Embroidery Floss" /><published>2022-01-01T00:00:00-05:00</published><updated>2022-01-01T00:00:00-05:00</updated><id>https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html">&lt;!-- Needs some fiddling with the CSS to make it work (e.g. H2 adds its own padding under the heading div) --&gt;
 &lt;!-- also needs inclusion of footer; add to post template --&gt;
 &lt;div class=&quot;panel panel-primary&quot;&gt;
   &lt;div class=&quot;panel-primary panel-heading&quot;&gt;
@@ -1618,140 +1745,4 @@ the various opinions people have about it.&lt;/p&gt;
       &lt;p&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665… &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Exploring Orchestral Music: Race and Gender Representation of Composers</title><link href="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html" rel="alternate" type="text/html" title="Exploring Orchestral Music: Race and Gender Representation of Composers" /><published>2020-12-30T00:00:00-05:00</published><updated>2020-12-30T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers</id><content type="html" xml:base="https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;In thinking about creative ways that people can explore orchestral music and find new pieces that they like, I’ve been thinking a lot about representation. There are many good pieces written by composers who don’t fit the stereotype of dead white men, and I want to make sure they are prominently featured in my posts.&lt;/p&gt;
-
-&lt;p&gt;In some cases, this means exploring the work of living composers, since opportunities for women composers and composers of colour are marginally better now than in previous centuries. In other cases, it means exploring composers from history who are recently being “rediscovered”. Sometimes the rediscovery is literal, as in the case of Florence Price’s fourth symphony, written in 1945, where the manuscript was found in 2009 during a renovation of what used to be her summer home &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Other times, the rediscovery is more of a re-examination, such as appreciating Clara Schumann as a talented composer and performer in her own right, and not just a footnote to her husband’s legacy &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thinking about race and gender representation is an interesting way to look at music, but it also leads us into other interesting trains of thought. Exploring new music naturally leads us to thinking about the curators—visible and invisible—that select music, promote it, and make it easy to find. It’s also an interesting way to think about the tension between honouring the past and pushing for the future; to what extent orchestras should spend their time acting as a living museum versus playing the work of artists on the vanguard.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, I hope that highlighting diverse composers for people who want to get into orchestral music helps to cement change. Familiarity is essential to enjoyment and mass appeal, as noted in the 2019 book &lt;em&gt;Rockonomics&lt;/em&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“[T]here is a tendency for music that is popular in our networks to become more appealing to us. And bandwagon effects are further reinforced by the well-established psychological tendency for people to grow to like a particular song the more they hear it.” &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hopefully, the more that people discover, listen to, and enjoy the work of composers who are people of colour, women, or both, the more that these composers will be given their rightful stature in the “canon” of orchestral music.&lt;/p&gt;
-
-&lt;h2 id=&quot;research-on-composer-representation-in-orchestra-seasons&quot;&gt;Research on composer representation in orchestra seasons&lt;/h2&gt;
-
-&lt;p&gt;In addition to some of my own research, I have been looking at existing research that has been done on the representation of composers within orchestra seasons (primarily for orchestras in the United States). I’ve included a list at the &lt;a href=&quot;#appendix-analyses-of-orchestra-seasons&quot;&gt;end of this post&lt;/a&gt; as an appendix.&lt;/p&gt;
-
-&lt;p&gt;Most of these analyses highlight the lack of women composers, composers of colour, or both, who are programmed in orchestra seasons. The good news is that some progress is being made — for example, among the biggest US orchestras, representation of women composers has more than tripled in the last five years (more on this later). However, there is still a long way to go — the &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;2019/20 season analysis of 120 US orchestras from the Institute for Composer Diversity&lt;/a&gt; found that only 8% of works performed were by women composers, and only 6% were by composers from underrepresented racial, ethnic, or cultural heritages.&lt;/p&gt;
-
-&lt;h2 id=&quot;not-just-who-also-how&quot;&gt;Not just &lt;em&gt;who&lt;/em&gt;: also &lt;em&gt;how&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;To complement the quantitative information from the various season analyses mentioned above, I want to introduce two other interesting ways to dig deeper into how composers are represented in orchestra programs:&lt;/p&gt;
-
-&lt;h3 id=&quot;duration-and-placement&quot;&gt;Duration and placement&lt;/h3&gt;
-
-&lt;p&gt;The most common format for an orchestral concert looks something like this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A short feature piece, maybe about 10-15 minutes long&lt;/li&gt;
-  &lt;li&gt;A medium-length piece, usually a concerto &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; or a short symphony&lt;/li&gt;
-  &lt;li&gt;A long piece, usually a symphony or some other multi-movement work&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can see this pretty clearly in the format of MasterWorks &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; concerts from the TSO’s last season:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/Images/MW Concerts Format 19-20 with legend.png&quot; alt=&quot;Visualization showing the length of pieces in Toronto Symphony MasterWorks Concerts&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;image-caption&quot;&gt;A visual summary of the duration &lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; and placement of pieces in TSO MasterWorks concerts planned for the 2019/20 season. Rows represent individual concert programs, with each piece colour-coded by type. The large uncoloured gaps represent intermissions. Concerts have been ordered by onset of intermission for visual clarity &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Most of the time, pieces by living composers get put into the “short feature piece” slot. I’m don’t know for sure why this is, so I can only speculate. Maybe this is because writing or commissioning new music for orchestra involves a lot of expense and effort, so long pieces written by living composers are rarer. Another potential reason is the fact that orchestra concerts themselves are expensive to produce, so it’s risky to bet your biggest piece on something audiences don’t already know and love.&lt;/p&gt;
-
-&lt;p&gt;A slightly more cynical take would be that, for some people, new music has a reputation of being hard to listen to, so keeping it short and early in the program makes concerts tolerable for audience members who don’t like abstract or atonal music that much. The Baltimore Symphony has a good &lt;a href=&quot;https://www.bsomusic.org/stories/reconsidering-our-assumptions-about-new-music/&quot;&gt;blog post about the reputation that “new music” has with audiences&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In any case, it’s notable when works by a composer of colour, or a woman composer (or honestly, a living composer) takes the longest spot on the program. In fact, the Institute for Composer Diversity &lt;a href=&quot;https://www.composerdiversity.com/programming&quot;&gt;specifically makes a point of recommending&lt;/a&gt; that Orchestras “Include more substantial works by composers from underrepresented groups in the second or third positions on the program.”&lt;/p&gt;
-
-&lt;h3 id=&quot;representation-in-marketing-materials&quot;&gt;Representation in marketing materials&lt;/h3&gt;
-
-&lt;p&gt;Marketing focus is also an interesting way to think about programming, and is reflected in the title of a concert program, its description, and the images used to sell it. My guess is that in most orchestras, the names and descriptions for concert programs are primarily written by the marketing department, with some input from the artistic staff.&lt;/p&gt;
-
-&lt;p&gt;Concerts are most commonly named after the most well-known piece on the program, the featured soloist or conductor, or some combination of both. It’s very rare for a concert program title to be based on a living composer, unless it’s a Pops Concert (e.g. “Music of John Williams”). It’s notable when this occasionally happens, since it signifies an intentional artistic decision or that the living composer is popular enough that their name will sell tickets.&lt;/p&gt;
-
-&lt;p&gt;Women’s Philharmonic Advocacy had some &lt;a href=&quot;https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1609128744.0469379425048828125000&quot;&gt;good notes on this subject in their 2017/18 season analysis&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It is worth noting that even though these works are being performed, they are not necessarily being recognized or promoted.  There were disturbingly few mentions of works by women in the online or print descriptions of each concert, even when the included work was commissioned.  For example, the Seattle Symphony has included Lili Boulanger’s &lt;em&gt;D’un matin de printemps&lt;/em&gt; for a program titled Rachmaninov Symphony No. 3, taking place in February.  The other works on the program include Elgar’s Violin Concerto and, of course, the Rachmaninov Symphony.  The description for the event, however, only mentions two of the three[.]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As you may have guessed, Boulanger’s piece is the one out of the three not mentioned in the concert description—and this is only one out of four examples WPA included of women composers being ignored in marketing materials. (I would highly encourage you to go &lt;a href=&quot;https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1609128744.0469379425048828125000&quot;&gt;read the whole post&lt;/a&gt; - it’s very good.)&lt;/p&gt;
-
-&lt;h2 id=&quot;up-next-streaming-services-and-their-classical-playlists&quot;&gt;Up next: streaming services and their classical playlists&lt;/h2&gt;
-
-&lt;p&gt;At some point I want to explore to the various season analyses that are linked below. Before that (in the next post), I’m going to use some of my own research to take a look at representation in some of the biggest classical and orchestral playlists from Spotify and Apple Music.&lt;/p&gt;
-
-&lt;p&gt;Spoiler alert: it’s not great.&lt;/p&gt;
-
-&lt;h2 id=&quot;appendix-analyses-of-orchestra-seasons&quot;&gt;Appendix: analyses of orchestra seasons&lt;/h2&gt;
-
-&lt;div class=&quot;panel panel-info&quot;&gt;
-  &lt;div class=&quot;panel-info panel-heading&quot;&gt;
-    &lt;p&gt;&lt;strong&gt;Updated and Expanded Version of This List&lt;/strong&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;p&gt;I’ve since expanded this list into its own page with additional studies and commentary. You can &lt;a href=&quot;/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html&quot;&gt;view the expanded version of this list here&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://www.bsomusic.org/stories/all-stories&quot;&gt;Baltimore Symphony Orchestra&lt;/a&gt; had a series called “By the Numbers” analyzing the concert seasons of top US orchestras:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-2014-15-orchestra-season-by-the-numbers.aspx&quot; target=&quot;_blank&quot;&gt;Baltimore 2014/15 (22 Orchestras)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/what-data-tells-us-about-the-2015-16-orchestra-season.aspx&quot; target=&quot;_blank&quot;&gt;Baltimore 2015/16 (89 Orchestras)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/the-data-behind-the-2016-2017-orchestra-season/&quot; target=&quot;_blank&quot;&gt;Baltimore 2016/17 (85 Orchestras)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Baltimore series stopped after three seasons, but &lt;a href=&quot;https://wophil.org/&quot;&gt;Women’s Philharmonic Advocacy&lt;/a&gt; started doing their own season analysis starting in 2016/17 with a smaller list of 21 orchestras &lt;a class=&quot;annotation-link&quot;&gt;8&lt;/a&gt;
-&lt;span class=&quot;annotation&quot;&gt;I think the intention was to continue using the 21 orchestras that Baltimore had initially looked at for 2014/15, though Baltimore later added Nashville, bringing their 2014/15 number up to 22.&lt;/span&gt; as a way to highlight the lack of women composers represented in orchestra programs:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/works-by-women-in-the-2016-2017-season/?doing_wp_cron=1609362368.6617569923400878906250&quot; target=&quot;_blank&quot;&gt;WPA 2016/17&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2017-18-season-by-the-numbers/?doing_wp_cron=1609128744.0469379425048828125000&quot; target=&quot;_blank&quot;&gt;WPA 2017/18&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2018-19-season-by-the-numbers/?doing_wp_cron=1609129077.7042410373687744140625&quot; target=&quot;_blank&quot;&gt;WPA 2018/19&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wophil.org/2019-2020-season-by-the-numbers/?doing_wp_cron=1609129530.1376090049743652343750&quot; target=&quot;_blank&quot;&gt;WPA 2019/20&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Another organization, called DONNE, &lt;a href=&quot;https://donne-uk.org/orchestras-research/&quot;&gt;has been doing similar analysis for a more global set of 15 orchestras&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2018-2019/&quot; target=&quot;_blank&quot;&gt;DONNE 2018/19&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donne-uk.org/2019-2020/&quot; target=&quot;_blank&quot;&gt;DONNE 2019/20&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;DONNE also has a research page with links to other studies on representation in music, including &lt;a href=&quot;https://www.presencecompositrices.com/wp-content/uploads/2020/06/Bilan-Novembre-2019-_OBSERVER.pdf&quot;&gt;one on (mostly-classical) French music festivals&lt;/a&gt;, which I have put on my reading list.&lt;/p&gt;
-
-&lt;p&gt;Most recently, the &lt;a href=&quot;https://www.composerdiversity.com/&quot;&gt;Institute for Composer Diversity&lt;/a&gt; was founded within the School of Music at the State University of New York at Fredonia. They published an &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;analysis of Orchestra Seasons for 2019/20&lt;/a&gt; that includes data from 120 orchestras. Their analysis looks at representation of composers from underrepresented racial, ethnic, or cultural heritages in addition to gender.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;See: &lt;a href=&quot;https://www.newyorker.com/magazine/2018/02/05/the-rediscovery-of-florence-price&quot;&gt;New Yorker Magazine: “The Rediscovery of Florence Price”&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;See: &lt;a href=&quot;https://www.nytimes.com/2019/08/28/arts/music/clara-schumann.html&quot;&gt;New York Times: “Clara Schumann, Music’s Unsung Renaissance Woman”&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-
-      &lt;p&gt;Krueger, Alan B. &lt;em&gt;Rockonomics: A Backstage Tour of What the Music Industry Can Teach Us about Economics and Life&lt;/em&gt;. Broadway Business, 2019.&lt;/p&gt;
-
-      &lt;p&gt;The author cites two research papers for the last quoted sentence, which I have listed below:&lt;/p&gt;
-
-      &lt;p&gt;David J. Hargreaves, “The Effects of Repetition on Liking for Music,” &lt;em&gt;Journal of Research in Music Education&lt;/em&gt; 32, no. 1 (1984): 35–47 (No public PDF link, but you should be able to get a copy if your local library has access to JSTOR.)&lt;/p&gt;
-
-      &lt;p&gt;Robert B. Zajonc, “Attitudinal Effects of Mere Exposure,” &lt;em&gt;Journal of Personality and Social Psychology&lt;/em&gt; 9, no. 2, pt. 2 (1968): 1–27. (&lt;a href=&quot;http://web.mit.edu/curhan/www/docs/Articles/biases/9_J_Personality_Social_Psychology_1_%28Zajonc%29.pdf&quot;&gt;Link to PDF&lt;/a&gt;) &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;A concerto is a piece of music that showcases a soloist, e.g. a pianist or violinist. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The TSO’s MasterWorks series is what you might call the orchestra’s “core classical” program. The TSO also has pops concerts, school and youth concerts, film concerts, and other special events. Most of the season analyses I’ve linked to in the appendix only focus on core classical concerts for artistic and logistical reasons. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;It’s interesting to note that the median total length of pieces + intermission for these programs is about 100 minutes, which is very close to the average movie runtime in recent decades (For more on movies, see this interesting &lt;a href=&quot;https://towardsdatascience.com/are-new-movies-longer-than-they-were-10hh20-50-year-ago-a35356b2ca5b&quot;&gt;analysis of movie runtimes done by Przemysław Jarząbek on the Toward Data Science blog&lt;/a&gt;.) In reality, I would guess the median concert runtime is probably about 110 minutes due to stage resets between pieces, introductions, etc. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Source: Concert programs for 2019/20 Toronto Symphony Orchestra MasterWorks concerts. Due to COVID-19, not all of these concerts actually happened—about a third of them were cancelled. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
