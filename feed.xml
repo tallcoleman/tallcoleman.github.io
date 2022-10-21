@@ -1,5 +1,265 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2022-10-15T22:03:31-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">How to mail merge double-sided tent cards in Word</title><link href="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html" rel="alternate" type="text/html" title="How to mail merge double-sided tent cards in Word" /><published>2022-10-15T00:00:00-04:00</published><updated>2022-10-15T00:00:00-04:00</updated><id>https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html">&lt;p&gt;I ran into this problem at work recently and didn’t find many good explanations for how to solve it — so here you go!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2022-10-20T22:14:26-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">2022 Orchestra Repertoire Report Roundup</title><link href="https://tallcoleman.me/music/2022/10/20/orchestra-repertoire-report-roundup.html" rel="alternate" type="text/html" title="2022 Orchestra Repertoire Report Roundup" /><published>2022-10-20T00:00:00-04:00</published><updated>2022-10-20T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2022/10/20/orchestra-repertoire-report-roundup</id><content type="html" xml:base="https://tallcoleman.me/music/2022/10/20/orchestra-repertoire-report-roundup.html">&lt;p&gt;A couple years ago, I &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;wrote about race and gender representation among orchestral composers&lt;/a&gt;, and put together a small list of repertoire studies. It’s since grown into its own page that I update now and again with additional entries, but the number and depth of these studies has really grown over the past two years.&lt;/p&gt;
+
+&lt;p&gt;The goal of this post is to dig deeper into some of the recent entries, showcase their main results, and add some additional commentary. The results from many of these studies, along with the evolution of the studies themselves, has been interesting to observe.&lt;/p&gt;
+
+&lt;div class=&quot;panel panel-info&quot;&gt;
+  &lt;div class=&quot;panel-info panel-heading&quot;&gt;
+    &lt;p&gt;&lt;strong&gt;Full Report List&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;p&gt;The full page with links to all the orchestra repertoire reports mentioned in this post and previous posts can be accessed here: &lt;a href=&quot;/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html&quot;&gt;Analyses of Orchestra Seasons - List &amp;amp; Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;institute-for-composer-diversity-202122&quot;&gt;Institute for Composer Diversity 2021/22&lt;/h2&gt;
+
+&lt;p&gt;The ICD’s 2019/20 study of US orchestra seasons was a landmark piece of analysis. It was significantly larger than many preceding studies, with 120 US ensembles included, and it was the first (that I was aware of) to record and analyze the race of composers. &lt;a href=&quot;https://www.composerdiversity.com/analysis&quot;&gt;Their newest report&lt;/a&gt; focused on the 2021/22 season (skipping the 2020/21 pandemic season), and expanded the sample size slightly to 133 US orchestras.&lt;/p&gt;
+
+&lt;p&gt;Given the achievement their first report represented, it’s odd that it’s now been memory-holed from their website, though you can still view the results thanks to the &lt;a href=&quot;https://web.archive.org/web/20201019051312/https://www.composerdiversity.com/orchestra-seasons&quot;&gt;Wayback Machine&lt;/a&gt;. The top-line results of their 2019/20 study are also included in the 2021/22 report, along with results from the two larger Ricky O’Bannon / Baltimore Symphony studies, giving a time series of trends from four points over about six years.&lt;/p&gt;
+
+&lt;h3 id=&quot;main-findings&quot;&gt;Main Findings&lt;/h3&gt;
+&lt;p&gt;The big story from this report is that leading up to 2021/22, there had been significant growth in the number of women composers, composers of colour, or both programmed by US orchestras in the preceding six years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Images/ICD 2021-22 composers of colour and women composers graph.png&quot; alt=&quot;Graph showing the proportion of composers of colour increasing from 3.2% in 2015/16 to 16.8% in 2021/22 and the proportion of women composers increasing from 1.6% in 2015/16 to 11.7% in 2021/22&quot; style=&quot;max-height: 350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There had also been a notable increase in the number of living composers programmed, driven entirely by an increase in living composers who are women, people of colour, or both (the proportion of pieces by living white male composers declined very slightly).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Images/ICD 2021-22 living composers with breakdown graph.png&quot; alt=&quot;Graph showing increases in works programmed by Living Men of Colour, Living White Women, and Living Women of Colour while works programmed by Living White Men decline slightly&quot; style=&quot;max-height: 350px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The report also includes breakdowns by region and by budget size, and suggests that neither have a clear impact on outcomes. For example, the numbers for women composers and composers of colour were very similar for orchestras in the northeast and the southeast of the USA, even though there are significant cultural differences between the communities in these regions.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-interesting-observations&quot;&gt;Other Interesting Observations&lt;/h3&gt;
+
+&lt;p&gt;The 2021/22 report also included some information about which composers are frequently programmed: Jessie Montgomery and Florence Price were the most-programmed women of colour composers, Lili Boulanger and Anna Clyne were the most programmed white women composers, and Samuel Coleridge-Taylor and William Grant Still were the most programmed men of colour composers.&lt;/p&gt;
+
+&lt;p&gt;This new report was also more of a team effort, with financial support from the Sphinx Organization and institutional support from the League of American Orchestras. Unlike in 2019/20, there was no published dataset, and no results for individual orchestras. I suppose the upshot is that this report will probably have more sector engagement due to the League’s support, but — combined with the removal of the detailed 2019/20 results — it offers less accountability for individual orchestras. However, numbers for individual orchestras can still be gleaned from several other reports, such as the ones published by DONNE - Women in Music, Women’s Philharmonic Advocacy, and Tom Hogglestock.&lt;/p&gt;
+
+&lt;p&gt;The lack of published data is frustrating, because it removes the potential to explore other questions, such how conductors might influence which composers are programmed, or whether the durations and program placements for under-represented composers are changing. It also removes the potential for future re-use, which is ironic given that the study re-uses Ricky O’Bannon’s data, which he had made freely available on the Baltimore website. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Aside from the lack of published data, their methodology description is among the best from recent studies, with a clear indication of which orchestras were included (US orchestras in the League of American Orchestra’s top five budget groups), and which performances (mainstage “classical” or “masterworks” series).&lt;/p&gt;
+
+&lt;h2 id=&quot;donne-202122-and-202021&quot;&gt;DONNE 2021/22 (and 2020/21)&lt;/h2&gt;
+
+&lt;p&gt;After two years of doing small-scale reports on 15 orchestras, DONNE significantly expanded their efforts last year with a &lt;a href=&quot;https://donne-uk.org/wp-content/uploads/2021/03/Equality-Diversity-in-Concert-Halls-DonneUK.pdf&quot; target=&quot;_blank&quot;&gt;2020/21 study of 100 orchestras&lt;/a&gt;. Since the study was conducted during the COVID-19 pandemic, the results are a bit challenging to contextualize (especially for individual orchestras), but the overall and regional results are very interesting &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Their most recent &lt;a href=&quot;https://donne-uk.org/research-new/&quot;&gt;study on the 2021/22 season&lt;/a&gt; (email-walled) continued with this ambitious scope, including a sample set of 111 orchestras from across the world. The 2021/22 study also benefits from improved methodology for categorizing the race of composers as well as a data set less jumbled by the chaos of the pandemic.&lt;/p&gt;
+
+&lt;p&gt;Although both studies include data on individual orchestras, the regional results are what I find most interesting and useful from the DONNE studies. This is partially because the scope of works included is not as consistent as other studies: for example, galas, tours, and family concerts are included, but only when the full repertoire information was published by a particular orchestra. Whether repertoire from Pops programs was included is unclear.&lt;/p&gt;
+
+&lt;h3 id=&quot;observations-by-region&quot;&gt;Observations by Region&lt;/h3&gt;
+
+&lt;iframe title=&quot;Median % of works by women and non-binary composers&quot; aria-label=&quot;Range Plot&quot; id=&quot;datawrapper-chart-nyugh&quot; src=&quot;https://datawrapper.dwcdn.net/nyugh/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;286&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;The DONNE reports illustrate that leading up to 2021/22, increases in the proportion of women composers were a relatively global phenomenon, though representation of women and non-binary &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; composers was significantly higher in English-speaking regions. The significant growth in the average for Oceana may be somewhat over-stated due to the sample, which we’ll come back to when we get to the Living Music Report on Australian orchestras.&lt;/p&gt;
+
+&lt;p&gt;I also want to show the top five for 2021/22 because it’s a great example of how averages don’t always show the whole story. Judging by a &lt;a href=&quot;https://www.mundoclasico.com/articulo/29733/The-Royal-Stockholm-Philharmonic-Orchestra%E2%80%99s-2017-18-season&quot;&gt;story from 2017&lt;/a&gt;, the Royal Stockholm Philharmonic Orchestra may have featured a significant number of women composers for several years.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Orchestra  (DONNE 2021/22)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;% of works by Women and Non-Binary composers&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Chicago Sinfonietta&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;50.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;National Philharmonic (USA)&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;40.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Melbourne Symphony Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;25.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Adelaide Symphony Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21.9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Royal Stockholm Philharmonic Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;21.6%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe title=&quot; Median % of works by composers of colour&quot; aria-label=&quot;Arrow Plot&quot; id=&quot;datawrapper-chart-AUU8d&quot; src=&quot;https://datawrapper.dwcdn.net/AUU8d/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;320&quot;&gt;&lt;/iframe&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
+&lt;/script&gt;
+
+&lt;p&gt;DONNE’s numbers on composers of colour are harder to assess because the definitions used changed significantly between the 2020/21 and 2021/22 studies. The 2020/21 study only included percentages for “Black and Asian” composers, whereas the 2021/22 study uses a broader “global majority” definition for traditionally underrepresented races. Their global majority numbers were inclusive of composers who are “Black, Asian, Brown, dual-heritage, indigenous to the global south, and/or have been referred to as “ethnic minorities”.&lt;/p&gt;
+
+&lt;p&gt;As a result, the increases in regional averages seen in the chart below are likely a combination of genuine increases in composers of colour being programmed as well as a greater number of composers being included in DONNE’s definition. I suspect “definition growth” may be particularly prominent for South American ensembles, though I don’t know for sure. Regardless, the numbers for their US and Canadian orchestras seem to be roughly in the right ballpark based on other sources.&lt;/p&gt;
+
+&lt;p&gt;References to Indigenous composers in the 2021/22 report are slightly confusing: I presume their numeric breakdowns for Indigenous composers are intended to reflect composers who are Indigenous peoples as understood in the UN Declaration on the Rights of Indigenous Peoples, but their definition of global majority composers only includes people who are “indigenous to the global south”, which seems to imply something different.&lt;/p&gt;
+
+&lt;h3 id=&quot;interesting-questions&quot;&gt;Interesting Questions&lt;/h3&gt;
+
+&lt;p&gt;These numbers leave me with a couple things I’m curious about:&lt;/p&gt;
+
+&lt;p&gt;First, how many of the global majority composers in Asia and South America are local composers from those regions compared to composers of colour from other regions? To what extent is their programming reflective of global multiculturalism versus a sense of local or national identity?&lt;/p&gt;
+
+&lt;p&gt;Second, are there any notable differences for ensembles that have music directors/principal conductors who hold titled positions in both English-speaking and non-English-speaking regions? Do some pieces they’ve conducted with one ensemble get programmed in their other region as well? Does this ever happen with conductors who frequently guest in different regions as well?&lt;/p&gt;
+
+&lt;p&gt;This question also made me think of the Globe and Mail’s &lt;a href=&quot;https://www.theglobeandmail.com/arts/theatre-and-performance/article-cocs-alexander-neef-accused-of-importing-cancel-culture-to-france-in/&quot;&gt;coverage of Alexander Neef’s efforts to diversify the Paris Opera&lt;/a&gt; (paywalled), where he (a German-born administrator who led the Canadian Opera Company from 2008 to 2020) was “accused of importing North American “cancel culture” to France”. I think it’s one interesting illustration of the dynamics at play in the English/non-English divide.&lt;/p&gt;
+
+&lt;p&gt;I also noticed that the 2021/22 DONNE report was supported by funding from Arts Council England, which might indicate a growth in institutional support similar to the ICD 2021/22 study.&lt;/p&gt;
+
+&lt;h2 id=&quot;living-music-report-australia&quot;&gt;Living Music Report (Australia)&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://livingmusic.report/&quot;&gt;Living Music Report&lt;/a&gt; has been running since 2019 and seems to generally include nine orchestras and detailed information on composers that includes living/deceased, nationality, gender, race, and Indigenous identity.&lt;/p&gt;
+
+&lt;p&gt;My favourite thing about this report is that they &lt;a href=&quot;https://github.com/ciaranframe/livingmusicreport&quot;&gt;publish their data on GitHub&lt;/a&gt;, and it includes piece durations, which is pretty rare. I’ve also published some &lt;a href=&quot;https://github.com/tallcoleman/Analysis-Tools-Living-Music-Report&quot;&gt;analysis tools&lt;/a&gt; to generate a single data table from their folder structure and fix some text encoding errors. They also have some &lt;em&gt;wild&lt;/em&gt; graphic design in their reports.&lt;/p&gt;
+
+&lt;p&gt;According to an &lt;a href=&quot;https://feverpitchmagazine.com/2021/06/20/the-living-music-report/&quot;&gt;interview with the creator&lt;/a&gt;, Ciaran Frame, the report was inspired by an annual blog series put together by &lt;a href=&quot;https://ianwhitney.com.au/2019/11/11/australian-content-in-2020/&quot;&gt;Ian Whitney&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As you can see from their 2021 results, the 2021/22 DONNE study sample over-indexes on orchestras that are leading the pack for representation of women composers, so the massive growth in female representation from the earlier DONNE charts probably exaggerates the extent of change in Australian orchestras.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Orchestra (LMR 2021)&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;% of works by Women composers&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Melbourne Symphony Orchestra&lt;/strong&gt;*&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;33.1%&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Adelaide Symphony Orchestra&lt;/strong&gt;*&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;21.6%&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Australian Chamber Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;10.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Tasmanian Symphony Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;3.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Sydney Symphony Orchestra&lt;/strong&gt;*&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;&lt;strong&gt;1.3%&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;West Australian Symphony Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0.9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Australian Brandenburg Orchestra&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0.0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;* &lt;strong&gt;Orchestras included in the 2021/22 DONNE study.&lt;/strong&gt; Queensland Symphony Orchestra was also included in DONNE 2021/22, but LMR numbers for Queensland have not yet been published for 2021. In the 2020 LMR, Queensland had 4.6% of works by women composers.&lt;/p&gt;
+
+&lt;h2 id=&quot;womens-philharmonic-advocacy&quot;&gt;Women’s Philharmonic Advocacy&lt;/h2&gt;
+
+&lt;p&gt;As I’ve &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;noted in a previous post&lt;/a&gt;, WPA has been publishing numbers on representation of female composers for 21 US orchestras since 2016/17. Although they don’t publish data on race, they have been paying increasing attention to racial diversity in their commentary for each year.&lt;/p&gt;
+
+&lt;p&gt;In August they released a &lt;a href=&quot;https://wophil.org/2022-23-repertoire-report/&quot;&gt;report on the 2022/23 season&lt;/a&gt;, and their main conclusion is that growth in the number pieces by women composers has “leveled off”, with 14.1% of works composed by women compared to 15.1% in 2021/22:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[A]s we explore the programming for individual ensembles, it becomes evident that the pressure that was felt to address programming concerns has leveled off.  Many ensembles are performing fewer works by women this year than they did this past season – even taking into consideration the numerous hurdles that the pandemic threw at the performing arts world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I appreciated their analysis of women conductors, where they noted that “though women [conductors] only appeared 13% of the time, they conducted 22% of all the performances of works by women”. This suggests that increased representation for women conductors could — in turn — increase representation for women composers.&lt;/p&gt;
+
+&lt;p&gt;They astutely note that it’s hard to know how much control individual conductors have over the programs they’re hired to lead; not that this should let established and senior maestros of the hook, since “there are several names that certainly had the choice and the authority to [program women composers], and chose not to”.&lt;/p&gt;
+
+&lt;h2 id=&quot;tom-hogglestock&quot;&gt;Tom Hogglestock&lt;/h2&gt;
+
+&lt;p&gt;Tom Hogglestock started &lt;a href=&quot;https://hogglestock.com/2021/07/24/crunching-the-musical-numbers/&quot;&gt;blogging about repertoire numbers in 2021&lt;/a&gt; when he was planning which concerts to see, and expanded his work this summer with a series of five posts about the 2022/23 season:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hogglestock.com/2022/05/10/2022-2023-season-post-i-women-conductors/&quot; target=&quot;_blank&quot;&gt;2022/2023 Season Post I: Women Conductors (May 10, 2022)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hogglestock.com/2022/07/15/2022-2023-season-post-ii-composers-of-color/&quot; target=&quot;_blank&quot;&gt;2022/2023 Season Post II: Works by BIPOC Composers (July 15, 2022)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hogglestock.com/2022/07/17/2022-2023-season-post-iii-works-by-women-composers/&quot; target=&quot;_blank&quot;&gt;2022/2023 Season Post III: Works by Women Composers (July 17, 2022)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hogglestock.com/2022/07/23/2022-2023-season-post-iv-works-by-u-s-american-composers/&quot; target=&quot;_blank&quot;&gt;2022/2023 Season Post IV: Works by American Composers (July 23, 2022)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hogglestock.com/2022/09/11/2022-2023-season-post-v-works-by-living-composers/&quot; target=&quot;_blank&quot;&gt;2022/2023 Season Post V: Works by Living Composers (September 11, 2022)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Like WPA, he observed a levelling off in the growth of pieces programmed by women composers and composers of colour. Among the 19 orchestras that were included in both years he has made posts, there is very slight growth in the percentage of works by women composers, growing from 12.1% in 2021/22 to 12.4% in 2022/23.&lt;/p&gt;
+
+&lt;p&gt;Even more concerning, for composers of colour, there is a decline of several percentage points among those 19 orchestras, with 16% of works in 2021/22 and 13.6% in 2022/23.&lt;/p&gt;
+
+&lt;p&gt;The 2022/23 series of posts looks at a larger sample of 51 orchestras, including the 19 that Tom wrote about for 2021/22. The larger sample has top-line numbers that are very close to the numbers for the original 19, though with a slightly higher percentage of works by composers of colour, at 15.1%.&lt;/p&gt;
+
+&lt;h3 id=&quot;conductors&quot;&gt;Conductors&lt;/h3&gt;
+
+&lt;p&gt;Like WPA, Tom also notes that there is a correlation between female leadership on the podium and the number of female composers on programs:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[T]he five orchestras with women music directors or equivalent (Hartford, Buffalo, Richmond, New Jersey, and Atlanta), have the highest percentage of concerts conducted by women.&lt;/p&gt;
+
+  &lt;p&gt;18.2% of the pieces women conduct are by women&lt;/p&gt;
+
+  &lt;p&gt;10.3% of the pieces men conduct are by women&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the DONNE section, I had raised the question about the extent to which pieces travel with conductors between orchestras. I took a quick look at the pieces by female composers performed by the Philadelphia Orchestra and Orchestre Métropolitain, who are both led by Yannick Nézet-Séguin, just out of curiosity. Between the two ensembles, there were 27 works by female composers, but only one in common (Florence Price’s Symphony No. 3). I’m surprised there’s not more than one piece in common, though perhaps it would be more instructive to look at pieces in common over consecutive years.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-interesting-observations-1&quot;&gt;Other Interesting Observations&lt;/h3&gt;
+
+&lt;p&gt;Even though there are now several reports that include data on US orchestras, it hasn’t gotten to a point where any particular report feels redundant. Tom’s report and the WPA report are both nearly a year ahead of DONNE and ICD, which theoretically means that curators could consider their findings during the process of planning for the next season. (Assuming that most orchestras firm up their programming in the fall before each season.) I like the depth and uniqueness of the commentary in both Tom’s and WPA’s reports as well.&lt;/p&gt;
+
+&lt;p&gt;Another unique feature of Tom’s 2022/23 report is that it’s the most comprehensive report on Canadian Orchestras among the ones I’ve seen recently. In addition to Toronto, Vancouver, and Montréal (which are in DONNE), he has Orchestre Métropolitain (which is also based in Montréal), Calgary, and Edmonton. Métropolitain is #1 for women composers and #6 for composers of colour; Toronto and Vancouver are highly-ranked for women composers but middling for composers of colour; and Montréal, Calgary, and Edmonton are in the bottom half or lower for both categories.&lt;/p&gt;
+
+&lt;p&gt;Tom also has some commentary about duration and program order in his &lt;a href=&quot;https://hogglestock.com/2022/09/11/2022-2023-season-post-v-works-by-living-composers/&quot;&gt;post about living composers&lt;/a&gt;, which &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html#duration-and-placement&quot;&gt;I also think is important&lt;/a&gt;. He does note that gathering data on this can be quite difficult:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[T]wo days ago, on a long walk through my parents’ neighborhood, in the blistering heat, at six in the morning, I thought, hey, why not just look up the durations for all 2,236 works in my data set, how long can that take? I got as far as Beethoven when I decided to stop. Finding durations for works by living composers was really time consuming and in some cases impossible.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If anyone is able to take on this challenge, it would probably be the ICD, assuming they can move to a data collection method in partnership with the League of American Orchestras where ensembles self-report repertoire data. I guarantee you that 99% of League members have work durations in their internal databases already &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;closing-thoughts&quot;&gt;Closing Thoughts&lt;/h2&gt;
+
+&lt;p&gt;What is the point of these repertoire reports?&lt;/p&gt;
+
+&lt;p&gt;You could argue that most people who are familiar with orchestras “know” that they mostly perform repertoire from dead, white men. But there are lots of “known things” that are studied for good reasons: to establish a more detailed account of how things are, to dig into why, to uncover interesting details. Especially with the changes in the last couple of years, putting numbers to what has been happening is informative, and perhaps useful.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-drives-change&quot;&gt;What Drives Change?&lt;/h3&gt;
+
+&lt;p&gt;Most of these reports also have a clear intent to create or catalyze change, which raises a couple thoughts for me:&lt;/p&gt;
+
+&lt;p&gt;First, I think it’s worth asking why the ICD didn’t publish results for individual orchestras in their 2021/22 report, and whether this hinders their goal of improving the diversity of composers performed in the US. Was there a trade-off between engaging orchestras more deeply with the legitimacy of formal League support and reducing the opportunity for specific ensembles to be called out?&lt;/p&gt;
+
+&lt;p&gt;Second, is it important to release results before the next season’s programming decisions are made? It would be interesting to interview a cross-section of conductors and artistic administrators and see to what extent the specific results of these studies inform their own internal goals.&lt;/p&gt;
+
+&lt;p&gt;Third, as an example, what does the journey from 10% to 20% composers of colour look like? What new challenges do orchestras start to face? Buy-in to shared values among musicians and staff is one thing, but I think there are also practical challenges where you have to start doing things differently. The &lt;a href=&quot;https://www.tso.ca/noteworthy/gustavo-gimenos-expansive-programming-explored-2/&quot;&gt;TSO performed “In the Bottoms” last year&lt;/a&gt;, which was written by Nathaniel Dett, a Black Canadian-American composer. It was originally written as a piano suite, and arranged for string orchestra by Gary Kulesha, the TSO’s Composer Advisor. Do orchestras need to invest more into arrangements to make that jump? Also, it’s a lot harder to find commercial recordings of composers who are historically under-represented; how much more work is required to discover and evaluate pieces you might want to add to your programming?&lt;/p&gt;
+
+&lt;p&gt;Finally, are there opportunities for these studies to dig deeper into the differences between orchestras that are forging new ground and orchestras that are sticking to their traditional repertoire? I wrote a couple times about the influence that conductors have; does diversity among soloists correlate to diversity among composers as well? Are there institutional factors such aside from language and nationality that seem to be aligned with different outcomes?&lt;/p&gt;
+
+&lt;h3 id=&quot;all-efforts-appreciated&quot;&gt;All Efforts Appreciated&lt;/h3&gt;
+
+&lt;p&gt;I want to end this round-up by appreciating that these reports are a lot of hard work for the people that make them. The data collection alone is a big task, especially for reports like DONNE and ICD which have grown to include over 100 ensembles. All of these reports have started as real labours of love, and several continue to be volunteer efforts, or close to it.&lt;/p&gt;
+
+&lt;p&gt;Those that have now garnered sources of funding and institutional backing also have the additional challenges of building sound methodology, dealing sensitively and appropriately with the lived identities of composers, remaining accountable even as they make mistakes, and building themselves a sustainable future.&lt;/p&gt;
+
+&lt;p&gt;So, to the people behind these reports who have taken the time to document a part of our culture, and to push for change with data — thank you.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The report notes that “[The Baltimore Symphony’s] datasets were shared with the Institute through the generous assistance of Ricky O’Bannon, the original author of the BSO’s data analysis initiative.”, but I assume this is due to some combination of (a) the ICD’s authors don’t know about the Wayback Machine, (b) the original links to the data are now dead, or (c) they wanted to get explicit permission to re-use the data. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The core challenge is that the repertoire included in the study represents a mix of orchestra seasons planned before the pandemic which were largely cancelled, as well as re-imagined, largely online programs from during the pandemic. For some ensembles, both kinds of programs might be included. As a result, comparisons between orchestras may be a bit apples and oranges, but comparisons between regions yield some interesting insights. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The 2020/21 study did not include specific numbers or mention of non-binary composers, but the 2021/22 study did. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Many databases like OPAS come with a large data set of work durations built-in, and every artistic team needs to be pretty certain that their total concert duration isn’t going to trigger any overtime clauses in the musicians’ union agreement. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">A couple years ago, I wrote about race and gender representation among orchestral composers, and put together a small list of repertoire studies. It’s since grown into its own page that I update now and again with additional entries, but the number and depth of these studies has really grown over the past two years.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to mail merge double-sided tent cards in Word</title><link href="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html" rel="alternate" type="text/html" title="How to mail merge double-sided tent cards in Word" /><published>2022-10-15T00:00:00-04:00</published><updated>2022-10-15T00:00:00-04:00</updated><id>https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/10/15/mail-merge-double-sided-tent-cards.html">&lt;p&gt;I ran into this problem at work recently and didn’t find many good explanations for how to solve it — so here you go!&lt;/p&gt;
 
 &lt;p&gt;Imagine you’re organizing a banquet dinner, or some kind of formal meeting, and you need to mail merge tent cards with your attendee’s names on them. Ideally you want to be able to print their name on both sides of the card so that it’s easily visible. This is how you do it:&lt;/p&gt;
 
@@ -1548,201 +1808,4 @@ the various opinions people have about it.&lt;/p&gt;
       &lt;p&gt;Of these 50, three of the tracks are nursery rhymes with no known composer, one did not have an identifiable composer listed (&lt;em&gt;Classical Piano Music for Baby Sleep&lt;/em&gt; by Baby Lullaby Academy), and one was not a piece of music, but rather an audiobook chapter read by Michael Morpurgo. These unknown composers are not omitted for the percentage calculations — &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html#unknown-composers&quot;&gt;see the methodology section for more details&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Representation of Composers in Top Classical Playlists on Spotify and Apple Music</title><link href="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html" rel="alternate" type="text/html" title="Representation of Composers in Top Classical Playlists on Spotify and Apple Music" /><published>2021-02-07T00:00:00-05:00</published><updated>2021-02-07T00:00:00-05:00</updated><id>https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation</id><content type="html" xml:base="https://tallcoleman.me/music/2021/02/07/spotify-apple-music-classical-playlists-representation.html">&lt;h2 id=&quot;introduction-the-rise-of-streaming&quot;&gt;Introduction: The Rise of Streaming&lt;/h2&gt;
-
-&lt;p&gt;Streaming is now the primary way that most people listen to music. &lt;a href=&quot;https://medium.com/@RIAA/charting-a-path-to-musics-sustainable-success-12a5625bbc7d#8e10&quot;&gt;According to the Recording Industry Association of America&lt;/a&gt;, streaming now accounts for 79% of U.S. music industry revenues &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Classical music has lagged behind in the overall trend towards streaming: &lt;a href=&quot;https://www.bbc.com/news/entertainment-arts-46861984&quot;&gt;a report covered by the BBC in 2019&lt;/a&gt; showed that in the UK, CD sales were still dominant (and growing) in the classical genre. Classical streaming was much smaller as a proportion of the UK market (about a quarter of sales compared to two thirds overall) but catching up quickly. In fact, year over year growth in classical streaming was reported to be 42% compared to 33% for streaming overall. A recent article from &lt;a href=&quot;https://www.ludwig-van.com/toronto/2020/03/10/report-streaming-music-the-song-economy-classical-music/&quot;&gt;Ludwig van Toronto exploring the same figures in-depth&lt;/a&gt; speculated that “those figures are generally recognized to represent existing classical music lovers. Streaming is the way to get that new blood the classical music world is always looking for.”&lt;/p&gt;
-
-&lt;p&gt;So — continuing the train of thought &lt;a href=&quot;/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;from my last post&lt;/a&gt; — when someone searches for “classical” in their streaming service of choice, what do they find?&lt;/p&gt;
-
-&lt;p&gt;If they’re listening to some of the most popular classical or orchestral playlists on Spotify or Apple Music, you won’t hear many pieces by composers of colour, or women composers. In some cases you won’t hear them at all. In many cases, your chances of hearing such composers is two to three times higher at a local US symphony than it is on the top classical playlists on these major streaming platforms.&lt;/p&gt;
-
-&lt;h2 id=&quot;summary-classical-playlist-analysis&quot;&gt;Summary: Classical Playlist Analysis&lt;/h2&gt;
-
-&lt;p&gt;For this analysis, I examined top classical playlists — four from Apple Music, and four from Spotify — that you might find by searching “classical” or “orchestral” in each service and picking from the top results. I compared the number of composers that were women, Black, Indigenous, and people of colour in these playlists with similar numbers from the recent mainstage programs of 120 US orchestras.&lt;/p&gt;
-
-&lt;h3 id=&quot;us-orchestra-mainstage-seasons&quot;&gt;US Orchestra Mainstage Seasons&lt;/h3&gt;
-
-&lt;p&gt;The comparator I’m using is from the &lt;a href=&quot;https://www.composerdiversity.com/orchestra-seasons&quot;&gt;Institute for Composer Diversity&lt;/a&gt;. From their 2019/20 season analysis, this is the representation of composers by number of times their pieces were programmed by orchestras:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;BIPOC&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;120 US Orchestras&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;7.9%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5.8%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;21 “Top” US Orchestras&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;7.0%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4.5%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;apple-music-summary&quot;&gt;Apple Music&lt;/h3&gt;
-
-&lt;p&gt;Official classical playlists on Apple Music consistently had about half the number of women composers compared to the average US orchestra mainstage season, and only their new releases playlist, &lt;em&gt;The A-List: Classical&lt;/em&gt;, had any pieces by composers of colour (one track by Sofiane Pamart and another by Alexis Ffrench). Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; playlist in particular exclusively featured white men composers.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Apple Music Playlist&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Black / POC&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical Essentials&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3.0%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Relaxing Classical&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4.0%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;The A-List: Classical&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3.9%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3.9%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical Kids&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Full figures and composer details for Apple Music playlists can be found in the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html&quot;&gt;Apple Music Deep Dive post&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;spotify-summary&quot;&gt;Spotify&lt;/h3&gt;
-
-&lt;p&gt;Spotify’s classical playlists were slightly better, but still lagged US orchestras in representation. Most of their playlists had — at best — about half the number of women composers or composers of colour compared to the average US orchestra mainstage season. The one exception was Spotify’s &lt;em&gt;Classical New Releases&lt;/em&gt; playlist, which had nearly comparable representation of women composers, and slightly greater representation of composers of colour. &lt;em&gt;Classical New Releases&lt;/em&gt; also holds the distinction of having the only track written by an Indigenous composer (Yorta Yorta woman Deborah Cheetham).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Spotify Playlist&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Women&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;BIPOC&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical Essentials&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4.1%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1.7%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical Sleep&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;4.2%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;2.8%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical New Releases&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;7.1%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;8.6%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Orchestra 100: Spotify Picks&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;2.0%&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;2.0%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Full figures and composer details for Spotify playlists to come in a future post.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-what&quot;&gt;So What?&lt;/h2&gt;
-
-&lt;p&gt;Both of these platforms have made repeated commitments to improve representation of women and people of colour on their platforms.&lt;/p&gt;
-
-&lt;p&gt;After mass protests in response to racism and police brutality, in particular the police killings of George Floyd, Ahmaud Arbery, and Breonna Taylor, &lt;a href=&quot;https://newsroom.spotify.com/2020-06-01/spotify-stands-with-the-black-community-in-the-fight-against-racism-and-injustice/&quot;&gt;Spotify announced on Blackout Tuesday that it “Stands With the Black Community in the Fight Against Racism and Injustice”&lt;/a&gt;, and outlined a number of measures to amplify Black musicians and podcasts on its platform. Two weeks later, it pledged to donate USD $10 million to “organizations that are focused on the fight against racism, injustice, and inequity around the world”. &lt;a href=&quot;https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest&quot;&gt;Apple Music made some similar symbolic changes to its platform&lt;/a&gt;, and &lt;a href=&quot;https://www.cnbc.com/2020/05/31/apple-ceo-tim-cook-email-to-employees-about-george-floyd.html&quot;&gt;Apple pledged to make unspecified donations to racial justice organizations&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Now, many months later, pieces by Black composers remain scarce on classical playlists on both platforms.&lt;/p&gt;
-
-&lt;p&gt;In addition to commitments to support movements for racial justice, these platforms have also tried to position themselves as being on the vanguard of sharing the wealth of music offered by global multicuturalism. In 2018, &lt;a href=&quot;https://newsroom.spotify.com/2018-09-28/discover-hits-from-around-the-world-with-spotifys-global-cultures-initiative/&quot;&gt;Spotify launched their Global Cultures Initiative&lt;/a&gt;, “which promotes and advances culturally diverse music, surfacing hits from different countries around the world”.&lt;/p&gt;
-
-&lt;p&gt;Yet, just over a year later, &lt;a href=&quot;https://www.musicbusinessworldwide.com/spotifys-head-of-african-music-tunde-ogundipe-leaves-service-alongside-indian-music-expert-himanshu-suri/&quot;&gt;Spotify disbanded the original Global Cultures curatorial team&lt;/a&gt;. Although they pledged to continue the initiative with “a larger, region-specific editorial team of experts”, &lt;a href=&quot;https://www.rollingstone.com/pro/features/spotify-global-cultures-initiative-892762/&quot;&gt;the change elicited negative reactions from many artists, as reported by Rolling Stone&lt;/a&gt;. Rolling Stone also noted that the disbanding coincided with an exodus of several high-profile curators who are people of colour, and &lt;a href=&quot;https://www.cnbc.com/2020/12/03/how-spotify-hopes-to-win-the-podcasting-wars.html&quot;&gt;a nearly-billion dollar shift towards podcasting&lt;/a&gt; — which has largely been to the benefit of creators and businesspeople who are white and established.&lt;/p&gt;
-
-&lt;p&gt;Underrepresentation of women has also been an issue on streaming platforms for many years. In 2019, &lt;a href=&quot;https://www.rollingstone.com/music/music-country/martina-mcbride-spotify-country-music-882401/&quot;&gt;country singer Martina McBride posted about her frustration with overwhelmingly male-dominated algorithmic recommendations&lt;/a&gt; in &lt;a href=&quot;https://www.nbcnews.com/think/opinion/country-music-radio-has-ignored-female-artists-years-we-have-ncna1137571&quot;&gt;a genre that is well known for being hostile to female artists&lt;/a&gt;. Musicologist &lt;a href=&quot;https://songdata.ca/2019/10/01/reflecting-on-spotifys-recommender-system/&quot;&gt;Dr. Jada E. Watson also found similar results when testing the algorithmic song recommendations&lt;/a&gt; for country music fans.&lt;/p&gt;
-
-&lt;p&gt;Even earlier, &lt;a href=&quot;https://thebaffler.com/latest/discover-weakly-pelly&quot;&gt;writer Liz Pelly used Spotify’s absurd “Smirnoff Equalizer” marketing campaign to show that the platform had a distinct male bias&lt;/a&gt; that was “subtly shifting us back toward a more homogenous and overtly masculine pop music culture”:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I listened almost exclusively to a sampling of the most popular entries: Today’s Top Hits, New Music Friday, Rock This, Rap Caviar, Hot Country, ¡Viva Latino!, and more. Every week, for one month, I downloaded a spreadsheet of the playlist data and analyzed the gender disparity. In the interest of not misgendering artists on the basis of their appearance or sound, I focused on confirming how artists self-identify on their Spotify “about” pages or other verified bios.&lt;/p&gt;
-
-  &lt;p&gt;The result of this experiment: I found Spotify’s most popular and visible playlists to be staggeringly male-dominated. Not only this, I approached the project by listening from a brand new account in order to confirm that gender bias would be reproduced by way of algorithmic recommendations—that when a user listens to mostly male-dominated playlists, what is produced are yet more male-dominated playlists. Indeed, the sexist music industry status quo is upheld widely by Spotify, even as the platform exploits the woke optics of playlists like Feminist Friday and advertising schemes like the Smirnoff Equalizer to further benefit its brand recognition and bottom line.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In all likelihood, human–algorithmic curation that reinforces bias against cis women is even more inhospitable for trans and non-binary musicians. Despite looking through hundreds of songs, Liz Pelly reported that she “encountered no artists on Spotify’s top playlists who did not identify as a man or woman”.&lt;/p&gt;
-
-&lt;p&gt;Perhaps the platforms could argue that classical music is such a small niche that it’s just been overlooked by their efforts to feature diverse artists. Or that the lack of representation in their playlists reflects a lack of representation in a historically-white genre. But neither of these reactions would hold up to much scrutiny. Wouldn’t a genuine commitment to diversity be reflected in all curatorial decisions; in official playlists of all sizes? If the genre is to blame, why do most of the playlists have at best half the number of women composers or composers of colour compared to an average US orchestra season?&lt;/p&gt;
-
-&lt;p&gt;Playlist diversity compared to orchestra mainstage programming is not a hard benchmark to exceed. Most orchestras are literally-eurocentric, small-c conservative institutions. And yet, the meager steps taken by US orchestras — at least a full year before the pandemic &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; — to program more composers from the likes of Florence Price, Gabriela Lena Frank, Jennifer Higdon, and Anna Clyne have put them much further ahead than the current efforts of these two tech companies &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I would like to see progress in orchestra programming continue and pick up speed. If streaming platforms lived up to their diversity commitments, perhaps a new generation of audience members who discover classical composers online would act as a catalyst, demanding orchestra programs that better represent the communities that ensembles work in. As it is, these platforms are cementing the status quo; investing in unseen curators and algorithms who spend their time tending to a musical monoculture.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-better-options&quot;&gt;Some Better Options&lt;/h2&gt;
-
-&lt;p&gt;For people looking to find ways to listen to a more diverse range of classical music composers, there are some options:&lt;/p&gt;
-
-&lt;p&gt;For US listeners, the &lt;a href=&quot;https://www.composerdiversity.com/media&quot;&gt;Institute for Composer Diversity has a partnership with Pandora&lt;/a&gt; to curate channels that feature a diverse mix of composers.&lt;/p&gt;
-
-&lt;p&gt;For Canadian listeners, &lt;a href=&quot;https://www.cbc.ca/listen/live-radio/2-4278-tempo&quot;&gt;CBC’s &lt;em&gt;Tempo&lt;/em&gt;&lt;/a&gt; seems to be a good choice. There are also a number of Canadian composers who are women or people of colour featured on the &lt;a href=&quot;https://cmccanada.org/product-category/recordings/centrediscs/&quot;&gt;Canadian Music Centre’s Centredisks Label&lt;/a&gt;. (Centredisks albums are also on the major streaming services, e.g. you can &lt;a href=&quot;https://open.spotify.com/album/4YJETJz7W99jMXRlEHPWJb?si=pLfDSybqRbiSB6chYt0x4g&quot;&gt;listen to Alexina Louie’s &lt;em&gt;Take the Dog Sled&lt;/em&gt; on Spotify&lt;/a&gt;. While I’m at it, I should shill a little bit and note that you can also &lt;a href=&quot;https://www.youtube.com/watch?v=yYvegcavM9k&quot;&gt;listen to her Triple Concerto&lt;/a&gt; on the TSO’s YouTube channel.)&lt;/p&gt;
-
-&lt;p&gt;On the major streaming services themselves, there are some playlists designed to specifically showcase women composers, e.g. &lt;a href=&quot;https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb&quot;&gt;Spotify’s &lt;em&gt;Women of Classical&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&quot;https://music.apple.com/ca/playlist/women-in-classical-music/pl.03392dae73604942b02ab8e53c482ae0&quot;&gt;Apple Music’s &lt;em&gt;Women in Classical Music&lt;/em&gt;&lt;/a&gt;. I couldn’t find official playlists on either service specifically for classical composers of colour, but you can certainly find third party playlists, such as &lt;a href=&quot;https://open.spotify.com/playlist/67avQ7fZ1zvEk1RDI9C3sd?si=ydgJJhfnQ1OCiRCjv3A7Pg&quot;&gt;this playlist on Spotify made by NAXOS for Black History Month&lt;/a&gt;. I’ll also give an honourable mention to the &lt;a href=&quot;https://www.uoftfomara.org/&quot;&gt;University of Toronto Faculty of Music Anti-Racism Alliance&lt;/a&gt; who made this &lt;a href=&quot;https://open.spotify.com/playlist/7KsIccKNvDyftVlxWWPEdQ?si=7d886f70c97b420b&quot;&gt;Centring BIPOC Musicians Playlist&lt;/a&gt; (It has a much broader selection of genres than orchestral/classical, but I think it’s very good).&lt;/p&gt;
-
-&lt;p&gt;Finally, although the numbers of women composers and composers who are Indigenous, Black, or people of colour on streaming services are low, I researched over 650 tracks for this project &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, so the list of people who &lt;em&gt;are&lt;/em&gt; represented is still fairly long and interesting.&lt;/p&gt;
-
-&lt;p&gt;So those will be the next posts - doing a deep dive into the specific composers represented on the Apple Music and Spotify playlists.&lt;/p&gt;
-
-&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
-
-&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;If you’ve read any feature piece about the past and future of the music industry, you’ve probably seen the &lt;a href=&quot;https://www.riaa.com/u-s-sales-database/&quot;&gt;RIAA’s graph of how revenue sources have changed over time&lt;/a&gt;. As someone who went to high school in the late 2000s, my favourite thing about this graph is looking at the “Era of Paying for Ringtones” between about 2005 and 2010. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-
-      &lt;p&gt;Orchestras are known for having long planning timelines. For the 2019/20 season, conductors and soloists might have been booked two or three years ahead of their performances.&lt;/p&gt;
-
-      &lt;p&gt;The latest a piece could have been confirmed would have been December 2018 (maybe January 2019 at a stretch), since marketing teams then need to prepare materials for a mid-winter subscription on-sale that usually launches at least half a year in advance of the first performance. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-
-      &lt;p&gt;The dates that tracks were added to a Spotify playlist are visible in the metadata, so we know when curatorial decisions were published:&lt;/p&gt;
-
-      &lt;ul&gt;
-        &lt;li&gt;All of the tracks in &lt;em&gt;Classical Essentials&lt;/em&gt; were added on October 2, 2020&lt;/li&gt;
-        &lt;li&gt;The tracks in &lt;em&gt;Classical New Releases&lt;/em&gt; were added between December 18, 2020 and January 1, 2021&lt;/li&gt;
-        &lt;li&gt;All of the tracks in &lt;em&gt;Classical Sleep&lt;/em&gt; were added on January 1, 2021&lt;/li&gt;
-        &lt;li&gt;&lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt; by contrast, hasn’t been actively curated since 2017; most of the tracks were added in May of 2016&lt;/li&gt;
-      &lt;/ul&gt;
-
-      &lt;p&gt;Apple Music’s metadata has “Date Modified” and “Date Added” fields, but both appear to be blank when exporting data from official playlists. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;It’s actually 666 tracks exactly, which feels very ominous. Maybe I should throw out the one track on Apple Music’s &lt;em&gt;Classical Kids&lt;/em&gt; where Michael Morpurgo just reads a book on the basis of not being music so that I can say it’s 665… &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">Introduction: The Rise of Streaming</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
