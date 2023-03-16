@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2023-02-19T21:48:55-05:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2023-03-16T19:29:03-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
 </subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Syncing Toronto Recreation Schedules to Google Calendar</title><link href="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html" rel="alternate" type="text/html" title="Syncing Toronto Recreation Schedules to Google Calendar" /><published>2023-02-19T00:00:00-05:00</published><updated>2023-02-19T00:00:00-05:00</updated><id>https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar</id><content type="html" xml:base="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html">&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Swim-Schedule-Sync-Illustration.png&quot; alt=&quot;Illustration showing the schedule for swim programs at North Toronto Memorial Community Centre on the left and the same dates and times synced to a Google Calendar on the right.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Toronto has a wealth of community centres and recreation facilities with great drop-in programs, but the only way to check their schedules electronically is to go to the webpage for your local centre.&lt;/p&gt;
@@ -78,7 +78,7 @@
 
 &lt;h2 id=&quot;cincinnati-symphony-orchestra&quot;&gt;Cincinnati Symphony Orchestra&lt;/h2&gt;
 
-&lt;p&gt;As mentioned previously, Cincinnati ranks the highest among the &lt;a href=&quot;/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html#group-of-21-big-orchestras&quot;&gt;“Baltimore Group”&lt;/a&gt; of 21 big US orchestras for representation of composers of colour, but achieves this distinction in an interesting and unusual way.&lt;/p&gt;
+&lt;p&gt;As mentioned previously, Cincinnati ranks the highest among the &lt;a href=&quot;/exploring-orchestral-music-methodology/analyses-of-orchestra-seasons.html#group-of-21-big-orchestras&quot;&gt;“Baltimore Group”&lt;/a&gt; of 21 big US orchestras for representation of composers of colour; however, it achieves this distinction in an interesting and unusual way.&lt;/p&gt;
 
 &lt;h3 id=&quot;placement-and-duration-1&quot;&gt;Placement and Duration&lt;/h3&gt;
 
@@ -315,7 +315,7 @@
 
 &lt;p&gt;As I’ve &lt;a href=&quot;https://tallcoleman.me/music/2020/12/30/exploring-orchestral-music-race-gender-representation-composers.html&quot;&gt;noted in a previous post&lt;/a&gt;, WPA has been publishing numbers on representation of female composers for 21 US orchestras since 2016/17. Although they don’t publish data on race, they have been paying increasing attention to racial diversity in their commentary for each year.&lt;/p&gt;
 
-&lt;p&gt;In August they released a &lt;a href=&quot;https://wophil.org/2022-23-repertoire-report/&quot;&gt;report on the 2022/23 season&lt;/a&gt;, and their main conclusion is that growth in the number pieces by women composers has “leveled off”, with 14.1% of works composed by women compared to 15.1% in 2021/22:&lt;/p&gt;
+&lt;p&gt;In August they released a &lt;a href=&quot;https://wophil.org/2022-23-repertoire-report/&quot;&gt;report on the 2022/23 season&lt;/a&gt;, and their main conclusion is that growth in the number of pieces by women composers has “leveled off”, with 14.1% of works composed by women compared to 15.1% in 2021/22:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;[A]s we explore the programming for individual ensembles, it becomes evident that the pressure that was felt to address programming concerns has leveled off.  Many ensembles are performing fewer works by women this year than they did this past season – even taking into consideration the numerous hurdles that the pandemic threw at the performing arts world.&lt;/p&gt;
@@ -387,7 +387,7 @@
 
 &lt;p&gt;Third, as an example, what does the journey from 10% to 20% composers of colour look like? What new challenges do orchestras start to face? Buy-in to shared values among musicians and staff is one thing, but I think there are also practical challenges where you have to start doing things differently. The &lt;a href=&quot;https://www.tso.ca/noteworthy/gustavo-gimenos-expansive-programming-explored-2/&quot;&gt;TSO performed “In the Bottoms” last year&lt;/a&gt;, which was written by Nathaniel Dett, a Black Canadian-American composer. It was originally written as a piano suite, and arranged for string orchestra by Gary Kulesha, the TSO’s Composer Advisor. Do orchestras need to invest more into arrangements to make that jump? Also, it’s a lot harder to find commercial recordings of composers who are historically under-represented; how much more work is required to discover and evaluate pieces you might want to add to your programming?&lt;/p&gt;
 
-&lt;p&gt;Finally, are there opportunities for these studies to dig deeper into the differences between orchestras that are forging new ground and orchestras that are sticking to their traditional repertoire? I wrote a couple times about the influence that conductors have; does diversity among soloists correlate to diversity among composers as well? Are there institutional factors such aside from language and nationality that seem to be aligned with different outcomes?&lt;/p&gt;
+&lt;p&gt;Finally, are there opportunities for these studies to dig deeper into the differences between orchestras that are forging new ground and orchestras that are sticking to their traditional repertoire? I wrote a couple times about the influence that conductors have; does diversity among soloists correlate to diversity among composers as well? Are there institutional factors aside from language and nationality that seem to be aligned with different outcomes?&lt;/p&gt;
 
 &lt;h3 id=&quot;all-efforts-appreciated&quot;&gt;All Efforts Appreciated&lt;/h3&gt;
 
@@ -535,7 +535,7 @@
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The main problem is that while Word can have text oriented 90 degrees sideways in either direction, but it can’t orient text upside down. You can make upside down text using a text box, but that doesn’t seem to play well with the mail merge feature. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;The main problem is that while Word can have text oriented 90 degrees sideways in either direction, it can’t orient text upside down. You can make upside down text using a text box, but that doesn’t seem to play well with the mail merge feature. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Crafts" /><summary type="html">I ran into this problem at work recently and didn’t find many good explanations for how to solve it — so here you go!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Experimenting with RGB Colours for Cosmo Embroidery Floss</title><link href="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html" rel="alternate" type="text/html" title="Experimenting with RGB Colours for Cosmo Embroidery Floss" /><published>2022-01-01T00:00:00-05:00</published><updated>2022-01-01T00:00:00-05:00</updated><id>https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss</id><content type="html" xml:base="https://tallcoleman.me/crafts/2022/01/01/experimenting-rgb-colours-cosmo-embroidery-floss.html">&lt;!-- Needs some fiddling with the CSS to make it work (e.g. H2 adds its own padding under the heading div) --&gt;
@@ -1274,11 +1274,11 @@ Cultural Heritage Materials&lt;/a&gt;. It’s incredible how much care goes into
 
 &lt;p&gt;After making it, it occurred to me that this kind of diagram would be useful to demonstrate other attributes of an orchestra season, especially some of the qualitative aspects of composer representation (which were discussed in that post).&lt;/p&gt;
 
-&lt;p&gt;To make the original diagram, I built a stacked bar chart in excel, and then coloured each piece according to their category manually. It worked once as a proof of concept, but was way too cumbsersome a method to use repeatedly.&lt;/p&gt;
+&lt;p&gt;To make the original diagram, I built a stacked bar chart in excel, and then coloured each piece according to their category manually. It worked once as a proof of concept, but was way too cumbersome a method to use repeatedly.&lt;/p&gt;
 
 &lt;h2 id=&quot;initial-attempts&quot;&gt;Initial Attempts&lt;/h2&gt;
 
-&lt;p&gt;To try to simplify the creation process, I first tried to see if could make the chart in R using &lt;a href=&quot;https://ggplot2.tidyverse.org/&quot;&gt;ggplot&lt;/a&gt;. However, I wasn’t able to assign colours using values that were unrelated to those invovled in creating the stacked bar chart itself. Perhaps this is possible, but I don’t know ggplot that well, so I wasn’t able to make it work.&lt;/p&gt;
+&lt;p&gt;To try to simplify the creation process, I first tried to see if could make the chart in R using &lt;a href=&quot;https://ggplot2.tidyverse.org/&quot;&gt;ggplot&lt;/a&gt;. However, I wasn’t able to assign colours using values that were unrelated to those involved in creating the stacked bar chart itself. Perhaps this is possible, but I don’t know ggplot that well, so I wasn’t able to make it work.&lt;/p&gt;
 
 &lt;p&gt;I was also interested in interactivity (e.g. being able to click one of the bar segments and see information about which piece it represents), so I tried making a stacked bar chart using DataWrapper:&lt;/p&gt;
 
