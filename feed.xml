@@ -1,5 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2023-03-16T19:29:03-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
-</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Syncing Toronto Recreation Schedules to Google Calendar</title><link href="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html" rel="alternate" type="text/html" title="Syncing Toronto Recreation Schedules to Google Calendar" /><published>2023-02-19T00:00:00-05:00</published><updated>2023-02-19T00:00:00-05:00</updated><id>https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar</id><content type="html" xml:base="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html">&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Swim-Schedule-Sync-Illustration.png&quot; alt=&quot;Illustration showing the schedule for swim programs at North Toronto Memorial Community Centre on the left and the same dates and times synced to a Google Calendar on the right.&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://tallcoleman.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tallcoleman.me/" rel="alternate" type="text/html" /><updated>2023-03-18T11:35:02-04:00</updated><id>https://tallcoleman.me/feed.xml</id><title type="html">tallcoleman</title><subtitle>A Blog on Politics, Nature, and Culture
+</subtitle><author><name>Ben Coleman</name></author><entry><title type="html">Winter Biking in Scarborough</title><link href="https://tallcoleman.me/cycling/2023/03/18/winter-biking-scarborough.html" rel="alternate" type="text/html" title="Winter Biking in Scarborough" /><published>2023-03-18T00:00:00-04:00</published><updated>2023-03-18T00:00:00-04:00</updated><id>https://tallcoleman.me/cycling/2023/03/18/winter-biking-scarborough</id><content type="html" xml:base="https://tallcoleman.me/cycling/2023/03/18/winter-biking-scarborough.html">&lt;p&gt;For nearly a year, I’ve been taking the subway to Kennedy station, and then biking to either Scarborough General or Centenary hospital to get to work. And when November’s cold winds came… I put on studded tyres and kept going. Overall, it’s been a surprisingly good experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-03-13 trail by Thomson Memorial with light snow.JPG&quot; alt=&quot;Photo of Thomson Memorial park trail with a bike in the foreground and visible footsteps and tyre marks in the light snow.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;Light snow on the trail leading into Thomson Memorial park.&lt;/p&gt;
+
+&lt;p&gt;For the previous five years, I had worked downtown and biked to work using bike share, and I would continue biking more or less all year round. However, biking in Scarborough, I had two specific fears:&lt;/p&gt;
+
+&lt;p&gt;First, that there would be no (or very unreliable) snow removal on the bike trails I rely on to get to work, forcing me to take pretty dangerous high-traffic suburban roads if I wanted to keep biking.&lt;/p&gt;
+
+&lt;p&gt;Second, that without the flexibility of bike share, I would end up in a sticky situation if the evening weather was much worse than in the morning, or having to abandon my bike at the hospital and take transit home.&lt;/p&gt;
+
+&lt;h2 id=&quot;facing-the-fears&quot;&gt;Facing the Fears&lt;/h2&gt;
+
+&lt;p&gt;Part of the reason I was so worried about inadequate snow clearing is that the information available was either confusing or indicated that there was no snow clearing on my route. For example, here is what the &lt;a href=&quot;https://web.archive.org/web/20221024014547/https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/cycling-routes-snow-removal/&quot;&gt;City’s info page on winter bike route snow clearing looked like&lt;/a&gt; on October 24, 2022. Cross referencing with another webpage that has the &lt;a href=&quot;https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/&quot;&gt;Toronto Cycling Map&lt;/a&gt; it doesn’t indicate anything about the “Major Multi-Use Trail” parts of my route and (via &lt;a href=&quot;https://web.archive.org/web/20221024014547/https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/cycling-routes-snow-removal/&quot;&gt;link to yet another page&lt;/a&gt;) indicates that only the lowest level of clearing would apply to the neighbourhood roads that include “On-Street Shared Cycling Connections” (i.e. Sharrows).&lt;/p&gt;
+
+&lt;p&gt;But wait! One of the trails goes through a park, so maybe it’s part of the “&lt;a href=&quot;https://web.archive.org/web/20221102110558/https://www.toronto.ca/data/parks/maps/index.html#PARKPATH&quot;&gt;list of Winter Maintained Paths/Roads throughout the city’s parks&lt;/a&gt;, which — you guessed it — can be found on yet another webpage. Except all it tells you is the park name and that the park features [a] “Winter Maintained Pathway”. Does that include my trail, or is the trail outside of the park boundary? Who knows!&lt;/p&gt;
+
+&lt;p&gt;If only there were sign… maybe like this?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Google Street View - Rte 26 No Winter Maintenance Sign.png&quot; alt=&quot;Screenshot of Google Street View showing a trail sign that reads &amp;quot;No Winter Maintenance&amp;quot;. There is a fence in the background.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Google Street View - no winter maintenance sign RT trail.png&quot; alt=&quot;Screenshot of Google Street View showing a series of signs, one of which reads &amp;quot;No Winter Maintenance&amp;quot;. There is a large bush in the background.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or perhaps some &lt;a href=&quot;https://www.cbc.ca/news/canada/toronto/toronto-winter-recreation-plans-1.5814471&quot;&gt;media coverage about how the main trails on the Meadoway aren’t cleared in winter&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Overall, it didn’t paint a promising picture — and yet, I held out hope that maybe things had changed for winter 2022/23. After the first snow fall of the year, I woke up half an hour earlier so that I could &lt;em&gt;walk&lt;/em&gt; my bike route and see for myself. Despite the confusing webpages, the off-putting “No Winter Maintenance” signs, and the negative media coverage, it was more or less all cleared and salted. Success!&lt;/p&gt;
+
+&lt;p&gt;Looking at the &lt;a href=&quot;https://web.archive.org/web/20221206194014/https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/cycling-routes-snow-removal/&quot;&gt;current City web page on winter bike route snow clearing&lt;/a&gt;, things are more encouraging, but still slightly confusing. “The City clears 776 km of bikeways and major trails across the city of ice and snow each winter.”. Great… how much of the bike system is that? 80%? 100%? Does it include the trail I take to get to work? At least it indicates that “Winter maintenance of cycle tracks … and multi-use paths is activated when 2 cm of snow accumulates”, which appears to be an improvement on the service standard communicated in October. So, kudos to the City for that.&lt;/p&gt;
+
+&lt;p&gt;Here’s some free communications advice: on the &lt;a href=&quot;https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/&quot;&gt;Cycling Network Map&lt;/a&gt; page, maybe say something like “X% of the City’s cycling infrastructure is cleared of snow and ice in winter”, and then on the interactive map, maybe add a description that indicates whether each lane/trail/etc. is cleared in the winter, and at what level of snowfall.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-good-and-bad-of-snow-clearing&quot;&gt;The Good and Bad of Snow Clearing&lt;/h2&gt;
+
+&lt;p&gt;So, after a full winter of biking, how has the snow clearing been? I’ll start with the good: even after some pretty heavy snowfalls, there was sufficient clearing and salting that I could reliably get to and from work in a safe and timely way. There were only one or two days early in the season when I had to deflate my tyres slightly for traction &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and take things really slow.&lt;/p&gt;
+
+&lt;p&gt;The confidence I now feel that I can rely on the trail network as long as I leave myself extra time on the rare mornings after very heavy snowfall is a major credit to the City of Toronto. Most of the time I wonder if I really needed the studded tires after all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2022-12-21 trail by RT cleared.JPG&quot; alt=&quot;Early-morning photo of the trail near the Scarborough RT line. The black pavement is dry, clear, and visible. Power lines run overhead on both sides.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;A cleared trail near Kennedy station by the Scarborough RT line. This is what the trail condition is like the majority of the time.&lt;/p&gt;
+
+&lt;p&gt;Of course, there are still some challenges, which occasionally add some frustration to the winter commute, and might still put some people off the prospect of winter biking in this area of Scarborough.&lt;/p&gt;
+
+&lt;p&gt;The most significant one is that many of the trails are not that well-lit at night. This makes it harder to spot the occasional ice patch or low-hanging tree branch &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Plus, it can be a little spooky at times.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-01-17 RT bridge at night.jpg&quot; alt=&quot;Evening photo of the pedestrian bridge over the rail line and the narrow path leading up to it on the west side, flanked on either side by chain-link fences. There is only one light in the foreground, giving off an orange glow in the misty air. Most of the scene is dark, except for some lights visible far off in the distance.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;This wouldn’t look out of place in an apocalyptic horror movie, probably. Not very comforting when you’re heading home at 5:30pm.&lt;/p&gt;
+
+&lt;p&gt;Now I’m a 6’8” man, so my list of safety concerns mostly ends at “low tree branches”. But many people have a longer list of fears that would come with being on a sparsely-used trail in pitch darkness, so more lighting (and some emergency call posts in the most isolated sections of the trail) would be welcome additions.&lt;/p&gt;
+
+&lt;p&gt;The bridge over the RT line can also have some snow clearing issues, which is a challenge given that the alternative options for crossing the rail line are both more than a kilometre away and are both six-lane roads without protected bike infrastructure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-03-13 lots of snow on RT bridge.JPG&quot; alt=&quot;Daytime photo of the pedestrian bridge over the RT line and the narrow path leading up to it on the west side. The path is covered in snow that is at least 15-30cm deep. A blue line 3 train is visible in the background, passing under the bridge.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;This was probably the worst day. It was hard going dragging the bike through this, and I really feel for all the parents with strollers that would usually walk with their kids to the school on the other side of the tracks.&lt;/p&gt;
+
+&lt;p&gt;I did bring the issues with the bridge to the attention of the local City Councillor’s office, so maybe they’ll figure out how to fix these problems. It almost seems like part of the problem is that the crew responsible for the bridge doesn’t work on weekends — if there’s a big snowfall over Saturday or Sunday, the bridge is often still clogged up on Monday morning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-03-13 RT Bridge Cleared.JPG&quot; alt=&quot;Daytime photo of the east side of the bridge over the rail line, which has straight ramps stacked back and forth down to ground level. The pavement is clear and visibly salted. In the background are some large evergreen trees and a power line.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;Most of the bridge is usually in good condition.&lt;/p&gt;
+
+&lt;p&gt;I’ve also run into the occasional small issue that gets fixed later, like having to push the bike over a windrow at the trail entrance (pretty bad after one snowfall, but perfectly cleared away after another).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Windrow at trail head.png&quot; alt=&quot;Collage of two photos. The first, dated January 30, 2023 shows a trail entrance from Marcos Blvd with a windrow blocking the ramp onto the trail from the road. the second, dated March 6, 2023 shows the same area, but with the connection completely cleared of snow.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or this case, where the trail plow lost its bearings slightly and cleared off a muddy section of grass instead (cleared properly when I went in the next week).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Off-trail snow clearing.png&quot; alt=&quot;Collage of two photos. The first, dated March 6, 2023, shows a trail next to a parking lot with snow still covering the trail and a cleared strip of muddy grass right next to it. The second, dated March 13, 2023, shows the same trail, but cleared of snow. A light-brown residential building around ten storeys high is visible in the background of both photos.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe my favourite is this big pile of snow, which doesn’t fully block the trail entrance, but definitely makes its presence felt. Almost like you should be politely saying “Sorry, just gotta scooch by ya!” every time you pass.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-03-06 big pile of snow on trail.jpg&quot; alt=&quot;Photo of a trail entrance from Lawrence Ave E, with a pile of dirty snow about 1.5 metres tall and 4 metres wide. The passable gap between the pile of snow and a bus shelter is about half a metre wide. Power lines and houses are visible in the background.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As for my other fear of getting into a bad situation or having to leave my bike at the hospital, it hasn’t happened yet. Having the option to work from home most of the time the weather is forecast to be really bad definitely helps with this. Plus, I do have the studded tyres on both wheels as well as a decent toolkit in my cargo basket, so I don’t worry so much on more challenging days.&lt;/p&gt;
+
+&lt;h2 id=&quot;essential-winter-gear&quot;&gt;Essential Winter Gear&lt;/h2&gt;
+
+&lt;p&gt;It’s a common frustration among cyclists that many people think it’s “too cold” to cycle in winter. As long as you cover your extremities properly, winter cycling isn’t an uncomfortably cold experience. In fact, there are many days when I don’t wear my parka or take it off mid-ride. Often I’m unzipping my sweater as well so that I don’t get sweaty. Turns out, light exercise keeps you warm, especially in the core and legs.&lt;/p&gt;
+
+&lt;p&gt;The middle of summer is actually a bigger logistical barrier to cycling; at least in winter you can always remove layers if you get too warm. In June–August, you often have to bring a change of clothes! Despite trying several different methods, I’ve yet to find a reliable way to pack a dress shirt into a backpack without wrinkling it &lt;em&gt;somewhere&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to spend a fortune on winter bike gear either - &lt;a href=&quot;https://www.youtube.com/watch?v=D4oo_UE8lPY&quot;&gt;this Shifter video&lt;/a&gt; does a good job of showing you how you can get through winter with stuff that’s cheap or that you already own.&lt;/p&gt;
+
+&lt;p&gt;Here’s my list of gear tips:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Not sure I’ve ever seen this on a “winter cycling gear” list, but those pocket packages of tissues are a must-have. You’re going to be huffing a great volume of cold air, you’ll need them, trust me.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.marks.com/en/windriver-unisex-behind-the-head-band-ear-muffs-325032.html&quot;&gt;Ear muffs that wrap around the back of your head&lt;/a&gt; work great with a helmet, and will get you through most winter days. If it gets really cold you might want a thin and light hat to put under your helmet, but even then you don’t need something super warm, just enough to block the wind.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A &lt;a href=&quot;https://www.marks.com/en/wel-max-unisex-thermal-t-max-heat-neck-tube-grey-351912.html&quot;&gt;fleece or wool neck tube&lt;/a&gt; is also a great thing to have. It stays on by itself, and you can pull it up over part of your face on really cold days.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I like to have a combo of gloves and mitts — ideally the gloves should be durable and should allow you enough dexterity to work your bike lock. When it gets really cold, you can add the mitts on top of the gloves.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure you buy long winter socks, and don’t cheap out on them too much. You won’t regret getting the good ones.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your jacket doesn’t need to be &lt;em&gt;that&lt;/em&gt; warm, especially if you wear a good sweater underneath. I suspect that a big down parka would actually be too much (I have a synthetic fill parka that’s about 10 years old). It is helpful to have somewhere you can easily stash layers if you need to remove them mid-ride, like a basket. If I take off my jacket, I usually fold it and quickly bungee it next to my backpack on the rear rack.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I wear a high-vis jacket when it’s dark in the winter, just so I’m not taking any chances. Most suburban drivers aren’t habitually watching for bikes on a winter night or early morning, sadly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You definitely want front and back fenders on your bike (plus a skirt guard if you can get one), and a chain case doesn’t hurt either. These are all pretty standard features on Dutch-style bikes (I bought mine from &lt;a href=&quot;https://www.godutch.ca/&quot;&gt;Go Dutch on Eglinton&lt;/a&gt;). I also put studded tyres on both wheels, though lots of cyclists say you can get away with just having one studded tyre on the front.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ok-but-is-it-fun&quot;&gt;OK, But is it &lt;em&gt;Fun&lt;/em&gt;?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2022-12-21 view from RT bridge 001.JPG&quot; alt=&quot;Early morning photo looking out onto the rail line from a bridge. The foreground is completely covered by a chain link fence, through which there are visible rail tracks, trees, and a tall apartment building in the distance. The sky on the horizon is amber-coloured, fading up to grey-blue.&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;image-caption&quot;&gt;Sunrise from the bridge over the RT tracks&lt;/p&gt;
+
+&lt;p&gt;I would say so! For one, the winter can be cold and kind of depressing, so getting active on the way to work definitely helps to keep the mood up during the grey and dark weeks. If you like dogs, there are still lots to say hi to along the way to work, especially in Scarborough where so much of the bike network relies on the recreational trail system.&lt;/p&gt;
+
+&lt;p&gt;And occasionally you’ll see ice-jeweled trees after frozen rain or a winter sunrise on the way to the office. Those are special moments, and much nicer than staring at slush on the 401.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/2023-02-17 tree frozen rain 001.jpg&quot; alt=&quot;Morning photo of the sun rising over an ice-covered tree in Thomson Memorial park. The sun is slightly occluded by clouds, and there is a visible lens flare. The sky visible between the clouds is a deep cerulean blue. Every branch is covered with delicate, transparent beads of ice. In the background are mid-rise residential buildings and a power line.&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This is how the tyres are designed to be used — the studs are on the outer edge of the tyre, so you can deflate them to have them make more direct contact with the ground if needed. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I seriously considered putting a big shiny christmas tree bauble on one tree branch so I would see it at night. That branch and I had a couple close calls… &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Cycling" /><summary type="html">For nearly a year, I’ve been taking the subway to Kennedy station, and then biking to either Scarborough General or Centenary hospital to get to work. And when November’s cold winds came… I put on studded tyres and kept going. Overall, it’s been a surprisingly good experience.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Syncing Toronto Recreation Schedules to Google Calendar</title><link href="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html" rel="alternate" type="text/html" title="Syncing Toronto Recreation Schedules to Google Calendar" /><published>2023-02-19T00:00:00-05:00</published><updated>2023-02-19T00:00:00-05:00</updated><id>https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar</id><content type="html" xml:base="https://tallcoleman.me/programming/2023/02/19/syncing-toronto-recreation-schedules-google-calendar.html">&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Swim-Schedule-Sync-Illustration.png&quot; alt=&quot;Illustration showing the schedule for swim programs at North Toronto Memorial Community Centre on the left and the same dates and times synced to a Google Calendar on the right.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Toronto has a wealth of community centres and recreation facilities with great drop-in programs, but the only way to check their schedules electronically is to go to the webpage for your local centre.&lt;/p&gt;
 
@@ -1357,188 +1494,4 @@ Cultural Heritage Materials&lt;/a&gt;. It’s incredible how much care goes into
 &lt;script&gt;function alertsize(pixels, iframeID){pixels+=5;document.getElementById(iframeID).style.height=pixels+&quot;px&quot;;}&lt;/script&gt;
 &lt;iframe id=&quot;iframe-15688531&quot; title=&quot;Concert Format: TSO 2019/20 Season&quot; src=&quot;/assets/Graphs/tso1920formatCT.html&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;I’m looking forward to using this in future posts - I have a couple data sets lined up already. If you think this is interesting, or potentially useful to you, &lt;a href=&quot;/about/#contact&quot;&gt;let me know&lt;/a&gt;!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Programming" /><category term="Music" /><summary type="html">In a previous post, I had made a diagram to show the common structure of orchestra concerts:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deep Dive: Composer Representation in Spotify Classical Playlists (Part One)</title><link href="https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html" rel="alternate" type="text/html" title="Deep Dive: Composer Representation in Spotify Classical Playlists (Part One)" /><published>2021-05-03T00:00:00-04:00</published><updated>2021-05-03T00:00:00-04:00</updated><id>https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one</id><content type="html" xml:base="https://tallcoleman.me/music/2021/05/03/deep-dive-spotify-part-one.html">&lt;h2 id=&quot;the-deep-dive-continues&quot;&gt;The Deep Dive Continues&lt;/h2&gt;
-
-&lt;p&gt;To recap quickly from &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html&quot;&gt;my last post going through the Apple Music playlists&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;My goal for this blog series was to write about ways to explore and enjoy orchestral music. So, as part of going over the Spotify and Apple Music stats in detail, I wanted to highlight the small number of composers in each playlist that were women, Black, Indigenous, and/or people of colour. This way, you can discover more about them and get to know their music.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you’ve just landed here, or haven’t read the Apple Music post, make sure to read &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#using-201920-orchestra-seasons-as-a-benchmark&quot;&gt;the notes explaining the “Average US Orchestra” comparator&lt;/a&gt; I’m using below.&lt;/p&gt;
-
-&lt;h2 id=&quot;spotify&quot;&gt;Spotify&lt;/h2&gt;
-
-&lt;p&gt;Representation of composers on Spotify was a bit better than on Apple Music, especially for composers of colour. The other thing that is notably different between the two platforms is that Spotify has historically had a much stronger focus on mood-themed playlists, so there are more streaming-first artists in some of the playlists I examined.&lt;/p&gt;
-
-&lt;h3 id=&quot;classical-essentials&quot;&gt;Classical Essentials&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Classical Essentials&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;If Average US Orchestra&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tracks&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;172&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Women&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;7 (4.1%)&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;14&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Black / People of Colour&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3 (1.7%)&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Women of Colour&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;none&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Living&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;20 (11.6%)&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;28&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Compared to the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#classical-essentials&quot;&gt;equivalent playlist on Apple Music&lt;/a&gt;, Spotify &lt;em&gt;Classical Essentials&lt;/em&gt; has a slightly higher representation of women composers, and actually has some composers who are Black or people of colour. The proportion of living composers is also significantly higher.&lt;/p&gt;
-
-&lt;h4 id=&quot;samuel-coleridge-taylor-symphonic-variations-on-an-african-air-op63&quot;&gt;Samuel Coleridge-Taylor: Symphonic Variations on an African Air, Op.63&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Samuel_Coleridge-Taylor&quot;&gt;Samuel Coleridge-Taylor&lt;/a&gt; (15 August 1875 – 1 September 1912) was an English composer and conductor.&lt;/p&gt;
-
-  &lt;p&gt;Of mixed race birth, Coleridge-Taylor achieved such success that he was referred to by white New York musicians as the “African Mahler” when he had three tours of the United States in the early 1900s. He was particularly known for his three cantatas on the epic poem, Song of Hiawatha by American Henry Wadsworth Longfellow. Coleridge-Taylor premiered the first section in 1898, when he was 22.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m going to write a whole post on this piece at some point. There are a lot of interesting choices to make in a theme and variations format and I think Coleridge-Taylor does a good job of transforming a spiritual (&lt;em&gt;I’m Troubled in Mind&lt;/em&gt;) into several different styles of music.&lt;/p&gt;
-
-&lt;p&gt;If you want to listen to a version of the source material, you can check out this &lt;a href=&quot;https://www.youtube.com/watch?v=POSaaCOJiq0&quot; target=&quot;_blank&quot;&gt;recording by the Southern University Quartet&lt;/a&gt;. Also important to note that &lt;em&gt;I’m Troubled in Mind&lt;/em&gt; is not the same as &lt;em&gt;Trouble In Mind&lt;/em&gt;, which is a blues standard, though &lt;a href=&quot;https://en.wikipedia.org/wiki/Trouble_in_Mind_(song)#Lyrics_and_composition&quot;&gt;it seems like the two songs are related&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;astor-piazzolla-libertango&quot;&gt;Astor Piazzolla: Libertango&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Astor_Piazzolla&quot;&gt;Astor Pantaleón Piazzolla&lt;/a&gt; (March 11, 1921 – July 4, 1992) was an Argentine tango composer, bandoneon player, and arranger. His works revolutionized the traditional tango into a new style termed Nuevo tango, incorporating elements from jazz and classical music. A virtuoso bandoneonist, he regularly performed his own compositions with a variety of ensembles.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You will perhaps be unsurprised to learn that this song by  “the world’s foremost composer of Tango music” will make you want to dance. The track on Spotify is a &lt;a href=&quot;https://open.spotify.com/track/0mcgXc8P5GyGtP9aY7zir6?si=hWvtm1sbQcarPSoTJbBfgg&quot;&gt;trumpet version by Alison Balsom&lt;/a&gt; but I also highly recommend &lt;a href=&quot;https://www.youtube.com/watch?v=nIN3IE3DHqc&quot;&gt;Grace Jones’ cover&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;takashi-yoshimatsu-saxophone-concerto-op-59-cyber-bird-i-bird-in-colors-allegro&quot;&gt;Takashi Yoshimatsu: Saxophone Concerto, Op. 59, “Cyber-bird”: I. Bird in Colors: Allegro&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Takashi_Yoshimatsu&quot;&gt;Takashi Yoshimatsu&lt;/a&gt; (吉松 隆, Yoshimatsu Takashi) (born March 18, 1953) is a contemporary Japanese composer of classical music. He is well known for composing the 2003 remake of Astro Boy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.bsomusic.org/stories/infographic-the-hierarchy-of-solo-instruments.aspx&quot;&gt;The majority of concertos performed are for piano, violin, and to a slightly lesser extent, cello&lt;/a&gt;. So I would absolutely buy tickets to see this, especially with a name as cool as “Cyber Bird”. It’s an excellent concerto. Also: Yoshimatsu has a bird-themed album with fantastic cover art. How could I not be a fan?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tallcoleman.me/assets/Images/Cover Art - Yoshimatsu Symphonic Exhibition of Birds.jpg&quot; alt=&quot;Tori no Kyohten - Symphonic Exhibition of Birds&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;jess-gillam-merry-christmas-mr-lawrence-arr-metcalfe&quot;&gt;Jess Gillam: Merry Christmas Mr. Lawrence (Arr. Metcalfe)&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Jess_Gillam&quot;&gt;Jess Gillam&lt;/a&gt; (born 24 May 1998) is a British saxophonist and BBC radio broadcaster from Ulverston, Cumbria. Gillam hosts This Classical Life on BBC Radio 3.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Maybe I spent too much time in high school band, but I don’t usually think of Saxophone as a “light and airy” instrument. A really incredible performance here.&lt;/p&gt;
-
-&lt;h4 id=&quot;germaine-tailleferre-string-quartet-i-modere&quot;&gt;Germaine Tailleferre: String Quartet: I. Modere&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Germaine_Tailleferre&quot;&gt;Germaine Tailleferre&lt;/a&gt; (born Marcelle Germaine Taillefesse; 19 April 1892 – 7 November 1983) was a French composer and the only female member of the group of composers known as Les Six.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The melodies in this quartet are a little abstract for my taste, but I do really like how it feels like a story told through a number of sometimes-complex emotional states. The history of &lt;em&gt;Les Six&lt;/em&gt; is also pretty fascinating, including their role in popularizing &lt;a href=&quot;https://en.wikipedia.org/wiki/Le_Boeuf_sur_le_Toit_(cabaret)&quot;&gt;&lt;em&gt;Le Boeuf sur le Toit&lt;/em&gt;, a bar that was “the epicenter of the Paris of the Roaring Twenties”&lt;/a&gt;. This bar apparently originated the French expression for musicians to jam together: &lt;a href=&quot;https://www.collinsdictionary.com/dictionary/english-french/jam&quot;&gt;“faire un boeuf”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;nadia-boulanger-3-pieces-for-cello-and-piano-no-1-modere&quot;&gt;Nadia Boulanger: 3 Pieces for cello and piano: No. 1. Modere&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nadia_Boulanger&quot;&gt;Juliette Nadia Boulanger&lt;/a&gt; (16 September 1887 – 22 October 1979) was a French composer, conductor, and teacher. She is notable for having taught many of the leading composers and musicians of the 20th century. She also performed occasionally as a pianist and organist.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I think this is really beautiful, and it makes excellent use of the cello’s upper range. The other two parts of the &lt;em&gt;3 Pieces&lt;/em&gt; are also worth a listen: #2 is lyrical and sweet, and #3 is energetic and fun.&lt;/p&gt;
-
-&lt;p&gt;Nadia’s &lt;em&gt;Lux Aeterna&lt;/em&gt; was also featured on the &lt;a href=&quot;/music/2021/03/01/deep-dive-apple-music.html#lili-boulanger--nadia-boulanger-lux-aeterna-for-voice-harp-violin-and-cello&quot;&gt;Apple Music Classical Essentials playlist&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;louise-farrenc-nonet-in-e-flat-major-op-38-iii-scherzo-vivace&quot;&gt;Louise Farrenc: Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Louise_Farrenc&quot;&gt;Louise Farrenc&lt;/a&gt; (née Jeanne-Louise Dumont; 31 May 1804 – 15 September 1875) was a French composer, virtuoso pianist and teacher.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nine is an interesting number of musicians to have — you can blur the line between chamber and small-orchestra music. Farrenc’s Nonet, which uses the most common instrumentation of combining a wind quintet with a string quartet (with a double bass instead of a second violin) is essentially a symphony, with fewer players. She wrote it after already completing three symphonies, and I think it shows in her talented use of form and different instrumental voices.&lt;/p&gt;
-
-&lt;p&gt;Listening to this made me think about one of the things that’s interesting about orchestral music, which is that instruments can serve so many different roles during one piece. Sometimes it’s establishing rhythm, sometimes it’s providing harmony, sometimes it’s playing the melody, and other times it’s playing for accent or effect.&lt;/p&gt;
-
-&lt;h4 id=&quot;jessica-curry-finding-the-pattern&quot;&gt;Jessica Curry: Finding the Pattern&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Jessica_Curry&quot;&gt;Jessica Curry&lt;/a&gt; (born c. 1973) is an English composer, radio presenter and former co-head of the British video game development studio The Chinese Room. She won a BAFTA award in 2016 for her score for the video game &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is the most popular track from the &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt; video game (on Spotify anyway). I’ll have to ask my girlfriend nicely to borrow her Windows computer so I can play this game. Several of the reviews I read about it mention how good the music is and how well it was used to emphasize emotional moments.&lt;/p&gt;
-
-&lt;p&gt;It must have been bittersweet to win a BAFTA after &lt;a href=&quot;https://web.archive.org/web/20160402170520/http://www.thechineseroom.co.uk/blog/blog/why-im-sort-of-leaving-the-chinese-room&quot;&gt;announcing she would be distancing herself from The Chinese Room&lt;/a&gt; because of her health and because her experiences as a woman in the video game industry were so awful. However, judging by &lt;a href=&quot;https://www.jessicacurry.co.uk/&quot;&gt;the projects listed on her website&lt;/a&gt;, it looks like she was successful in broadening her music-making beyond video games, with a number of interesting standalone pieces and commissions.&lt;/p&gt;
-
-&lt;p&gt;After The Chinese Room went through a rebirth and new ownership, Curry composed music for their 2020 game, &lt;em&gt;Little Orpheus&lt;/em&gt;, which was released on Apple Arcade. Unfortunately, like with &lt;em&gt;Everybody’s Gone to the Rapture&lt;/em&gt;, I don’t have the right device to play it: my iPhone is too old &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and I haven’t upgraded my mac to Catalina yet.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; After more than five years of dutiful service, my iPhone 6 died, so I was able to play a couple levels of &lt;em&gt;Little Orpheus&lt;/em&gt; on my new phone. The soundtrack is pretty good, and you can &lt;a href=&quot;https://open.spotify.com/album/4IA6Bfoh3204cQrL58aqtK?si=kJPIfwZhRGWAa6PPCQr38A&quot;&gt;listen to it on Spotify&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Although you can find a soundtrack album for most video games, sometimes part of the experience is missing if you just listen to the music and haven’t played the game before. If you’ve played the game, your memories of the entire experience, including the gameplay and the visuals, become part of the listening experience. In addition, sometimes there’s clever integration of the gameplay with the music.&lt;/p&gt;
-
-&lt;p&gt;For example, (if I remember correctly), there’s a part where you’re hiding in a giant eggshell and trying to cross a bridge without being seen by a guard. When the guard is looking away, and you need to move, the music gets louder and more energetic. When the guard looks over at the bridge — and you need to drop down and hide yourself under the egg — it becomes very quiet, adding to the tension of trying not to be discovered. I think the track from the soundtrack album is &lt;a href=&quot;https://open.spotify.com/track/5eOK2lcWoMBSjCDo3zaQJs?si=5e22f618498748b6&quot;&gt;&lt;em&gt;Stealing Eggs&lt;/em&gt;&lt;/a&gt;. Either the shift in dynamics is programmatically triggered, as is &lt;a href=&quot;https://www.musicnotes.com/now/omg/adaptive-video-game-scores/&quot;&gt;common in video game music&lt;/a&gt;, or the music is perfectly timed to the gameplay cycle. Either way, it’s a neat effect.&lt;/p&gt;
-
-&lt;h4 id=&quot;amy-beach-young-birches-op-128-no-2&quot;&gt;Amy Beach: Young Birches, Op. 128, No. 2&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Amy_Beach&quot;&gt;Amy Marcy Cheney Beach&lt;/a&gt; (September 5, 1867 – December 27, 1944) was an American composer and pianist. She was the first successful American female composer of large-scale art music. Her “Gaelic” Symphony, premiered by the Boston Symphony Orchestra in 1896, was the first symphony composed and published by an American woman. She was one of the first American composers to succeed without the benefit of European training, and one of the most respected and acclaimed American composers of her era. As a pianist, she was acclaimed for concerts she gave featuring her own music in the United States and in Germany.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is actually part of a set of three nature-themed piano pieces (the other two are about a chipmunk and a hummingbird, respectively). I love program music and Amy Beach does a great job of capturing the essence of these animals and plants in this trio.&lt;/p&gt;
-
-&lt;h4 id=&quot;barbara-strozzi-amor-dormiglione&quot;&gt;Barbara Strozzi: Amor dormiglione&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Barbara_Strozzi&quot;&gt;Barbara Strozzi&lt;/a&gt; (also called Barbara Valle; baptised 6 August 1619  – 11 November 1677) was an Italian singer and composer of the Baroque Period. During her lifetime, Strozzi published eight volumes of her own music, having more music in print than any other composer of the era. This was made possible without any support from the Church or consistent patronage of the nobility.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m not usually a fan of Baroque music, but I like this piece. It has big folk song energy. Apparently the title means something along the lines of “sleepy cupid”; you can read a &lt;a href=&quot;https://barbarastrozzi.com/piece/amor-dormiglione/&quot;&gt;translation of the lyrics&lt;/a&gt; if you’re interested.&lt;/p&gt;
-
-&lt;p&gt;Barbara Strozzi is one of several women composers profiled in Anna Beer’s &lt;a href=&quot;https://oneworld-publications.com/sounds-and-sweet-airs-pb.html&quot;&gt;&lt;em&gt;Sounds And Sweet Airs: The Forgotten Women Of Classical Music&lt;/em&gt;&lt;/a&gt;, which is a book I was able to read part of before having to return it to the library. I’ll have to take it out again soon and re-read the Strozzi chapter.&lt;/p&gt;
-
-&lt;h2 id=&quot;ai-cant-make-up-for-missing-metadata&quot;&gt;AI can’t make up for missing metadata&lt;/h2&gt;
-
-&lt;p&gt;One thing that’s true about nearly all of the pieces listed here (but that I only noticed with the Amy Beach piece) — you can really see the effect of placement on an official playlist. Amy Beach’s &lt;em&gt;Young Birches&lt;/em&gt; has nearly 2 million plays, whereas &lt;em&gt;A Peterboro Chipmunk&lt;/em&gt; and &lt;em&gt;A Humming Bird&lt;/em&gt; only average about 2,000 each. Similar orders of magnitude can be found for the other tracks that are part of a larger work.&lt;/p&gt;
-
-&lt;p&gt;As a quick experiment, I tried looking through the song radio for some of the tracks on this playlist to see if the other movements would show up. In a couple cases they did (e.g. the second movement of Nadia Boulanger’s &lt;em&gt;3 Pieces&lt;/em&gt; is #11 on song radio for the first movement), but in most cases, the other movements from the same piece were absent.&lt;/p&gt;
-
-&lt;p&gt;A large part of this may be due to the fact that Spotify has no metadata to describe multi-movement pieces of music (Apple Music does, which is why movements from the same symphony are grouped in their UI). Perhaps if they did, it would be a useful signal for song radio. Goodness knows - if they can generate a logistic variable for “danceability”, they can probably manage a field or two to indicate tracks that should be grouped together.&lt;/p&gt;
-
-&lt;h2 id=&quot;up-next&quot;&gt;Up next&lt;/h2&gt;
-
-&lt;p&gt;Part two of the Spotify deep dive will look at the &lt;em&gt;Orchestra 100: Spotify Picks&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;playlist-methodology-and-data&quot;&gt;Playlist, Methodology, and Data&lt;/h2&gt;
-
-&lt;p&gt;You can listen to all of the pieces featured in this playlist analysis series here: &lt;a href=&quot;https://open.spotify.com/playlist/6vQwkvRqWbGEF5IKZmC6na?si=1829c2da26b84f03&quot;&gt;Spotify: Classical Deep Dive - Spotify &amp;amp; Apple Music&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Full methodology notes for all my music posts can be found via the &lt;a href=&quot;/exploring-orchestral-music-methodology/&quot;&gt;Main Methodology Page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Details and data for the streaming service playlists analysis can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/streaming-service-demographic-analysis.html&quot;&gt;Streaming Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;More details about how I used the data from the Institute for Composer Diversity to create the comparison to US orchestra mainstage seasons can be found on the &lt;a href=&quot;/exploring-orchestral-music-methodology/ICD-orchestra-season-analysis.html&quot;&gt;ICD 2019/20 Season Analysis Methodology Page&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;My iPhone 6 has had a longer useful life than the Nokia brick I had as a teenager, which is pretty impressive. I’m going to hold on to that headphone jack for as long as I can. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Ben Coleman</name></author><category term="Music" /><summary type="html">The Deep Dive Continues</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I’m looking forward to using this in future posts - I have a couple data sets lined up already. If you think this is interesting, or potentially useful to you, &lt;a href=&quot;/about/#contact&quot;&gt;let me know&lt;/a&gt;!&lt;/p&gt;</content><author><name>Ben Coleman</name></author><category term="Programming" /><category term="Music" /><summary type="html">In a previous post, I had made a diagram to show the common structure of orchestra concerts:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" /><media:content medium="image" url="https://tallcoleman.me/assets/Images/Ben-By-High-Park-Pond-Birdwatching.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
