@@ -144,7 +144,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 15px;
+  font-size: 10.5pt;
   border: 1px solid #bbbbbb;
   border-radius: 3px;
   background-color: #eef; }
@@ -765,15 +765,13 @@ div.footnotes::before {
       font-size: 28px; } }
 
 article.post table {
+  font-size: 11.25pt;
   border-collapse: separate;
   width: 100%;
   margin-bottom: 20px;
   border: 1px solid #356fb9;
   border-spacing: 0;
   border-radius: 5px; }
-  @media screen and (max-width: 600px) {
-    article.post table * {
-      font-size: 11.25pt; } }
   article.post table th, article.post table td {
     padding: 2pt 6pt 2pt 6pt; }
   article.post table > thead {
