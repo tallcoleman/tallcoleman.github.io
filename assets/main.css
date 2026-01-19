@@ -765,22 +765,13 @@ div.footnotes::before {
       font-size: 28px; } }
 
 article.post table {
-  font-size: 15.9375px;
-  border-collapse: separate;
+  margin-bottom: 15px;
   width: 100%;
-  margin-bottom: 20px;
-  border: 1px solid #356fb9;
+  border-collapse: separate;
   border-spacing: 0;
-  border-radius: 5px; }
-  article.post table th, article.post table td {
-    padding: 2.8333333333px 8.5px 2.8333333333px 8.5px; }
-  article.post table > thead {
-    background-color: #b6cdea;
-    color: #020407; }
-    article.post table > thead th {
-      border-bottom: 1px solid #356fb9; }
-  article.post table > tbody > tr:nth-child(even) {
-    background-color: #eeeeee; }
+  border: 1px solid #356fb9;
+  border-radius: 5px;
+  font-size: 15.9375px; }
   article.post table th:first-of-type {
     border-top-left-radius: 4px; }
   article.post table th:last-of-type {
@@ -789,6 +780,44 @@ article.post table {
     border-bottom-left-radius: 4px; }
   article.post table tr:last-of-type td:last-of-type {
     border-bottom-right-radius: 4px; }
+  article.post table th,
+  article.post table td {
+    padding: 2.8333333333px 8.5px; }
+  article.post table thead,
+  article.post table tfoot {
+    font-weight: bold;
+    background-color: #b6cdea;
+    color: #020407; }
+  article.post table thead th {
+    border-bottom: 1px solid #356fb9; }
+  article.post table tfoot tr {
+    border-top: 1px solid #356fb9; }
+  article.post table tbody tr:nth-child(even) {
+    background-color: #eeeeee; }
+  article.post table tbody tr.subtotal {
+    font-weight: bold;
+    background-color: #dee8f6; }
+  article.post table tbody.subsection::after {
+    content: "";
+    display: block;
+    margin-bottom: 1rem; }
+  article.post table th.left-align,
+  article.post table td.left-align {
+    text-align: left; }
+  article.post table th.center-align,
+  article.post table td.center-align {
+    text-align: center; }
+  article.post table th.right-align,
+  article.post table td.right-align {
+    text-align: right; }
+article.post details.table-notes {
+  padding: 2.8333333333px 8.5px;
+  margin-bottom: 15px;
+  border: 1px solid #555;
+  border-radius: 5px;
+  font-size: 15.9375px;
+  color: #151515;
+  background-color: #eeeeee; }
 
 /**
  * Definitions
